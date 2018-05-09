@@ -11,6 +11,8 @@ post_date: 2017-03-27 04:23:32
 ---
 [su_tooltip style="green" position="north" shadow="yes" rounded="yes" size="6" title="Notice" content="The Terms are being established, at present, Creative Commons Copyright applies." behavior="always"][su_button] The Terms are being established, at present, Creative Commons Copyright applies. [/su_button][/su_tooltip]
 
+<strong>[my_terms_of_service]</strong>
+
 Terms and conditions of use
 
 Introduction
