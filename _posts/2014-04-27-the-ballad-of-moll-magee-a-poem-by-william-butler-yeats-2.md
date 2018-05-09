@@ -1,0 +1,156 @@
+---
+ID: 7464
+post_title: >
+  The Ballad of Moll Magee, a Poem by
+  William Butler Yeats,
+author: UfU
+post_excerpt: |
+  Come round me, little childer;
+  There, don't fling stones at me
+  Because I mutter as I go;
+  But pity Moll Magee.
+  
+  My man was a poor fisher
+  With shore lines in the say;
+  My work was saltin' herrings
+  The whole of the long day.
+  
+  And sometimes from the saltin' shed
+  I scarce could drag my feet,
+  Under the blessed moonlight,
+  Along the pebbly street.
+  
+  I'd always been but weakly,
+  And my baby was just born;
+  A neighbour minded her by day,
+  I minded her till morn.
+  
+  I lay upon my baby;
+  Ye little childer dear,
+  I looked on my cold baby
+  When the morn grew frosty and clear.
+  
+  A weary woman sleeps so hard!
+  My man grew red and pale,
+  And gave me money, and bade me go
+  To my own place, Kinsale.
+  
+  He drove me out and shut the door,
+  And gave his curse to me;
+  I went away in silence,
+  No neighbour could I see.
+  
+  The windows and the doors were shut,
+  One star shone faint and green,
+  The little straws were turnin' round
+  Across the bare boreen.
+  
+  I went away in silence;
+  Beyond old Martin's byre
+  I saw a kindly neighbour
+  Blowin' her mornin' fire.
+  
+  She drew from me my story—
+  My money's all used up,
+  And still, with pityin', scornin' eye,
+  She gives me bite and sup.
+  
+  She says my man will surely come
+  And fetch me home agin;
+  But always, as I'm movin' round,
+  Without doors or within,
+  
+  Pilin' the wood or pilin' the turf,
+  Or goin' to the well,
+  I'm thinkin' of my baby
+  And keenin' to mysel'.
+  
+  And sometimes I am sure she knows
+  When, openin' wide His door,
+  God lights the stars, His candles,
+  And looks upon the poor.
+  
+  So now, ye little childer,
+  Ye won't fling stones at me;
+  But gather with your shinin' looks
+  And pity Moll Magee.
+  -End-
+  The Ballad of Moll Magee, a Poem by William Butler Yeats, Audiobook
+layout: post
+permalink: >
+  http://universalflowuniversity.com/entertainment/the-ballad-of-moll-magee-a-poem-by-william-butler-yeats-2/
+published: true
+post_date: 2014-04-27 12:33:42
+---
+[embed]https://www.youtube.com/watch?v=eCrk-PPTx-A[/embed]</br></br>
+<p>Come round me, little childer;
+There, don't fling stones at me
+Because I mutter as I go;
+But pity Moll Magee.
+
+My man was a poor fisher
+With shore lines in the say;
+My work was saltin' herrings
+The whole of the long day.
+
+And sometimes from the saltin' shed
+I scarce could drag my feet,
+Under the blessed moonlight,
+Along the pebbly street.
+
+I'd always been but weakly,
+And my baby was just born;
+A neighbour minded her by day,
+I minded her till morn.
+
+I lay upon my baby;
+Ye little childer dear,
+I looked on my cold baby
+When the morn grew frosty and clear. 
+
+A weary woman sleeps so hard!
+My man grew red and pale,
+And gave me money, and bade me go
+To my own place, Kinsale.
+
+He drove me out and shut the door,
+And gave his curse to me;
+I went away in silence,
+No neighbour could I see.
+
+The windows and the doors were shut,
+One star shone faint and green,
+The little straws were turnin' round
+Across the bare boreen.
+
+I went away in silence;
+Beyond old Martin's byre
+I saw a kindly neighbour
+Blowin' her mornin' fire.
+
+She drew from me my story—
+My money's all used up,
+And still, with pityin', scornin' eye,
+She gives me bite and sup.
+
+She says my man will surely come
+And fetch me home agin;
+But always, as I'm movin' round,
+Without doors or within,
+
+Pilin' the wood or pilin' the turf,
+Or goin' to the well,
+I'm thinkin' of my baby
+And keenin' to mysel'.
+
+And sometimes I am sure she knows
+When, openin' wide His door,
+God lights the stars, His candles,
+And looks upon the poor.
+
+So now, ye little childer,
+Ye won't fling stones at me;
+But gather with your shinin' looks
+And pity Moll Magee.
+-End-
+The Ballad of Moll Magee, a Poem by William Butler Yeats, Audiobook</p>

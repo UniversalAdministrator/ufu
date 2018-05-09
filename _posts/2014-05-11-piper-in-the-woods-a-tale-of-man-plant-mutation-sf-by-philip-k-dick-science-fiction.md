@@ -1,0 +1,19 @@
+---
+ID: 7330
+post_title: >
+  Piper in the Woods (a Tale of Man-Plant
+  Mutation), SF , by Philip K. Dick,
+  Science Fiction
+author: UfU
+post_excerpt: >
+  Piper in the Woods (a Tale of Man-Plant
+  Mutation), SF Audiobook, by Philip K.
+  Dick, Science Fiction
+layout: post
+permalink: >
+  http://universalflowuniversity.com/entertainment/piper-in-the-woods-a-tale-of-man-plant-mutation-sf-by-philip-k-dick-science-fiction/
+published: true
+post_date: 2014-05-11 12:30:02
+---
+[embed]https://www.youtube.com/watch?v=N8QtgkJK8qU[/embed]</br></br>
+<p>Piper in the Woods (a Tale of Man-Plant Mutation), SF Audiobook, by Philip K. Dick, Science Fiction</p>

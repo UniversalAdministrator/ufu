@@ -1,0 +1,13 @@
+---
+ID: 4465
+post_title: 'Loyal, Even Unto Death [Japanese Legend Audiobook]'
+author: UfU
+post_excerpt: '[Japanese Legend Audiobook] Loyal, Even Unto Death (AKA: The Sugawara Tragedy) (from the collection "Romances of Old Japan" by Yei Theodora Ozaki)'
+layout: post
+permalink: >
+  http://universalflowuniversity.com/entertainment/loyal-even-unto-death-japanese-legend-audiobook/
+published: true
+post_date: 2016-12-15 15:28:20
+---
+[embed]https://www.youtube.com/watch?v=x0JVIxfJbSA[/embed]<br>
+<p>[Japanese Legend Audiobook] Loyal, Even Unto Death (AKA: The Sugawara Tragedy) (from the collection "Romances of Old Japan" by Yei Theodora Ozaki)</p>
