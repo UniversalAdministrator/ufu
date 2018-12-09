@@ -1,12 +1,14 @@
 ---
-ID: 1336
+---
+ID: 391
 post_title: Edit account
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/customer-area/my-account/edit-account/
-published: true
+post_name: edit-account
 post_date: 2017-04-15 17:10:24
+layout: page
+link: >
+  https://universalflowuniversity.com/edit-account/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [customer-area-account-edit /]
