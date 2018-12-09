@@ -1,12 +1,14 @@
 ---
-ID: 1348
+---
+ID: 386
 post_title: Donation Confirmation
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/donation-confirmation/
-published: true
+post_name: donation-confirmation
 post_date: 2017-04-15 22:20:47
+layout: page
+link: >
+  https://universalflowuniversity.com/donation-confirmation/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [give_receipt]
