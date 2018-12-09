@@ -1,12 +1,14 @@
 ---
-ID: 242
+---
+ID: 428
 post_title: Membership Cancel
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/membership-account/membership-cancel/
-published: true
+post_name: membership-cancel
 post_date: 2017-02-13 03:50:11
+layout: page
+link: >
+  https://universalflowuniversity.com/membership-cancel/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [pmpro_cancel]
