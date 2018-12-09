@@ -1,12 +1,14 @@
 ---
-ID: 1330
+---
+ID: 398
 post_title: Files
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/customer-area/files/
-published: true
+post_name: files
 post_date: 2017-04-15 17:10:24
+layout: page
+link: >
+  https://universalflowuniversity.com/files/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [customer-area-private-files-home /]
