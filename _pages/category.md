@@ -1,12 +1,14 @@
 ---
-ID: 7051
+---
+ID: 374
 post_title: Category
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/manage-files/category/
-published: true
+post_name: category
 post_date: 2018-02-08 20:22:10
+layout: page
+link: >
+  https://universalflowuniversity.com/category/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [mv_categories]
