@@ -1,12 +1,14 @@
 ---
-ID: 241
+---
+ID: 427
 post_title: Membership Billing
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/membership-account/membership-billing/
-published: true
+post_name: membership-billing
 post_date: 2017-02-13 03:50:11
+layout: page
+link: >
+  https://universalflowuniversity.com/membership-billing/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [pmpro_billing]
