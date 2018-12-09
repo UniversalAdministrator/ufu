@@ -1,12 +1,14 @@
 ---
-ID: 1350
+---
+ID: 388
 post_title: Donation History
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/donation-history/
-published: true
+post_name: donation-history
 post_date: 2017-04-15 22:20:48
+layout: page
+link: >
+  https://universalflowuniversity.com/donation-history/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [donation_history]
