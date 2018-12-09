@@ -1,12 +1,14 @@
 ---
-ID: 3666
+---
+ID: 385
 post_title: Documents
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/documents/
-published: true
+post_name: documents
 post_date: 2017-12-02 07:34:21
+layout: page
+link: >
+  https://universalflowuniversity.com/documents/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [sp-client-document-manager]
