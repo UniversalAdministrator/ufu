@@ -1,12 +1,14 @@
 ---
-ID: 1324
+---
+ID: 395
 post_title: Feedback
-author: UfU
-post_excerpt: ""
-layout: page
-permalink: >
-  http://universalflowuniversity.com/feedback/
-published: true
+post_name: feedback
 post_date: 2017-04-14 03:55:24
+layout: page
+link: >
+  https://universalflowuniversity.com/feedback/
+published: true
+tags: [ ]
+categories: [ ]
 ---
 [feedback]
