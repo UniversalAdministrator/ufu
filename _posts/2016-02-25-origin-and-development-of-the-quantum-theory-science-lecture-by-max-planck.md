@@ -1,11 +1,11 @@
 ---
-ID: 4851
+ID: 2851
 post_title: 'Origin and Development of the Quantum Theory [Science Lecture] by Max Planck'
-author: UfU
-post_excerpt: 'Origin and Development of the Quantum Theory [Science Lecture Audiobook] by Max Planck'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/origin-and-development-of-the-quantum-theory-science-lecture-by-max-planck/
+  https://universalflowuniversity.com/uncategorized/origin-and-development-of-the-quantum-theory-science-lecture-by-max-planck/
 published: true
 post_date: 2016-02-25 23:04:30
 ---

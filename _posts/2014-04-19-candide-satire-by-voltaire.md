@@ -1,11 +1,11 @@
 ---
-ID: 8178
+ID: 1165
 post_title: Candide, Satire , by Voltaire
-author: UfU
-post_excerpt: Candide, Satire Audiobook, by Voltaire
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/candide-satire-by-voltaire/
+  https://universalflowuniversity.com/uncategorized/candide-satire-by-voltaire/
 published: true
 post_date: 2014-04-19 13:30:39
 ---

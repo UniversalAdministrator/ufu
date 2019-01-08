@@ -1,11 +1,11 @@
 ---
-ID: 579
+ID: 3357
 post_title: The Four Stages of Spiritual Growth
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/humanities/religion/the-four-stages-of-spiritual-growth/
+  https://universalflowuniversity.com/uncategorized/the-four-stages-of-spiritual-growth/
 published: true
 post_date: 2017-02-20 08:21:20
 ---

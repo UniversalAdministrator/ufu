@@ -1,16 +1,13 @@
 ---
-ID: 6412
+ID: 1583
 post_title: >
   The Creature from Beyond Infinity, SF ,
   Science Fiction, by Henry Kuttner
-author: UfU
-post_excerpt: >
-  The Creature from Beyond Infinity, SF
-  Audiobook, Science Fiction, by Henry
-  Kuttner
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-creature-from-beyond-infinity-sf-science-fiction-by-henry-kuttner/
+  https://universalflowuniversity.com/uncategorized/the-creature-from-beyond-infinity-sf-science-fiction-by-henry-kuttner/
 published: true
 post_date: 2014-07-20 11:44:12
 ---

@@ -1,15 +1,13 @@
 ---
-ID: 8013
+ID: 1117
 post_title: >
   To Build a Fire (a Cautionary Tale),
   Survival , by Jack London
-author: UfU
-post_excerpt: >
-  To Build a Fire (a Cautionary Tale),
-  Survival Audiobook, by Jack London
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/to-build-a-fire-a-cautionary-tale-survival-by-jack-london/
+  https://universalflowuniversity.com/uncategorized/to-build-a-fire-a-cautionary-tale-survival-by-jack-london/
 published: true
 post_date: 2014-04-12 12:32:04
 ---

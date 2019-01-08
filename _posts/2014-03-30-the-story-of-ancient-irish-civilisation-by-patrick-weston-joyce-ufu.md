@@ -1,13 +1,11 @@
 ---
-ID: 9398
+ID: 999
 post_title: 'The Story of Ancient Irish Civilisation,  by Patrick Weston Joyce #UfU'
-author: UfU
-post_excerpt: >
-  The Story of Ancient Irish Civilisation,
-  Audiobook by Patrick Weston Joyce
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-story-of-ancient-irish-civilisation-by-patrick-weston-joyce-ufu/
+  https://universalflowuniversity.com/uncategorized/the-story-of-ancient-irish-civilisation-by-patrick-weston-joyce-ufu/
 published: true
 post_date: 2014-03-30 12:56:21
 ---

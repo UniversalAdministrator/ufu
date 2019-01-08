@@ -1,18 +1,14 @@
 ---
-ID: 8274
+ID: 903
 post_title: >
   From Passion to Peace, How to Overcome
   Negativity in Your Mind,
   Self-Development
-author: UfU
-post_excerpt: >
-  From Passion to Peace, How to Overcome
-  Negativity in Your Mind,
-  Self-Development Audiobook, by James
-  Allen
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/from-passion-to-peace-how-to-overcome-negativity-in-your-mind-self-development/
+  https://universalflowuniversity.com/uncategorized/from-passion-to-peace-how-to-overcome-negativity-in-your-mind-self-development/
 published: true
 post_date: 2014-03-20 12:54:35
 ---

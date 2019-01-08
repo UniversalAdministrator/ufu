@@ -1,11 +1,11 @@
 ---
-ID: 5365
+ID: 2327
 post_title: '[Demonology Audiobook] The Eater of Dreams (Japanese Demonology)'
-author: UfU
-post_excerpt: '[Demonology Audiobook] The Eater of Dreams (from "Kottō : being Japanese curios, with sundry cobwebs") Edited by Lafcadio Hearn'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/demonology-audiobook-the-eater-of-dreams-japanese-demonology/
+  https://universalflowuniversity.com/uncategorized/demonology-audiobook-the-eater-of-dreams-japanese-demonology/
 published: true
 post_date: 2015-06-22 21:16:41
 ---

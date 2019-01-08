@@ -1,17 +1,14 @@
 ---
-ID: 9328
+ID: 685
 post_title: >
   A Moonlit Road; Horror , Gothic,
   Suspense, by Ambrose Bierce,
   Supernatural
-author: UfU
-post_excerpt: >
-  A Moonlit Road; Horror Audiobook,
-  Gothic, Suspense, by Ambrose Bierce,
-  Supernatural
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-moonlit-road-horror-gothic-suspense-by-ambrose-bierce-supernatural/
+  https://universalflowuniversity.com/uncategorized/a-moonlit-road-horror-gothic-suspense-by-ambrose-bierce-supernatural/
 published: true
 post_date: 2014-02-21 12:59:23
 ---

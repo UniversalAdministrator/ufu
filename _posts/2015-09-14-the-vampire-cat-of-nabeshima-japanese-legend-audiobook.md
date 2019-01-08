@@ -1,11 +1,11 @@
 ---
-ID: 5471
+ID: 2505
 post_title: 'The Vampire Cat of Nabeshima [Japanese Legend Audiobook]'
-author: UfU
-post_excerpt: '[Japanese Legend Audiobook] The Vampire Cat of Nabeshima, Edited by Algernon Bertram Freeman-Mitford'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-vampire-cat-of-nabeshima-japanese-legend-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-vampire-cat-of-nabeshima-japanese-legend-audiobook/
 published: true
 post_date: 2015-09-14 02:41:10
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 4927
+ID: 2715
 post_title: '[Norse Legend] Werewolves in Norway and Sweden (Audiobook)'
-author: UfU
-post_excerpt: |
-  This legend was narrated for the English audience by the occult and ghost writer Elliott O'Donnell in 1912.
-  [Norse Legend] Werwolves in Norway and Sweden (Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/norse-legend-werewolves-in-norway-and-sweden-audiobook/
+  https://universalflowuniversity.com/uncategorized/norse-legend-werewolves-in-norway-and-sweden-audiobook/
 published: true
 post_date: 2015-12-20 22:42:45
 ---

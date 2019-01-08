@@ -1,13 +1,11 @@
 ---
-ID: 4595
+ID: 3109
 post_title: '[Mythology of Time, Big Bang and Eternal Return &#038; Loops of Time] The Revolutions of Time (Audiobook)'
-author: UfU
-post_excerpt: |
-  This is certainly a very interesting book. Very clever merging of mythology and cutting edge science makes this book a great listen for those who enjoy expanding their mental horizons.
-  [Mythology of Time, Big Bang and Eternal Return & Loops of Time] The Revolutions of Time (Audiobook) by Jonathan Dunn.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mythology-of-time-big-bang-and-eternal-return-loops-of-time-the-revolutions-of-time-audiobook/
+  https://universalflowuniversity.com/uncategorized/mythology-of-time-big-bang-and-eternal-return-loops-of-time-the-revolutions-of-time-audiobook/
 published: true
 post_date: 2016-08-18 23:32:38
 ---

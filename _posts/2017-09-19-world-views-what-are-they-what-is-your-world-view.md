@@ -1,13 +1,13 @@
 ---
-ID: 3276
+ID: 3661
 post_title: >
   World Views What are they? What is your
   world view?
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/world-views-what-are-they-what-is-your-world-view/
+  https://universalflowuniversity.com/uncategorized/world-views-what-are-they-what-is-your-world-view/
 published: true
 post_date: 2017-09-19 17:05:11
 ---

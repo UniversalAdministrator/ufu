@@ -1,11 +1,11 @@
 ---
-ID: 8151
+ID: 1355
 post_title: '[Occult Lecture] Spirit Possession (Invisible Forces &#038; Psychic Phenomena),'
-author: UfU
-post_excerpt: '[Occult Lecture] Spirit Possession (Invisible Forces & the Other Side of Psychic Phenomena), Audiobook by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-spirit-possession-invisible-forces-psychic-phenomena/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-spirit-possession-invisible-forces-psychic-phenomena/
 published: true
 post_date: 2014-05-17 11:51:44
 ---

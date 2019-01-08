@@ -1,11 +1,11 @@
 ---
-ID: 5049
+ID: 3031
 post_title: '[A Strange Tale by a Protégé of H. P. Lovecraft] The Sky Trap (Audiobook by Frank Belknap Long)'
-author: UfU
-post_excerpt: '[A Strange Tale by a Protégé of H. P. Lovecraft] The Sky Trap (Audiobook by Frank Belknap Long)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-strange-tale-by-a-protege-of-h-p-lovecraft-the-sky-trap-audiobook-by-frank-belknap-long/
+  https://universalflowuniversity.com/uncategorized/a-strange-tale-by-a-protege-of-h-p-lovecraft-the-sky-trap-audiobook-by-frank-belknap-long/
 published: true
 post_date: 2016-06-19 17:39:55
 ---

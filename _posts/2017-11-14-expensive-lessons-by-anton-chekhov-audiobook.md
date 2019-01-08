@@ -1,15 +1,13 @@
 ---
-ID: 4169
+ID: 3739
 post_title: >
   Expensive Lessons (by Anton Chekhov)
   Audiobook
-author: UfU
-post_excerpt: >
-  Expensive Lessons (by Anton Chekhov)
-  Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/expensive-lessons-by-anton-chekhov-audiobook/
+  https://universalflowuniversity.com/uncategorized/expensive-lessons-by-anton-chekhov-audiobook/
 published: true
 post_date: 2017-11-14 15:45:34
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 7286
+ID: 1537
 post_title: 'The Perfect Wagnerite (Philosophical Analysis on Wagner &#038; His Music), , by Bernard Shaw'
-author: UfU
-post_excerpt: 'The Perfect Wagnerite (Philosophical Analysis on Wagner & His Music), Audiobook, by George Bernard Shaw'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-perfect-wagnerite-philosophical-analysis-on-wagner-his-music-by-bernard-shaw/
+  https://universalflowuniversity.com/uncategorized/the-perfect-wagnerite-philosophical-analysis-on-wagner-his-music-by-bernard-shaw/
 published: true
 post_date: 2014-07-04 11:31:57
 ---

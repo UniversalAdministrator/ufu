@@ -1,17 +1,14 @@
 ---
-ID: 9037
+ID: 785
 post_title: >
   Only the Dead Die Twice, Horror Radio
   Show, Inner Sanctum Mystery, Suspense,
   Macabre
-author: UfU
-post_excerpt: >
-  Only the Dead Die Twice, Horror Radio
-  Show, Inner Sanctum Mystery, Suspense,
-  Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/only-the-dead-die-twice-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
+  https://universalflowuniversity.com/uncategorized/only-the-dead-die-twice-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
 published: true
 post_date: 2014-03-04 12:35:51
 ---

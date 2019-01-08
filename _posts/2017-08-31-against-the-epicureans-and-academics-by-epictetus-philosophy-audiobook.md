@@ -1,15 +1,13 @@
 ---
-ID: 4161
+ID: 3631
 post_title: >
   Against the Epicureans and Academics (by
   Epictetus) Philosophy Audiobook
-author: UfU
-post_excerpt: >
-  Against the Epicureans and Academics (by
-  Epictetus) Philosophy Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/against-the-epicureans-and-academics-by-epictetus-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/against-the-epicureans-and-academics-by-epictetus-philosophy-audiobook/
 published: true
 post_date: 2017-08-31 12:05:02
 ---

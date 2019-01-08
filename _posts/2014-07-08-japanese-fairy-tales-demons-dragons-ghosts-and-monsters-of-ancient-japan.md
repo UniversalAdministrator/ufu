@@ -1,16 +1,13 @@
 ---
-ID: 6486
+ID: 1549
 post_title: >
   Japanese Fairy Tales (Demons, Dragons,
   Ghosts and Monsters of Ancient Japan),
-author: UfU
-post_excerpt: >
-  Japanese Fairy Tales (Demons, Dragons,
-  Ghosts and Monsters of Ancient Japan),
-  Audiobook by Yei Theodora Ozaki
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/japanese-fairy-tales-demons-dragons-ghosts-and-monsters-of-ancient-japan/
+  https://universalflowuniversity.com/uncategorized/japanese-fairy-tales-demons-dragons-ghosts-and-monsters-of-ancient-japan/
 published: true
 post_date: 2014-07-08 11:47:16
 ---

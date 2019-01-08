@@ -1,16 +1,13 @@
 ---
-ID: 6409
+ID: 1753
 post_title: >
   The Food of the Gods and How it Came to
   Earth, SF , Science Fiction
-author: UfU
-post_excerpt: >
-  The Food of the Gods and How it Came to
-  Earth, SF Audiobook, Science Fiction by
-  H. G. Wells
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-food-of-the-gods-and-how-it-came-to-earth-sf-science-fiction/
+  https://universalflowuniversity.com/uncategorized/the-food-of-the-gods-and-how-it-came-to-earth-sf-science-fiction/
 published: true
 post_date: 2014-10-09 14:43:51
 ---

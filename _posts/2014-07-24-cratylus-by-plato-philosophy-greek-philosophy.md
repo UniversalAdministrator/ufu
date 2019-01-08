@@ -1,15 +1,13 @@
 ---
-ID: 6400
+ID: 1589
 post_title: >
   Cratylus, by Plato, Philosophy , Greek
   Philosophy
-author: UfU
-post_excerpt: |
-  Cratylus (ΚΡΑΤΥΛΟΣ) discusses whether things have names by mere convention or have true names which can only be correctly applied to the object named and may have originated from God. (Summary by Geoffrey Edwards)
-  Cratylus, by Plato, Philosophy Audiobook, Greek Philosophy
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/cratylus-by-plato-philosophy-greek-philosophy/
+  https://universalflowuniversity.com/uncategorized/cratylus-by-plato-philosophy-greek-philosophy/
 published: true
 post_date: 2014-07-24 12:05:17
 ---

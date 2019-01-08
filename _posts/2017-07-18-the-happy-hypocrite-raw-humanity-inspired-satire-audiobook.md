@@ -1,13 +1,13 @@
 ---
-ID: 4237
+ID: 3559
 post_title: >
   The Happy Hypocrite (Raw
   Humanity-Inspired Satire) Audiobook
-author: UfU
-post_excerpt: 'The Happy Hypocrite (AKA: A Fairy Tale For Tired Men) Audiobook by Max Beerbohm'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-happy-hypocrite-raw-humanity-inspired-satire-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-happy-hypocrite-raw-humanity-inspired-satire-audiobook/
 published: true
 post_date: 2017-07-18 12:29:28
 ---

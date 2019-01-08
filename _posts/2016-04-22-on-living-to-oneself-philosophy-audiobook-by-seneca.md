@@ -1,15 +1,13 @@
 ---
-ID: 5547
+ID: 2957
 post_title: >
   On Living to Oneself (Philosophy
   Audiobook) by Seneca
-author: UfU
-post_excerpt: >
-  On Living to Oneself (Philosophy
-  Audiobook) by Seneca
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-living-to-oneself-philosophy-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/on-living-to-oneself-philosophy-audiobook-by-seneca/
 published: true
 post_date: 2016-04-22 03:01:56
 ---

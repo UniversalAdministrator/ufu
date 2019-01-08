@@ -1,18 +1,14 @@
 ---
-ID: 5089
+ID: 2523
 post_title: >
   (Trippy and Dreamy Fairytale from the
   German King of Weird Tales) Nutcracker
   and Mouse King
-author: UfU
-post_excerpt: >
-  (Trippy and Dreamy Fairytale from the
-  German King of Weird Tales) Nutcracker
-  and Mouse King by E.T.A. Hoffman
-  (Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/trippy-and-dreamy-fairytale-from-the-german-king-of-weird-tales-nutcracker-and-mouse-king/
+  https://universalflowuniversity.com/uncategorized/trippy-and-dreamy-fairytale-from-the-german-king-of-weird-tales-nutcracker-and-mouse-king/
 published: true
 post_date: 2015-09-21 20:46:38
 ---

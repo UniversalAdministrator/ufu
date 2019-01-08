@@ -1,11 +1,11 @@
 ---
-ID: 5131
+ID: 2443
 post_title: '[History of Horror Literature] The Tale of Terror (Audiobook)'
-author: UfU
-post_excerpt: '[History of Horror Literature] The Tale of Terror & A Study of the Gothic Romance (Audiobook) by Edith Birkhead'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/history-of-horror-literature-the-tale-of-terror-audiobook/
+  https://universalflowuniversity.com/uncategorized/history-of-horror-literature-the-tale-of-terror-audiobook/
 published: true
 post_date: 2015-08-15 06:28:53
 ---

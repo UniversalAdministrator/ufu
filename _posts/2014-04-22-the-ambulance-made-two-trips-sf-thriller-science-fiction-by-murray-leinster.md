@@ -1,17 +1,14 @@
 ---
-ID: 8244
+ID: 1195
 post_title: >
   The Ambulance Made Two Trips, SF
   Thriller , Science Fiction by Murray
   Leinster
-author: UfU
-post_excerpt: >
-  The Ambulance Made Two Trips, SF
-  Thriller Audiobook, Science Fiction by
-  Murray Leinster
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-ambulance-made-two-trips-sf-thriller-science-fiction-by-murray-leinster/
+  https://universalflowuniversity.com/uncategorized/the-ambulance-made-two-trips-sf-thriller-science-fiction-by-murray-leinster/
 published: true
 post_date: 2014-04-22 12:41:02
 ---

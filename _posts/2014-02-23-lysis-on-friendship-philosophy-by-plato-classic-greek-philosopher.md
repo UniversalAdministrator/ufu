@@ -1,14 +1,11 @@
 ---
-ID: 9246
+ID: 707
 post_title: 'Lysis; on Friendship, Philosophy  by Plato, Classic Greek Philosopher'
-author: UfU
-post_excerpt: >
-  Lysis; on Friendship, Philosophy
-  Audiobook by Plato, Classic Greek
-  Philosopher
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/lysis-on-friendship-philosophy-by-plato-classic-greek-philosopher/
+  https://universalflowuniversity.com/uncategorized/lysis-on-friendship-philosophy-by-plato-classic-greek-philosopher/
 published: true
 post_date: 2014-02-23 18:37:50
 ---

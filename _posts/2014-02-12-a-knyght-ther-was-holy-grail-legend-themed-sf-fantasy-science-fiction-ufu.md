@@ -1,14 +1,11 @@
 ---
-ID: 9565
+ID: 591
 post_title: 'A Knyght Ther Was; Holy Grail Legend Themed SF , Fantasy Science Fiction #UfU'
-author: UfU
-post_excerpt: >
-  A Knyght Ther Was; Holy Grail Legend
-  Themed SF Audiobook, Fantasy Science
-  Fiction, by Robert F. Young
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/a-knyght-ther-was-holy-grail-legend-themed-sf-fantasy-science-fiction-ufu/
+  https://universalflowuniversity.com/uncategorized/a-knyght-ther-was-holy-grail-legend-themed-sf-fantasy-science-fiction-ufu/
 published: true
 post_date: 2014-02-12 14:07:20
 ---

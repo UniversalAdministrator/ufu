@@ -1,17 +1,13 @@
 ---
-ID: 4653
+ID: 3027
 post_title: >
   The Weight of Light Theory of Albert
   Einstein (Science Audiobook) Lecture
-author: UfU
-post_excerpt: >
-  The Weight of Light, Mutable Theories
-  and Stable Facts, Scientific Versus
-  Legal Laws of Albert Einstein (Science
-  Audiobook) by Edwin E. Slosson
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-weight-of-light-theory-of-albert-einstein-science-audiobook-lecture/
+  https://universalflowuniversity.com/uncategorized/the-weight-of-light-theory-of-albert-einstein-science-audiobook-lecture/
 published: true
 post_date: 2016-06-16 21:02:07
 ---

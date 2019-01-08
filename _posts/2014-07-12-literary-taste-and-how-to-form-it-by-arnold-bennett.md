@@ -1,13 +1,11 @@
 ---
-ID: 6418
+ID: 1559
 post_title: 'Literary Taste and How to Form It,  by Arnold Bennett'
-author: UfU
-post_excerpt: >
-  Literary Taste and How to Form It,
-  Audiobook by Arnold Bennett
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/literary-taste-and-how-to-form-it-by-arnold-bennett/
+  https://universalflowuniversity.com/uncategorized/literary-taste-and-how-to-form-it-by-arnold-bennett/
 published: true
 post_date: 2014-07-12 11:36:24
 ---

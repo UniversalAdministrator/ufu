@@ -1,15 +1,13 @@
 ---
-ID: 8280
+ID: 883
 post_title: >
   The Vampire, Horror , Gothic, by John
   William Polidori
-author: UfU
-post_excerpt: >
-  The Vampire, Horror Audiobook, Gothic,
-  by John William Polidori
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-vampire-horror-gothic-by-john-william-polidori/
+  https://universalflowuniversity.com/uncategorized/the-vampire-horror-gothic-by-john-william-polidori/
 published: true
 post_date: 2014-03-17 10:59:26
 ---

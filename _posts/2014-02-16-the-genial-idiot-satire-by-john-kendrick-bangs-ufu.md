@@ -1,13 +1,11 @@
 ---
-ID: 9470
+ID: 643
 post_title: 'The Genial Idiot; Satire , by John Kendrick Bangs #UfU'
-author: UfU
-post_excerpt: >
-  The Genial Idiot; Satire Audiobook, by
-  John Kendrick Bangs
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-genial-idiot-satire-by-john-kendrick-bangs-ufu/
+  https://universalflowuniversity.com/uncategorized/the-genial-idiot-satire-by-john-kendrick-bangs-ufu/
 published: true
 post_date: 2014-02-16 13:16:53
 ---

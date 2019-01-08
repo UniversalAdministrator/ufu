@@ -1,11 +1,11 @@
 ---
-ID: 5017
+ID: 2615
 post_title: '[A Psychological Tale of Human Complexity] The Idiot Part 2 (by Fyodor Dostoyevsky)'
-author: UfU
-post_excerpt: '[A Psychological Tale of Human Complexity] The Idiot Part 2 (by Fyodor Dostoyevsky) Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-psychological-tale-of-human-complexity-the-idiot-part-2-by-fyodor-dostoyevsky/
+  https://universalflowuniversity.com/uncategorized/a-psychological-tale-of-human-complexity-the-idiot-part-2-by-fyodor-dostoyevsky/
 published: true
 post_date: 2015-11-04 03:57:57
 ---

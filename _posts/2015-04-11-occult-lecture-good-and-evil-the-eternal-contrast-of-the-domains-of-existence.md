@@ -1,11 +1,11 @@
 ---
-ID: 5391
+ID: 2175
 post_title: '[Occult Lecture] Good and Evil; the Eternal Contrast of the Domains of Existence'
-author: UfU
-post_excerpt: '[Occult Lecture] Good and Evil; the Eternal Contrast of the Domains of Manifested Existence by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-good-and-evil-the-eternal-contrast-of-the-domains-of-existence/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-good-and-evil-the-eternal-contrast-of-the-domains-of-existence/
 published: true
 post_date: 2015-04-11 16:08:11
 ---

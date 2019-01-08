@@ -1,11 +1,11 @@
 ---
-ID: 5605
+ID: 3821
 post_title: The Universal Laws
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-universal-laws/
+  https://universalflowuniversity.com/uncategorized/the-universal-laws/
 published: true
 post_date: 2018-01-13 02:32:15
 ---

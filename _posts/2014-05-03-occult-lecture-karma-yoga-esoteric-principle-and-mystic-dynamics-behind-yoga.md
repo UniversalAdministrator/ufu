@@ -1,11 +1,11 @@
 ---
-ID: 7306
+ID: 1281
 post_title: '[Occult Lecture] Karma Yoga (Esoteric Principle and Mystic Dynamics Behind Yoga)'
-author: UfU
-post_excerpt: '[Occult Lecture] Karma Yoga (Esoteric Principle and Mystic Dynamics Behind Yoga) by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-karma-yoga-esoteric-principle-and-mystic-dynamics-behind-yoga/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-karma-yoga-esoteric-principle-and-mystic-dynamics-behind-yoga/
 published: true
 post_date: 2014-05-03 12:06:08
 ---

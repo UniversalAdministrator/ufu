@@ -1,11 +1,11 @@
 ---
-ID: 4345
+ID: 3401
 post_title: '[Occult Tale on Dimension-Switching] Entrance and Exit (Algernon Blackwood)'
-author: UfU
-post_excerpt: '[Occult Tale on Dimension-Switching] Entrance and Exit (Algernon Blackwood)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-tale-on-dimension-switching-entrance-and-exit-algernon-blackwood/
+  https://universalflowuniversity.com/uncategorized/occult-tale-on-dimension-switching-entrance-and-exit-algernon-blackwood/
 published: true
 post_date: 2017-03-25 13:44:01
 ---

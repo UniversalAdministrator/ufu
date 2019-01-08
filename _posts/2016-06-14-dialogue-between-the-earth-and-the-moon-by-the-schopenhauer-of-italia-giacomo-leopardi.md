@@ -1,11 +1,11 @@
 ---
-ID: 5628
+ID: 3025
 post_title: 'Dialogue between the Earth and the Moon (by &#8220;the Schopenhauer of Italia&#8221;, Giacomo Leopardi)'
-author: UfU
-post_excerpt: 'Dialogue between the Earth and the Moon  (by "the Schopenhauer of Italia", Giacomo Leopardi) by Giacomo Leopardi (Philosophy Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/dialogue-between-the-earth-and-the-moon-by-the-schopenhauer-of-italia-giacomo-leopardi/
+  https://universalflowuniversity.com/uncategorized/dialogue-between-the-earth-and-the-moon-by-the-schopenhauer-of-italia-giacomo-leopardi/
 published: true
 post_date: 2016-06-14 17:06:42
 ---

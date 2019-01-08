@@ -1,11 +1,11 @@
 ---
-ID: 4651
+ID: 3035
 post_title: 'The Mermaid of Druid Lake [Weird Tale Audiobook] by Charles Weathers Bump'
-author: UfU
-post_excerpt: 'The Mermaid of Druid Lake [Weird Tale Audiobook] by Charles Weathers BumpDescription'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-mermaid-of-druid-lake-weird-tale-audiobook-by-charles-weathers-bump/
+  https://universalflowuniversity.com/uncategorized/the-mermaid-of-druid-lake-weird-tale-audiobook-by-charles-weathers-bump/
 published: true
 post_date: 2016-06-23 20:17:09
 ---

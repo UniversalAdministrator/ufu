@@ -1,11 +1,11 @@
 ---
-ID: 5539
+ID: 2581
 post_title: '[How Wisdom Helps Self-Realization] On Philosophy, the Guide of Life  (Audiobook) by Seneca'
-author: UfU
-post_excerpt: '[How Wisdom Helps Self-Realization] On Philosophy, the Guide of Life  (Philosophy Audiobook) by Seneca'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/how-wisdom-helps-self-realization-on-philosophy-the-guide-of-life-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/how-wisdom-helps-self-realization-on-philosophy-the-guide-of-life-audiobook-by-seneca/
 published: true
 post_date: 2015-10-20 03:11:25
 ---

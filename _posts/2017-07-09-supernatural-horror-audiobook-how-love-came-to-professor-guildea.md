@@ -1,13 +1,11 @@
 ---
-ID: 4583
+ID: 3547
 post_title: '[Supernatural Horror Audiobook] How Love Came to Professor Guildea'
-author: UfU
-post_excerpt: |
-  Don't let the cute title fool you. This is very creepy, atmospheric horror. Enjoy!
-  [Supernatural Horror Audiobook] How Love Came to Professor Guildea (by Robert Smythe Hichens)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/supernatural-horror-audiobook-how-love-came-to-professor-guildea/
+  https://universalflowuniversity.com/uncategorized/supernatural-horror-audiobook-how-love-came-to-professor-guildea/
 published: true
 post_date: 2017-07-09 13:43:52
 ---

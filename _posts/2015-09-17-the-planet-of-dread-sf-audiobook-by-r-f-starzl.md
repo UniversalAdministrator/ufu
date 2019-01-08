@@ -1,15 +1,13 @@
 ---
-ID: 5243
+ID: 2513
 post_title: >
   The Planet of Dread (SF Audiobook) by R.
   F. Starzl
-author: UfU
-post_excerpt: >
-  The Planet of Dread (SF Audiobook) by R.
-  F. Starzl
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-planet-of-dread-sf-audiobook-by-r-f-starzl/
+  https://universalflowuniversity.com/uncategorized/the-planet-of-dread-sf-audiobook-by-r-f-starzl/
 published: true
 post_date: 2015-09-17 22:50:14
 ---

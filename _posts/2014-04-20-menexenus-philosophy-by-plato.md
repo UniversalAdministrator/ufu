@@ -1,13 +1,11 @@
 ---
-ID: 7531
+ID: 1179
 post_title: Menexenus, Philosophy , by Plato
-author: UfU
-post_excerpt: >
-  Menexenus, Philosophy Audiobook, by
-  Plato
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/menexenus-philosophy-by-plato/
+  https://universalflowuniversity.com/uncategorized/menexenus-philosophy-by-plato/
 published: true
 post_date: 2014-04-20 13:13:00
 ---

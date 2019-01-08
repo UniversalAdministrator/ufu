@@ -1,11 +1,11 @@
 ---
-ID: 4507
+ID: 3587
 post_title: 'The Knowledge Experience and Its Relationships [Philosophy Audiobook] John Dewey'
-author: UfU
-post_excerpt: 'The Knowledge Experience and Its Relationships [Philosophy Audiobook] John Dewey'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-knowledge-experience-and-its-relationships-philosophy-audiobook-john-dewey/
+  https://universalflowuniversity.com/uncategorized/the-knowledge-experience-and-its-relationships-philosophy-audiobook-john-dewey/
 published: true
 post_date: 2017-08-08 15:17:47
 ---

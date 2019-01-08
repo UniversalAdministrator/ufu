@@ -1,15 +1,13 @@
 ---
-ID: 5555
+ID: 2501
 post_title: >
   On True and False Friendship (Philosophy
   Audiobook) by Seneca
-author: UfU
-post_excerpt: >
-  On True and False Friendship (Philosophy
-  Audiobook) by Seneca
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-true-and-false-friendship-philosophy-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/on-true-and-false-friendship-philosophy-audiobook-by-seneca/
 published: true
 post_date: 2015-09-11 01:32:47
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 6367
+ID: 1637
 post_title: '[Occult ] A Series of Lessons in Raja Yoga, The Mastery of the Self by Yogi Ramacharaka'
-author: UfU
-post_excerpt: |
-  The Book talks on the internal world of the self. The real nature of the subconscious mind, the way to control it, how ego comes into play and most frequently asked questions like "Who am I" are attempted to answer. (Summary by Uday Sagar)
-  [Occult Audiobook] A Series of Lessons in Raja Yoga, The Mastery of the Self by Yogi Ramacharaka
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-a-series-of-lessons-in-raja-yoga-the-mastery-of-the-self-by-yogi-ramacharaka/
+  https://universalflowuniversity.com/uncategorized/occult-a-series-of-lessons-in-raja-yoga-the-mastery-of-the-self-by-yogi-ramacharaka/
 published: true
 post_date: 2014-08-16 11:14:28
 ---

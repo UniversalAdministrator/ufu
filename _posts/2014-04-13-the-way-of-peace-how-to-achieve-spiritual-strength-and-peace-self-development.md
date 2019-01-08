@@ -1,18 +1,14 @@
 ---
-ID: 8190
+ID: 1125
 post_title: >
   The Way of Peace, How to Achieve
   Spiritual Strength and Peace,
   Self-Development
-author: UfU
-post_excerpt: >
-  The Way of Peace, How to Achieve
-  Spiritual Strength and Peace,
-  Self-Development Audiobook by James
-  Allen
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-way-of-peace-how-to-achieve-spiritual-strength-and-peace-self-development/
+  https://universalflowuniversity.com/uncategorized/the-way-of-peace-how-to-achieve-spiritual-strength-and-peace-self-development/
 published: true
 post_date: 2014-04-13 13:29:40
 ---

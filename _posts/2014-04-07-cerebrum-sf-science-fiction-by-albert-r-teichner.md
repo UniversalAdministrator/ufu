@@ -1,15 +1,13 @@
 ---
-ID: 8094
+ID: 1069
 post_title: >
   Cerebrum, SF , Science Fiction by Albert
   R. Teichner
-author: UfU
-post_excerpt: >
-  Cerebrum, SF Audiobook, Science Fiction
-  by Albert R. Teichner
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/cerebrum-sf-science-fiction-by-albert-r-teichner/
+  https://universalflowuniversity.com/uncategorized/cerebrum-sf-science-fiction-by-albert-r-teichner/
 published: true
 post_date: 2014-04-07 11:28:18
 ---

@@ -1,15 +1,13 @@
 ---
-ID: 9821
+ID: 559
 post_title: >
   Ephemera, a Celtic Poem by William
   Butler Yeats,
-author: UfU
-post_excerpt: >
-  Ephemera, a Celtic Poem by William
-  Butler Yeats, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/ephemera-a-celtic-poem-by-william-butler-yeats/
+  https://universalflowuniversity.com/uncategorized/ephemera-a-celtic-poem-by-william-butler-yeats/
 published: true
 post_date: 2014-02-07 13:36:39
 ---

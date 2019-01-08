@@ -1,11 +1,11 @@
 ---
-ID: 7147
+ID: 1787
 post_title: '[Occult Lecture] Mystery of Human Cells (Occult Anatomy of Man and Its Mystic Dynamics)'
-author: UfU
-post_excerpt: '[Occult Lecture] Mystery of Human Cells (Occult Anatomy of Man and Its Mystic Dynamics) by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-mystery-of-human-cells-occult-anatomy-of-man-and-its-mystic-dynamics/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-mystery-of-human-cells-occult-anatomy-of-man-and-its-mystic-dynamics/
 published: true
 post_date: 2014-10-25 12:18:41
 ---

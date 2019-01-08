@@ -1,11 +1,11 @@
 ---
-ID: 9113
+ID: 1467
 post_title: '[Self-Development ] The Majesty of Calmness (For Happiness and Self-Reliance)'
-author: UfU
-post_excerpt: '[Self-Development Audiobook] The Majesty of Calmness (For Happiness and Self-Reliance) by William George Jordan'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/self-development-the-majesty-of-calmness-for-happiness-and-self-reliance/
+  https://universalflowuniversity.com/uncategorized/self-development-the-majesty-of-calmness-for-happiness-and-self-reliance/
 published: true
 post_date: 2014-06-15 12:43:44
 ---

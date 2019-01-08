@@ -1,11 +1,11 @@
 ---
-ID: 5301
+ID: 2237
 post_title: '[A Tale of Planetary Invaders] Wandl the Invader (SF Audiobook)'
-author: UfU
-post_excerpt: '[A Tale of Planetary Invaders] Wandl the Invader (SF Audiobook) by Ray Cummings'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-planetary-invaders-wandl-the-invader-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-planetary-invaders-wandl-the-invader-sf-audiobook/
 published: true
 post_date: 2015-05-10 17:39:39
 ---

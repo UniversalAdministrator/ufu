@@ -1,11 +1,11 @@
 ---
-ID: 246
+ID: 345
 post_title: Membership Levels
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/membership-account/membership-levels/
+  https://universalflowuniversity.com/membership-levels/
 published: true
 post_date: 2017-02-13 03:50:11
 ---

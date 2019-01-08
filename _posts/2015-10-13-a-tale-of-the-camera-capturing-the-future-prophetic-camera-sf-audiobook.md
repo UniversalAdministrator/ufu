@@ -1,11 +1,11 @@
 ---
-ID: 5057
+ID: 2567
 post_title: '[A Tale of the Camera Capturing the Future] Prophetic Camera (SF Audiobook)'
-author: UfU
-post_excerpt: '[A Tale of the Camera Capturing the Future] Prophetic Camera (SF Fantasy Audiobook) by John McGreevey'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-the-camera-capturing-the-future-prophetic-camera-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-the-camera-capturing-the-future-prophetic-camera-sf-audiobook/
 published: true
 post_date: 2015-10-13 03:05:39
 ---

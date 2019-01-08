@@ -1,11 +1,11 @@
 ---
-ID: 8719
+ID: 369
 post_title: OSmedia Featured Video
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/osmedia-featured-video/
+  https://universalflowuniversity.com/osmedia-featured-video/
 published: true
 post_date: 2018-03-12 00:24:45
 ---

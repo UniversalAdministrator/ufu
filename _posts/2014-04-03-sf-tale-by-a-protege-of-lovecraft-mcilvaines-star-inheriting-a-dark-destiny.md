@@ -1,11 +1,11 @@
 ---
-ID: 8247
+ID: 1033
 post_title: '[SF Tale by a Protégé of Lovecraft] McIlvaine&#8217;s Star; Inheriting a Dark Destiny'
-author: UfU
-post_excerpt: "McIlvaine's Star; Inheriting a Dark Destiny , SF Audiobook, Science Fiction by August Derleth"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/sf-tale-by-a-protege-of-lovecraft-mcilvaines-star-inheriting-a-dark-destiny/
+  https://universalflowuniversity.com/uncategorized/sf-tale-by-a-protege-of-lovecraft-mcilvaines-star-inheriting-a-dark-destiny/
 published: true
 post_date: 2014-04-03 12:04:03
 ---

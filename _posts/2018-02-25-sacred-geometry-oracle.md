@@ -1,11 +1,11 @@
 ---
-ID: 8396
+ID: 3837
 post_title: Sacred Geometry Oracle
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/sacred-geometry-oracle/
+  https://universalflowuniversity.com/uncategorized/sacred-geometry-oracle/
 published: true
 post_date: 2018-02-25 03:38:21
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 6546
+ID: 1423
 post_title: 'The Last Man, a Post-Apocalyptic Tale of Mankind&#8217;s Demise, Part 1,  by Mary Shelley'
-author: UfU
-post_excerpt: |
-  This is the best work of Mary Shelley, the author of Frankenstein, IMHO.
-  The Last Man, a Post-Apocalyptic Tale of Mankind's Demise, Part 1, Audiobook by Mary Shelley
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-last-man-a-post-apocalyptic-tale-of-mankinds-demise-part-1-by-mary-shelley/
+  https://universalflowuniversity.com/uncategorized/the-last-man-a-post-apocalyptic-tale-of-mankinds-demise-part-1-by-mary-shelley/
 published: true
 post_date: 2014-06-03 10:18:59
 ---

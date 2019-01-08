@@ -1,11 +1,11 @@
 ---
-ID: 8825
+ID: 3843
 post_title: The Illusion of Materialism
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/science/physics/quantum-physics/the-illusion-of-materialism/
+  https://universalflowuniversity.com/uncategorized/the-illusion-of-materialism/
 published: true
 post_date: 2018-03-22 19:35:40
 ---

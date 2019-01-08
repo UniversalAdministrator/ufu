@@ -1,16 +1,13 @@
 ---
-ID: 7322
+ID: 1441
 post_title: >
   Last Days of Pompeii Part 1, Historical
   Fiction, , by Edward Bulwer-Lytton
-author: UfU
-post_excerpt: >
-  Last Days of Pompeii Part 1, Historical
-  Fiction, Audiobook, by Edward
-  Bulwer-Lytton
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/last-days-of-pompeii-part-1-historical-fiction-by-edward-bulwer-lytton/
+  https://universalflowuniversity.com/uncategorized/last-days-of-pompeii-part-1-historical-fiction-by-edward-bulwer-lytton/
 published: true
 post_date: 2014-06-08 13:11:13
 ---

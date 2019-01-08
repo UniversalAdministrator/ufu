@@ -1,17 +1,14 @@
 ---
-ID: 9242
+ID: 711
 post_title: >
   Eight Steps to Murder; Horror Radio
   Show, Inner Sanctum Mystery, Suspense,
   Macabre
-author: UfU
-post_excerpt: >
-  Eight Steps to Murder; Horror Radio
-  Show, Inner Sanctum Mystery, Suspense,
-  Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/eight-steps-to-murder-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
+  https://universalflowuniversity.com/uncategorized/eight-steps-to-murder-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
 published: true
 post_date: 2014-02-24 11:23:07
 ---

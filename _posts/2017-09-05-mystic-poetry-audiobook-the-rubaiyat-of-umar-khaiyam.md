@@ -1,11 +1,11 @@
 ---
-ID: 4155
+ID: 3637
 post_title: '[Mystic Poetry Audiobook] The Rubaiyat of Umar Khaiyam'
-author: UfU
-post_excerpt: '[Mystic Poetry Audiobook] The Rubaiyat of Umar Khaiyam (by Omar Khayyám)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mystic-poetry-audiobook-the-rubaiyat-of-umar-khaiyam/
+  https://universalflowuniversity.com/uncategorized/mystic-poetry-audiobook-the-rubaiyat-of-umar-khaiyam/
 published: true
 post_date: 2017-09-05 11:24:15
 ---

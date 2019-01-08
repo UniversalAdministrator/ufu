@@ -1,11 +1,11 @@
 ---
-ID: 6736
+ID: 422
 post_title: Support
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/support/
+  https://universalflowuniversity.com/support/
 published: true
 post_date: 2018-02-07 04:15:08
 ---

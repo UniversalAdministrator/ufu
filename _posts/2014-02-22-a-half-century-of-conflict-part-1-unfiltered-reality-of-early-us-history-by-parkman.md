@@ -1,16 +1,14 @@
 ---
-ID: 9340
+ID: 691
 post_title: >
   A Half Century of Conflict Part 1;
   Unfiltered Reality of Early US History,
   , by Parkman
-author: UfU
-post_excerpt: |
-  This book covers the period from 1700 to 1748.
-  A Half Century of Conflict Part 1; Unfiltered Reality of Early US History, Audiobook, by Francis Parkman
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/a-half-century-of-conflict-part-1-unfiltered-reality-of-early-us-history-by-parkman/
+  https://universalflowuniversity.com/uncategorized/a-half-century-of-conflict-part-1-unfiltered-reality-of-early-us-history-by-parkman/
 published: true
 post_date: 2014-02-22 05:49:38
 ---

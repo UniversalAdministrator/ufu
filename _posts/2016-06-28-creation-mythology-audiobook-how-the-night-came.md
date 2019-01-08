@@ -1,11 +1,11 @@
 ---
-ID: 4723
+ID: 3043
 post_title: '[Creation Mythology Audiobook] How the Night Came'
-author: UfU
-post_excerpt: 'This creation myth is from Brazil. [Creation Mythology Audiobook] How the Night Came (Audiobook) from the collection "Fairy Tales from Brazil" by Elsie Spicer Eells (1880 - 1963)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/creation-mythology-audiobook-how-the-night-came/
+  https://universalflowuniversity.com/uncategorized/creation-mythology-audiobook-how-the-night-came/
 published: true
 post_date: 2016-06-28 15:02:11
 ---

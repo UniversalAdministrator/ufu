@@ -1,11 +1,11 @@
 ---
-ID: 5630
+ID: 2105
 post_title: 'Dialogue between a Natural Philosopher and a Metaphysician (by &#8220;the Schopenhauer of Italia&#8221;)'
-author: UfU
-post_excerpt: 'Dialogue between a Natural Philosopher and a Metaphysician (by "the Schopenhauer of Italia", Giacomo Leopardi) [Philosophy], Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/dialogue-between-a-natural-philosopher-and-a-metaphysician-by-the-schopenhauer-of-italia/
+  https://universalflowuniversity.com/uncategorized/dialogue-between-a-natural-philosopher-and-a-metaphysician-by-the-schopenhauer-of-italia/
 published: true
 post_date: 2015-03-10 17:34:13
 ---

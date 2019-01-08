@@ -1,11 +1,11 @@
 ---
-ID: 4069
+ID: 3773
 post_title: '[Agnostic Philosophy of Robert G. Ingersoll] A Thanksgiving Sermon (Audiobook)'
-author: UfU
-post_excerpt: '[Agnostic Philosophy of Robert G. Ingersoll] A Thanksgiving Sermon (Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/humanities/philosophy/agnostic-philosophy-of-robert-g-ingersoll-a-thanksgiving-sermon-audiobook/
+  https://universalflowuniversity.com/uncategorized/agnostic-philosophy-of-robert-g-ingersoll-a-thanksgiving-sermon-audiobook/
 published: true
 post_date: 2017-12-10 14:08:31
 ---

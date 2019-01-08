@@ -1,11 +1,11 @@
 ---
-ID: 4775
+ID: 2923
 post_title: 'Ten From Infinity [SF Audiobook] by Paul W. Fairman'
-author: UfU
-post_excerpt: 'Ten From Infinity [SF Audiobook] by Paul W. Fairman'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/ten-from-infinity-sf-audiobook-by-paul-w-fairman/
+  https://universalflowuniversity.com/uncategorized/ten-from-infinity-sf-audiobook-by-paul-w-fairman/
 published: true
 post_date: 2016-03-31 23:21:20
 ---

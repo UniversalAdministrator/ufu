@@ -1,17 +1,14 @@
 ---
-ID: 9117
+ID: 825
 post_title: >
   The Tryst, Horror , by Algernon
   Blackwood, Supernatural, Suspense,
   Macabre
-author: UfU
-post_excerpt: >
-  The Tryst, Horror Audiobook, by Algernon
-  Blackwood, Supernatural, Suspense,
-  Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-tryst-horror-by-algernon-blackwood-supernatural-suspense-macabre/
+  https://universalflowuniversity.com/uncategorized/the-tryst-horror-by-algernon-blackwood-supernatural-suspense-macabre/
 published: true
 post_date: 2014-03-09 13:08:13
 ---

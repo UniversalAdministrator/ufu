@@ -1,11 +1,11 @@
 ---
-ID: 7752
+ID: 3831
 post_title: 5 Secrets to a ‘No-work’ Garden
-author: UfU
-post_excerpt: 'It took over 20 years of gardening to realize that I didn’t have to work so hard to achieve a fruitful harvest… By Greg Seaman, Eartheasy.com It took over 20 years of gardening to realize that I didn’t have to work so hard to achieve a fruitful harvest. As the limitless energy of my youth [...]'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/gardening/5-secrets-to-a-no-work-garden/
+  https://universalflowuniversity.com/uncategorized/5-secrets-to-a-no-work-garden/
 published: true
 post_date: 2018-02-12 06:44:03
 ---

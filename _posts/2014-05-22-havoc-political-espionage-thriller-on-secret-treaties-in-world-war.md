@@ -1,16 +1,13 @@
 ---
-ID: 7187
+ID: 1373
 post_title: >
   Havoc (Political Espionage Thriller on
   Secret Treaties in World War),
-author: UfU
-post_excerpt: >
-  Havoc (Political Espionage Thriller on
-  Secret Treaties in World War), Audiobook
-  by E. Phillips Oppenheim
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/havoc-political-espionage-thriller-on-secret-treaties-in-world-war/
+  https://universalflowuniversity.com/uncategorized/havoc-political-espionage-thriller-on-secret-treaties-in-world-war/
 published: true
 post_date: 2014-05-22 11:23:40
 ---

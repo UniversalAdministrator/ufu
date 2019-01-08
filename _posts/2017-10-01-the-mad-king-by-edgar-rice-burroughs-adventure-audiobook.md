@@ -1,15 +1,13 @@
 ---
-ID: 4137
+ID: 3677
 post_title: >
   The Mad King (by Edgar Rice Burroughs)
   Adventure Audiobook
-author: UfU
-post_excerpt: >
-  The Mad King (by Edgar Rice Burroughs)
-  Adventure Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-mad-king-by-edgar-rice-burroughs-adventure-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-mad-king-by-edgar-rice-burroughs-adventure-audiobook/
 published: true
 post_date: 2017-10-01 13:51:28
 ---

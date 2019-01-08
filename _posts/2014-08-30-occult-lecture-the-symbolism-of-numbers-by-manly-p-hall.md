@@ -1,11 +1,11 @@
 ---
-ID: 6480
+ID: 1665
 post_title: '[Occult Lecture] The Symbolism of Numbers,  by Manly P. Hall'
-author: UfU
-post_excerpt: '[Occult Lecture] The Symbolism of Numbers,  by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-symbolism-of-numbers-by-manly-p-hall/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-symbolism-of-numbers-by-manly-p-hall/
 published: true
 post_date: 2014-08-30 13:24:40
 ---

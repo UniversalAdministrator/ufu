@@ -1,16 +1,13 @@
 ---
-ID: 6525
+ID: 1457
 post_title: >
   The Blazing World, SF (+ Neo Platonism +
   Mystic Fantasy) , by Margaret Cavendish
-author: UfU
-post_excerpt: >
-  The Blazing World, SF (+ Neo Platonism +
-  Mystic Fantasy) Audiobook, by Margaret
-  Cavendish
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-blazing-world-sf-neo-platonism-mystic-fantasy-by-margaret-cavendish/
+  https://universalflowuniversity.com/uncategorized/the-blazing-world-sf-neo-platonism-mystic-fantasy-by-margaret-cavendish/
 published: true
 post_date: 2014-06-13 13:08:24
 ---

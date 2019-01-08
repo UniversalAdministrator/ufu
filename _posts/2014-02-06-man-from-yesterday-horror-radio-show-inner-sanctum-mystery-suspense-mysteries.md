@@ -1,17 +1,14 @@
 ---
-ID: 9893
+ID: 549
 post_title: >
   Man from Yesterday, Horror Radio Show,
   Inner Sanctum Mystery, Suspense,
   Mysteries,
-author: UfU
-post_excerpt: >
-  Man from Yesterday, Horror Radio Show,
-  Inner Sanctum Mystery, Suspense,
-  Mysteries,
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/man-from-yesterday-horror-radio-show-inner-sanctum-mystery-suspense-mysteries/
+  https://universalflowuniversity.com/uncategorized/man-from-yesterday-horror-radio-show-inner-sanctum-mystery-suspense-mysteries/
 published: true
 post_date: 2014-02-06 13:29:59
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5429
+ID: 2145
 post_title: '[Occult Lecture] The Universe and Astrology'
-author: UfU
-post_excerpt: '[Occult Lecture] The Universe, Universal Cosmology and Astrology by Manly P. Hall, Mysticism Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-universe-and-astrology/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-universe-and-astrology/
 published: true
 post_date: 2015-03-28 17:38:24
 ---

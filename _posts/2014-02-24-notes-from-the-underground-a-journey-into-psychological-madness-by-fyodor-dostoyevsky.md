@@ -1,14 +1,11 @@
 ---
-ID: 9336
+ID: 713
 post_title: 'Notes from the Underground; a Journey into Psychological Madness,  by Fyodor Dostoyevsky'
-author: UfU
-post_excerpt: >
-  Notes from the Underground; a Journey
-  into Psychological Madness, Audiobook by
-  Fyodor Dostoyevsky
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/notes-from-the-underground-a-journey-into-psychological-madness-by-fyodor-dostoyevsky/
+  https://universalflowuniversity.com/uncategorized/notes-from-the-underground-a-journey-into-psychological-madness-by-fyodor-dostoyevsky/
 published: true
 post_date: 2014-02-24 12:17:27
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 7968
+ID: 1329
 post_title: '[Occult Lecture] Power of Hypnotic Techniques (New Method to Self-Healing)'
-author: UfU
-post_excerpt: '[Occult Lecture] Power of Hypnotic Techniques (New Method to Self-Healing), by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-power-of-hypnotic-techniques-new-method-to-self-healing/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-power-of-hypnotic-techniques-new-method-to-self-healing/
 published: true
 post_date: 2014-05-10 13:10:20
 ---

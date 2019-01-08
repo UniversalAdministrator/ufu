@@ -1,11 +1,11 @@
 ---
-ID: 1016
+ID: 428
 post_title: Terms of Service
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/terms-of-service/
+  https://universalflowuniversity.com/terms-of-service/
 published: true
 post_date: 2017-03-27 04:23:32
 ---

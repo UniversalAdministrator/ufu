@@ -1,11 +1,11 @@
 ---
-ID: 8964
+ID: 809
 post_title: '[Einstein&#8217;s Lecture] Geometry and Experience, by Albert Einstein, Science Lecture'
-author: UfU
-post_excerpt: "[Einstein's Science Lecture] Geometry and Experience, by Albert Einstein, Audiobook"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/einsteins-lecture-geometry-and-experience-by-albert-einstein-science-lecture/
+  https://universalflowuniversity.com/uncategorized/einsteins-lecture-geometry-and-experience-by-albert-einstein-science-lecture/
 published: true
 post_date: 2014-03-08 12:29:21
 ---

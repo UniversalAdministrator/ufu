@@ -1,15 +1,13 @@
 ---
-ID: 9661
+ID: 561
 post_title: >
   Rattle of Bones; Horror , Gothic,
   Suspense, by Robert E. Howard
-author: UfU
-post_excerpt: >
-  Rattle of Bones; Horror Audiobook,
-  Gothic, Suspense, by Robert E. Howard
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/rattle-of-bones-horror-gothic-suspense-by-robert-e-howard/
+  https://universalflowuniversity.com/uncategorized/rattle-of-bones-horror-gothic-suspense-by-robert-e-howard/
 published: true
 post_date: 2014-02-07 13:56:04
 ---

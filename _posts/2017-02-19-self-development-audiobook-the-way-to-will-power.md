@@ -1,11 +1,11 @@
 ---
-ID: 4377
+ID: 3349
 post_title: '[Self-Development Audiobook] The Way to Will-Power'
-author: UfU
-post_excerpt: '[Self-Development Audiobook] The Way to Will-Power [by Henry Hazlitt] (Self-Help, Self Development Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/self-development-audiobook-the-way-to-will-power/
+  https://universalflowuniversity.com/uncategorized/self-development-audiobook-the-way-to-will-power/
 published: true
 post_date: 2017-02-19 12:49:37
 ---

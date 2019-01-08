@@ -1,13 +1,11 @@
 ---
-ID: 6166
+ID: 1785
 post_title: Vital Ingredient, SF , by Gerald Vance
-author: UfU
-post_excerpt: >
-  Vital Ingredient, SF Audiobook, by
-  Gerald Vance
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/vital-ingredient-sf-by-gerald-vance/
+  https://universalflowuniversity.com/uncategorized/vital-ingredient-sf-by-gerald-vance/
 published: true
 post_date: 2014-10-24 14:07:53
 ---

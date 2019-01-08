@@ -1,11 +1,11 @@
 ---
-ID: 5227
+ID: 2315
 post_title: '{Occult Audiobook} [How to Use Your Mental Power to Influence Others] Mental Fascination'
-author: UfU
-post_excerpt: '{Occult Audiobook}  [How to Use Your Mental Power to Influence Others] Mental Fascination by William Walker Atkinson'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-audiobook-how-to-use-your-mental-power-to-influence-others-mental-fascination/
+  https://universalflowuniversity.com/uncategorized/occult-audiobook-how-to-use-your-mental-power-to-influence-others-mental-fascination/
 published: true
 post_date: 2015-06-16 18:57:42
 ---

@@ -1,17 +1,14 @@
 ---
-ID: 7535
+ID: 1237
 post_title: >
   The Man Without a Country (The Man
   Condemned by USA), Philosophical
   Fiction,
-author: UfU
-post_excerpt: >
-  The Man Without a Country (The Man
-  Condemned by USA), Philosophical Fiction
-  Audiobook, by Edward Everett Hale
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-man-without-a-country-the-man-condemned-by-usa-philosophical-fiction/
+  https://universalflowuniversity.com/uncategorized/the-man-without-a-country-the-man-condemned-by-usa-philosophical-fiction/
 published: true
 post_date: 2014-04-27 12:21:13
 ---

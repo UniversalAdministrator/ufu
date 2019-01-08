@@ -1,13 +1,13 @@
 ---
-ID: 4014
+ID: 3817
 post_title: >
   Some Basic Universal Principles Upon
   Which to Build
-author: Royal-Highness Prince Elf
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/some-basic-universal-principles-upon-which-to-build/
+  https://universalflowuniversity.com/uncategorized/some-basic-universal-principles-upon-which-to-build/
 published: true
 post_date: 2018-01-04 23:36:49
 ---

@@ -1,13 +1,13 @@
 ---
-ID: 4059
+ID: 3791
 post_title: >
   The Prince (by Niccolò Machiavelli)
   Philosophy Audiobook
-author: UfU
-post_excerpt: The main text starts at 03:28 mark.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-prince-by-niccolo-machiavelli-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-prince-by-niccolo-machiavelli-philosophy-audiobook/
 published: true
 post_date: 2017-12-24 14:36:52
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 6232
+ID: 1725
 post_title: '[Agnostic Philosophy] HELL, , by Robert G. Ingersoll, Atheism'
-author: UfU
-post_excerpt: '[Agnostic Philosophy] HELL, Audiobook, by Robert G. Ingersoll, Atheism'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/agnostic-philosophy-hell-by-robert-g-ingersoll-atheism/
+  https://universalflowuniversity.com/uncategorized/agnostic-philosophy-hell-by-robert-g-ingersoll-atheism/
 published: true
 post_date: 2014-09-24 12:17:06
 ---

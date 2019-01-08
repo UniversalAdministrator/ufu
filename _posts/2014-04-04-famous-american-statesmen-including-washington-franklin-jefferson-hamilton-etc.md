@@ -1,16 +1,14 @@
 ---
-ID: 8040
+ID: 1039
 post_title: >
   Famous American Statesmen (including
   Washington, Franklin, Jefferson,
   Hamilton, etc.)
-author: UfU
-post_excerpt: |
-  This book Includes George Washington, Benjamin Franklin, Thomas Jefferson, Alexander Hamilton, Andrew Jackson, Daniel Webster, Henry Clay, Charles Sumner, Ulysses S. Grant, and James A. Garfield.
-  Famous American Statesmen (including Washington, Franklin, Jefferson, etc.) Audiobook by Sarah Knowles Bolton
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/famous-american-statesmen-including-washington-franklin-jefferson-hamilton-etc/
+  https://universalflowuniversity.com/uncategorized/famous-american-statesmen-including-washington-franklin-jefferson-hamilton-etc/
 published: true
 post_date: 2014-04-04 10:39:42
 ---

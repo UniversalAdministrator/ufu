@@ -1,15 +1,13 @@
 ---
-ID: 9202
+ID: 743
 post_title: >
   Songs of Innocence, a Poem by William
   Blake,
-author: UfU
-post_excerpt: >
-  Songs of Innocence, a Poem by William
-  Blake, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/songs-of-innocence-a-poem-by-william-blake/
+  https://universalflowuniversity.com/uncategorized/songs-of-innocence-a-poem-by-william-blake/
 published: true
 post_date: 2014-02-27 13:15:42
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5731
+ID: 2765
 post_title: 'The Antichrist by Friedrich Nietzsche [Philosophy ]'
-author: UfU
-post_excerpt: 'The introduction and the preface parts last till 42:34 mark and the main text starts at 42:45 mark. The Antichrist by Friedrich Nietzsche [Philosophy Audiobook]'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-antichrist-by-friedrich-nietzsche-philosophy/
+  https://universalflowuniversity.com/uncategorized/the-antichrist-by-friedrich-nietzsche-philosophy/
 published: true
 post_date: 2016-01-15 03:09:44
 ---

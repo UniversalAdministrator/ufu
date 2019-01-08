@@ -1,15 +1,13 @@
 ---
-ID: 9881
+ID: 663
 post_title: >
   The Unburied Dead, Horror Radio Show,
   Inner Sanctum Mystery, Suspense, Macabre
-author: UfU
-post_excerpt: >
-  The Unburied Dead, Horror Radio Show,
-  Inner Sanctum Mystery, Suspense, Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-unburied-dead-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
+  https://universalflowuniversity.com/uncategorized/the-unburied-dead-horror-radio-show-inner-sanctum-mystery-suspense-macabre/
 published: true
 post_date: 2014-02-18 12:50:50
 ---

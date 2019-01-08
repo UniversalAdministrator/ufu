@@ -1,13 +1,11 @@
 ---
-ID: 5996
+ID: 1821
 post_title: '[Mysticism ] Sadhana (How to Become the One with the Universe),'
-author: UfU
-post_excerpt: |
-  This one's Introduction lasts for 32:50 and the main text begins at 32:56 mark.
-  [Mysticism Audiobook] Sadhana (How to Become the One with the Universe), by Rabindranath Tagore
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mysticism-sadhana-how-to-become-the-one-with-the-universe/
+  https://universalflowuniversity.com/uncategorized/mysticism-sadhana-how-to-become-the-one-with-the-universe/
 published: true
 post_date: 2014-11-09 13:36:37
 ---

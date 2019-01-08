@@ -1,11 +1,11 @@
 ---
-ID: 4937
+ID: 2699
 post_title: '[Occult Lecture] Human Quest for Adepts, Master Alchemists and Spiritual Teachers'
-author: UfU
-post_excerpt: '[Occult Lecture] Human Quest for Adepts, Master Alchemists and Spiritual Teachers by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-human-quest-for-adepts-master-alchemists-and-spiritual-teachers/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-human-quest-for-adepts-master-alchemists-and-spiritual-teachers/
 published: true
 post_date: 2015-12-13 00:27:46
 ---

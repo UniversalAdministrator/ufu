@@ -1,13 +1,11 @@
 ---
-ID: 6091
+ID: 1923
 post_title: 'The Door Through Space [SF ] by Marion Zimmer Bradley'
-author: UfU
-post_excerpt: >
-  The Door Through Space, SF Audiobook by
-  Marion Zimmer Bradley
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-door-through-space-sf-by-marion-zimmer-bradley/
+  https://universalflowuniversity.com/uncategorized/the-door-through-space-sf-by-marion-zimmer-bradley/
 published: true
 post_date: 2014-12-23 14:41:26
 ---

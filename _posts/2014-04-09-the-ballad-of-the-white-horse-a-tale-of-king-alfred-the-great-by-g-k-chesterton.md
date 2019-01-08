@@ -1,14 +1,11 @@
 ---
-ID: 7974
+ID: 1093
 post_title: 'The Ballad of the White Horse (a Tale of King Alfred the Great)  by G. K. Chesterton'
-author: UfU
-post_excerpt: >
-  The Ballad of the White Horse (a Tale of
-  King Alfred the Great) Audiobook by G.
-  K. Chesterton
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-ballad-of-the-white-horse-a-tale-of-king-alfred-the-great-by-g-k-chesterton/
+  https://universalflowuniversity.com/uncategorized/the-ballad-of-the-white-horse-a-tale-of-king-alfred-the-great-by-g-k-chesterton/
 published: true
 post_date: 2014-04-09 11:41:55
 ---

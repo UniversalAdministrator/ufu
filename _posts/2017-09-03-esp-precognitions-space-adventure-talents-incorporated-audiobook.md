@@ -1,11 +1,11 @@
 ---
-ID: 4167
+ID: 3635
 post_title: '[ESP, Precognitions &#038; Space Adventure] Talents, Incorporated (Audiobook)'
-author: UfU
-post_excerpt: '[ESP, Precognitions & Space Adventure] Talents, Incorporated (Audiobook) by Murray Leinster'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/esp-precognitions-space-adventure-talents-incorporated-audiobook/
+  https://universalflowuniversity.com/uncategorized/esp-precognitions-space-adventure-talents-incorporated-audiobook/
 published: true
 post_date: 2017-09-03 12:31:35
 ---

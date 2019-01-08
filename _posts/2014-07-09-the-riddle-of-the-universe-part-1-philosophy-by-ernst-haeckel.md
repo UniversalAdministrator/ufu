@@ -1,15 +1,13 @@
 ---
-ID: 6467
+ID: 1551
 post_title: >
   The Riddle of the Universe Part 1,
   Philosophy , by Ernst Haeckel
-author: UfU
-post_excerpt: >
-  The Riddle of the Universe Part 1,
-  Philosophy Audiobook, by Ernst Haeckel
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-riddle-of-the-universe-part-1-philosophy-by-ernst-haeckel/
+  https://universalflowuniversity.com/uncategorized/the-riddle-of-the-universe-part-1-philosophy-by-ernst-haeckel/
 published: true
 post_date: 2014-07-09 12:28:57
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5509
+ID: 2071
 post_title: 'Armageddon Prophecy [Occult Lecture], Apocalypse and Its Mystery, The End Time Traditions'
-author: UfU
-post_excerpt: '[Occult Lecture] Armageddon Prophecy; Apocalypse and Its Mystery, The End Time Traditions, the Final War Ends in Peace, by Many P. Hall, Lecture Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/armageddon-prophecy-occult-lecture-apocalypse-and-its-mystery-the-end-time-traditions/
+  https://universalflowuniversity.com/uncategorized/armageddon-prophecy-occult-lecture-apocalypse-and-its-mystery-the-end-time-traditions/
 published: true
 post_date: 2015-02-21 16:25:31
 ---

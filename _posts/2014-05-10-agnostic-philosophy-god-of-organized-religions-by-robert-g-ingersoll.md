@@ -1,11 +1,11 @@
 ---
-ID: 7255
+ID: 1323
 post_title: '[Agnostic Philosophy] God of Organized Religions, by Robert G. Ingersoll,'
-author: UfU
-post_excerpt: '[Agnostic Philosophy] God of Organized Religions, by Robert G. Ingersoll, Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/agnostic-philosophy-god-of-organized-religions-by-robert-g-ingersoll/
+  https://universalflowuniversity.com/uncategorized/agnostic-philosophy-god-of-organized-religions-by-robert-g-ingersoll/
 published: true
 post_date: 2014-05-10 11:54:05
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 3949
+ID: 3809
 post_title: INTRODUCTION TO FRACTALS.
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/introduction-to-fractals/
+  https://universalflowuniversity.com/uncategorized/introduction-to-fractals/
 published: true
 post_date: 2018-01-02 07:03:59
 ---

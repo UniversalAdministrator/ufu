@@ -1,11 +1,11 @@
 ---
-ID: 8325
+ID: 1041
 post_title: '[Philosophy] A Few Parables of Arthur Schopenhauer, , Essay'
-author: UfU
-post_excerpt: '[Philosophy] A Few Parables of Arthur Schopenhauer, Audiobook, Essay'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-a-few-parables-of-arthur-schopenhauer-essay/
+  https://universalflowuniversity.com/uncategorized/philosophy-a-few-parables-of-arthur-schopenhauer-essay/
 published: true
 post_date: 2014-04-04 11:40:40
 ---

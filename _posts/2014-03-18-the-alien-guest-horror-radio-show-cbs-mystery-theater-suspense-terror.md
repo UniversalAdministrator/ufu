@@ -1,15 +1,13 @@
 ---
-ID: 8452
+ID: 893
 post_title: >
   The Alien Guest, Horror Radio Show, CBS
   Mystery Theater, Suspense, Terror
-author: UfU
-post_excerpt: >
-  The Alien Guest, Horror Radio Show, CBS
-  Mystery Theater, Suspense, Terror
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-alien-guest-horror-radio-show-cbs-mystery-theater-suspense-terror/
+  https://universalflowuniversity.com/uncategorized/the-alien-guest-horror-radio-show-cbs-mystery-theater-suspense-terror/
 published: true
 post_date: 2014-03-18 10:49:42
 ---

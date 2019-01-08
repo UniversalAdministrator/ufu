@@ -1,17 +1,14 @@
 ---
-ID: 7571
+ID: 1163
 post_title: >
   The Upper Berth (Secret Behind Serial
   Suicides), Horror , by Francis Marion
   Crawford
-author: UfU
-post_excerpt: >
-  The Upper Berth (Secret Behind Serial
-  Suicides), Horror Audiobook, by Francis
-  Marion Crawford
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-upper-berth-secret-behind-serial-suicides-horror-by-francis-marion-crawford/
+  https://universalflowuniversity.com/uncategorized/the-upper-berth-secret-behind-serial-suicides-horror-by-francis-marion-crawford/
 published: true
 post_date: 2014-04-18 12:30:41
 ---

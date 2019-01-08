@@ -1,15 +1,13 @@
 ---
-ID: 5549
+ID: 2719
 post_title: >
   On Philosophy and Friendship (Philosophy
   Audiobook) by Seneca
-author: UfU
-post_excerpt: >
-  On Philosophy and Friendship (Philosophy
-  Audiobook) by Seneca
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-philosophy-and-friendship-philosophy-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/on-philosophy-and-friendship-philosophy-audiobook-by-seneca/
 published: true
 post_date: 2015-12-23 00:18:43
 ---

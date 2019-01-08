@@ -1,15 +1,13 @@
 ---
-ID: 6445
+ID: 1543
 post_title: >
   The Sword of Pain, a Mystic Poem by
   George Essex Evans,
-author: UfU
-post_excerpt: >
-  The Sword of Pain, a Mystic Poem by
-  George Essex Evans, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-sword-of-pain-a-mystic-poem-by-george-essex-evans/
+  https://universalflowuniversity.com/uncategorized/the-sword-of-pain-a-mystic-poem-by-george-essex-evans/
 published: true
 post_date: 2014-07-05 12:07:12
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 9936
+ID: 420
 post_title: Support Desk
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/support-desk/
+  https://universalflowuniversity.com/support-desk/
 published: true
 post_date: 2018-05-09 07:49:11
 ---

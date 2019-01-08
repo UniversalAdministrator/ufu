@@ -1,11 +1,11 @@
 ---
-ID: 8292
+ID: 1301
 post_title: '[Occult Lecture] Self Realization as Illumination (Mystic Awakening from Within)'
-author: UfU
-post_excerpt: '[Occult Lecture] Self Realization as Illumination (Mystic Awakening from Within) by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-self-realization-as-illumination-mystic-awakening-from-within/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-self-realization-as-illumination-mystic-awakening-from-within/
 published: true
 post_date: 2014-05-07 10:58:48
 ---

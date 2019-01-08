@@ -1,11 +1,11 @@
 ---
-ID: 5101
+ID: 2489
 post_title: '[Mysticism Audiobook] Land of Spirits : On the Border (Native American Indian Spirituality)'
-author: UfU
-post_excerpt: '[Mysticism Audiobook] Land of Spirits : On the Border by Charles Alexander Eastman'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mysticism-audiobook-land-of-spirits-on-the-border-native-american-indian-spirituality/
+  https://universalflowuniversity.com/uncategorized/mysticism-audiobook-land-of-spirits-on-the-border-native-american-indian-spirituality/
 published: true
 post_date: 2015-09-06 02:21:00
 ---

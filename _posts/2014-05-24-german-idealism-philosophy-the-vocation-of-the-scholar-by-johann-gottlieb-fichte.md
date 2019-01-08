@@ -1,14 +1,11 @@
 ---
-ID: 7171
+ID: 1381
 post_title: '[German Idealism Philosophy] The Vocation of the Scholar, by Johann Gottlieb Fichte,'
-author: UfU
-post_excerpt: |
-  Introduction takes 18 minutes and main text starts at 18:04 mark.
-  This is a seminal work of German idealism philosophy.
-  [German Idealism Philosophy] The Vocation of the Scholar, by Johann Gottlieb Fichte, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/german-idealism-philosophy-the-vocation-of-the-scholar-by-johann-gottlieb-fichte/
+  https://universalflowuniversity.com/uncategorized/german-idealism-philosophy-the-vocation-of-the-scholar-by-johann-gottlieb-fichte/
 published: true
 post_date: 2014-05-24 13:55:37
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 7143
+ID: 1439
 post_title: '[Occult Lecture] Mystery of Brain and Soul (Occult Anatomy of Man), by Manly P. Hall'
-author: UfU
-post_excerpt: '[Occult Lecture] Mystery of Brain and Soul (Occult Anatomy of Man), by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-mystery-of-brain-and-soul-occult-anatomy-of-man-by-manly-p-hall/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-mystery-of-brain-and-soul-occult-anatomy-of-man-by-manly-p-hall/
 published: true
 post_date: 2014-06-07 11:40:07
 ---

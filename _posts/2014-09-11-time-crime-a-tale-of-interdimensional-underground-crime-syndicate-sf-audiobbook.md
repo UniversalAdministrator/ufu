@@ -1,17 +1,14 @@
 ---
-ID: 6310
+ID: 1701
 post_title: >
   Time Crime (A Tale of Interdimensional
   Underground Crime Syndicate), SF
   Audiobbook
-author: UfU
-post_excerpt: >
-  Time Crime (A Tale of Interdimensional
-  Underground Crime Syndicate), SF
-  Audiobbook by H. Beam Piper
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/time-crime-a-tale-of-interdimensional-underground-crime-syndicate-sf-audiobbook/
+  https://universalflowuniversity.com/uncategorized/time-crime-a-tale-of-interdimensional-underground-crime-syndicate-sf-audiobbook/
 published: true
 post_date: 2014-09-11 14:08:20
 ---

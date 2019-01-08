@@ -1,11 +1,11 @@
 ---
-ID: 8331
+ID: 1097
 post_title: '[Philosophy] A Free Man&#8217;s Worship, by Bertrand Russell, Essay,'
-author: UfU
-post_excerpt: "[Philosophy] A Free Man's Worship, by Bertrand Russell, Essay, Audiobook"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-a-free-mans-worship-by-bertrand-russell-essay/
+  https://universalflowuniversity.com/uncategorized/philosophy-a-free-mans-worship-by-bertrand-russell-essay/
 published: true
 post_date: 2014-04-10 12:22:31
 ---

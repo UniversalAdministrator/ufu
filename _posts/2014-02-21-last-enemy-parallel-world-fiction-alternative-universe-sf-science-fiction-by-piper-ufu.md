@@ -1,14 +1,11 @@
 ---
-ID: 9553
+ID: 687
 post_title: 'Last Enemy; Parallel World Fiction, Alternative Universe SF , Science Fiction, by Piper #UfU'
-author: UfU
-post_excerpt: >
-  Last Enemy, Parallel World Fiction,
-  Alternative Universe SF Audiobook by H.
-  Beam Piper
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/last-enemy-parallel-world-fiction-alternative-universe-sf-science-fiction-by-piper-ufu/
+  https://universalflowuniversity.com/uncategorized/last-enemy-parallel-world-fiction-alternative-universe-sf-science-fiction-by-piper-ufu/
 published: true
 post_date: 2014-02-21 15:27:08
 ---

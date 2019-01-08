@@ -1,11 +1,11 @@
 ---
-ID: 4451
+ID: 3279
 post_title: '[Systemic Analysis of Stoicism] Stoicism (Philosophy Audiobook)'
-author: UfU
-post_excerpt: '[Systemic Analysis of Stoicism] Stoicism (Philosophy Audiobook) by George Stock'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/systemic-analysis-of-stoicism-stoicism-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/systemic-analysis-of-stoicism-stoicism-philosophy-audiobook/
 published: true
 post_date: 2016-12-25 15:38:28
 ---

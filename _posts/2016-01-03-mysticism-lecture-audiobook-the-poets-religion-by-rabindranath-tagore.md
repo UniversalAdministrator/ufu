@@ -1,11 +1,11 @@
 ---
-ID: 5447
+ID: 2741
 post_title: '(Mysticism Lecture Audiobook) The Poet&#8217;s Religion (by Rabindranath Tagore)'
-author: UfU
-post_excerpt: "The Poet's Religion (Mysticism Lecture Audiobook) by Rabindranath Tagore (from the collection of short writings Creative Unity)"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mysticism-lecture-audiobook-the-poets-religion-by-rabindranath-tagore/
+  https://universalflowuniversity.com/uncategorized/mysticism-lecture-audiobook-the-poets-religion-by-rabindranath-tagore/
 published: true
 post_date: 2016-01-03 03:00:15
 ---

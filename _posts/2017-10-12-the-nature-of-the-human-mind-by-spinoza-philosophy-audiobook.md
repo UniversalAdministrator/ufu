@@ -1,13 +1,13 @@
 ---
-ID: 4159
+ID: 3689
 post_title: >
   The Nature of the Human Mind (by
   Spinoza) Philosophy Audiobook
-author: UfU
-post_excerpt: 'The Nature of the Human Mind [Philosophy Audiobook] by Benedict de Spinoza'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-nature-of-the-human-mind-by-spinoza-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-nature-of-the-human-mind-by-spinoza-philosophy-audiobook/
 published: true
 post_date: 2017-10-12 12:58:15
 ---

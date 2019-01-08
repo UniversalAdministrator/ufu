@@ -1,13 +1,11 @@
 ---
-ID: 8211
+ID: 941
 post_title: Cabbages and Kings, by O. Henry,
-author: UfU
-post_excerpt: >
-  Cabbages and Kings, by O. Henry,
-  Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/cabbages-and-kings-by-o-henry/
+  https://universalflowuniversity.com/uncategorized/cabbages-and-kings-by-o-henry/
 published: true
 post_date: 2014-03-24 10:13:27
 ---

@@ -1,17 +1,14 @@
 ---
-ID: 8097
+ID: 1119
 post_title: >
   Where the World is Quiet (the Beings
   from Another Dimension), SF , Science
   Fiction
-author: UfU
-post_excerpt: >
-  Where the World is Quiet (the Beings
-  from Another Dimension), SF Audiobook,
-  Science Fiction by Henry Kuttner
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/where-the-world-is-quiet-the-beings-from-another-dimension-sf-science-fiction/
+  https://universalflowuniversity.com/uncategorized/where-the-world-is-quiet-the-beings-from-another-dimension-sf-science-fiction/
 published: true
 post_date: 2014-04-12 14:01:59
 ---

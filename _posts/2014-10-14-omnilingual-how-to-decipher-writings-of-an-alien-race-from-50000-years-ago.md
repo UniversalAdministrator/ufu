@@ -1,17 +1,13 @@
 ---
-ID: 6169
+ID: 1765
 post_title: >
   Omnilingual (How to Decipher Writings of
   an Alien Race from 50,000 Years Ago?),
-author: UfU
-post_excerpt: >
-  Omnilingual (How to Decipher Writings of
-  an Alien Race from 50,000 Years Ago?),
-  Audiobook by H. Beam Piper, Science
-  Fiction
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/omnilingual-how-to-decipher-writings-of-an-alien-race-from-50000-years-ago/
+  https://universalflowuniversity.com/uncategorized/omnilingual-how-to-decipher-writings-of-an-alien-race-from-50000-years-ago/
 published: true
 post_date: 2014-10-14 13:55:16
 ---

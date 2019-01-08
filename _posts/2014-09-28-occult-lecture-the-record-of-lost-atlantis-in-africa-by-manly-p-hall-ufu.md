@@ -1,11 +1,11 @@
 ---
-ID: 9514
+ID: 1733
 post_title: '[Occult Lecture] The Record of Lost Atlantis in Africa by Manly P. Hall #UfU'
-author: UfU
-post_excerpt: '[Occult Lecture] The Record of Lost Atlantis in Africa by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/occult-lecture-the-record-of-lost-atlantis-in-africa-by-manly-p-hall-ufu/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-record-of-lost-atlantis-in-africa-by-manly-p-hall-ufu/
 published: true
 post_date: 2014-09-28 13:45:15
 ---

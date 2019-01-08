@@ -1,11 +1,11 @@
 ---
-ID: 8354
+ID: 913
 post_title: '[Einstein&#8217;s Lecture] Ether and the Theory of Relativity, Science'
-author: UfU
-post_excerpt: "[Einstein's Lecture] Ether and the Theory of Relativity, Science Audiobook"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/einsteins-lecture-ether-and-the-theory-of-relativity-science/
+  https://universalflowuniversity.com/uncategorized/einsteins-lecture-ether-and-the-theory-of-relativity-science/
 published: true
 post_date: 2014-03-21 12:04:21
 ---

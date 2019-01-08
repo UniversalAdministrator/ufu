@@ -1,15 +1,13 @@
 ---
-ID: 5541
+ID: 3097
 post_title: >
   On the Reasons for Withdrawing from the
   World (Philosophy Audiobook) by Seneca
-author: UfU
-post_excerpt: >
-  On the Reasons for Withdrawing from the
-  World (Philosophy Audiobook) by Seneca
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-the-reasons-for-withdrawing-from-the-world-philosophy-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/on-the-reasons-for-withdrawing-from-the-world-philosophy-audiobook-by-seneca/
 published: true
 post_date: 2016-08-07 15:55:26
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5007
+ID: 2619
 post_title: '[How to Draw the Face of Lucifer] Lucifer (Audiobook)'
-author: UfU
-post_excerpt: '[How to Draw the Face of Lucifer] Lucifer (Audiobook) by Anatole France'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/how-to-draw-the-face-of-lucifer-lucifer-audiobook/
+  https://universalflowuniversity.com/uncategorized/how-to-draw-the-face-of-lucifer-lucifer-audiobook/
 published: true
 post_date: 2015-11-05 00:37:43
 ---

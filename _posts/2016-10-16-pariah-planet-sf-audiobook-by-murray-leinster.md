@@ -1,11 +1,11 @@
 ---
-ID: 4529
+ID: 3189
 post_title: 'Pariah Planet [SF Audiobook] by Murray Leinster'
-author: UfU
-post_excerpt: 'Pariah Planet [SF Audiobook] by Murray Leinster'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/pariah-planet-sf-audiobook-by-murray-leinster/
+  https://universalflowuniversity.com/uncategorized/pariah-planet-sf-audiobook-by-murray-leinster/
 published: true
 post_date: 2016-10-16 16:54:25
 ---

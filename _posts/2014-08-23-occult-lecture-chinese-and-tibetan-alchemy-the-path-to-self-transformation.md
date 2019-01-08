@@ -1,11 +1,11 @@
 ---
-ID: 6307
+ID: 1653
 post_title: '[Occult Lecture] Chinese and Tibetan Alchemy, the Path to Self-Transformation'
-author: UfU
-post_excerpt: '[Occult Lecture] Chinese and Tibetan Alchemy, the Path to Self-Transformation by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-chinese-and-tibetan-alchemy-the-path-to-self-transformation/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-chinese-and-tibetan-alchemy-the-path-to-self-transformation/
 published: true
 post_date: 2014-08-23 13:05:16
 ---

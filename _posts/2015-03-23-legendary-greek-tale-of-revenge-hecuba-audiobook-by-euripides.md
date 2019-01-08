@@ -1,13 +1,11 @@
 ---
-ID: 5449
+ID: 2133
 post_title: '[Legendary Greek Tale of Revenge] Hecuba, Audiobook by Euripides'
-author: UfU
-post_excerpt: |
-  The author, Euripides (Greek: Εὐριπίδης) (c. 480 – 406 BC) was one of the three great tragedians of classical Athens, the other two being Aeschylus and Sophocles.
-  [Legendary Greek Tale of Revenge] Hecuba, Audiobook by Euripides
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/legendary-greek-tale-of-revenge-hecuba-audiobook-by-euripides/
+  https://universalflowuniversity.com/uncategorized/legendary-greek-tale-of-revenge-hecuba-audiobook-by-euripides/
 published: true
 post_date: 2015-03-23 17:22:07
 ---

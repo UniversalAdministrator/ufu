@@ -1,11 +1,11 @@
 ---
-ID: 5445
+ID: 2137
 post_title: '[How to Use Your Creativity] The Creative Ideal (Mysticism Lecture Audiobook)'
-author: UfU
-post_excerpt: '[How to Use Your Creativity] The Creative Ideal (Mysticism Lecture Audiobook) by Rabindranath Tagore'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/how-to-use-your-creativity-the-creative-ideal-mysticism-lecture-audiobook/
+  https://universalflowuniversity.com/uncategorized/how-to-use-your-creativity-the-creative-ideal-mysticism-lecture-audiobook/
 published: true
 post_date: 2015-03-25 18:35:09
 ---

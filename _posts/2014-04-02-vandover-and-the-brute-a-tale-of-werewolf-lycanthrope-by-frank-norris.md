@@ -1,14 +1,11 @@
 ---
-ID: 8052
+ID: 1027
 post_title: 'Vandover and the Brute, a Tale of Werewolf (Lycanthrope),  by Frank Norris'
-author: UfU
-post_excerpt: >
-  Vandover and the Brute, a Tale of
-  Werewolf (Lycanthrope), Audiobook by
-  Frank Norris
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/vandover-and-the-brute-a-tale-of-werewolf-lycanthrope-by-frank-norris/
+  https://universalflowuniversity.com/uncategorized/vandover-and-the-brute-a-tale-of-werewolf-lycanthrope-by-frank-norris/
 published: true
 post_date: 2014-04-02 12:10:07
 ---

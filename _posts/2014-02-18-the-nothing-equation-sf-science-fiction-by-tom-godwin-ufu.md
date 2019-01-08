@@ -1,11 +1,11 @@
 ---
-ID: 9410
+ID: 661
 post_title: 'The Nothing Equation, SF , Science Fiction, by Tom Godwin #UfU'
-author: UfU
-post_excerpt: '#UfU The Nothing Equation, SF Audiobook, Science Fiction, by Tom Godwin'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-nothing-equation-sf-science-fiction-by-tom-godwin-ufu/
+  https://universalflowuniversity.com/uncategorized/the-nothing-equation-sf-science-fiction-by-tom-godwin-ufu/
 published: true
 post_date: 2014-02-18 13:11:15
 ---

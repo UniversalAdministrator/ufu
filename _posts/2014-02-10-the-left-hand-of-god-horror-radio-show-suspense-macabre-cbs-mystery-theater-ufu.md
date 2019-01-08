@@ -1,13 +1,11 @@
 ---
-ID: 9613
+ID: 581
 post_title: 'The Left Hand of God; Horror Radio Show, Suspense, Macabre, CBS Mystery Theater, #UfU'
-author: UfU
-post_excerpt: >
-  The Left Hand of God; Horror Radio Show,
-  Suspense, Macabre, CBS Mystery Theater,
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-left-hand-of-god-horror-radio-show-suspense-macabre-cbs-mystery-theater-ufu/
+  https://universalflowuniversity.com/uncategorized/the-left-hand-of-god-horror-radio-show-suspense-macabre-cbs-mystery-theater-ufu/
 published: true
 post_date: 2014-02-10 13:09:10
 ---

@@ -1,17 +1,14 @@
 ---
-ID: 8322
+ID: 929
 post_title: >
   The Philosophy of Composition, How to
   Improve Your Writing Skill, by Edgar
   Allan Poe,
-author: UfU
-post_excerpt: >
-  The Philosophy of Composition, How to
-  Improve Your Writing Skill, by Edgar
-  Allan Poe, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-philosophy-of-composition-how-to-improve-your-writing-skill-by-edgar-allan-poe/
+  https://universalflowuniversity.com/uncategorized/the-philosophy-of-composition-how-to-improve-your-writing-skill-by-edgar-allan-poe/
 published: true
 post_date: 2014-03-22 12:38:53
 ---

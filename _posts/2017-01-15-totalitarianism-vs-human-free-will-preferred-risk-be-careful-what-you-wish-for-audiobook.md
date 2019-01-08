@@ -1,13 +1,11 @@
 ---
-ID: 4423
+ID: 3309
 post_title: '[Totalitarianism VS. Human Free Will] Preferred Risk (Be careful What you Wish For!) Audiobook'
-author: UfU
-post_excerpt: |
-  If a society eliminated all the dangers of life for you, would you be happy? Well, be careful what you wish for because everything has its price!
-  [Totalitarianism VS. Human Free Will] Preferred Risk (Audiobook by Frederik Pohl and Lester del Rey)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/totalitarianism-vs-human-free-will-preferred-risk-be-careful-what-you-wish-for-audiobook/
+  https://universalflowuniversity.com/uncategorized/totalitarianism-vs-human-free-will-preferred-risk-be-careful-what-you-wish-for-audiobook/
 published: true
 post_date: 2017-01-15 13:43:03
 ---

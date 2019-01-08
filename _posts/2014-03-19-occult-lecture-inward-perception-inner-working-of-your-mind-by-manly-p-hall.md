@@ -1,11 +1,11 @@
 ---
-ID: 8301
+ID: 897
 post_title: '[Occult Lecture] Inward Perception, Inner Working of Your Mind, by Manly P. Hall'
-author: UfU
-post_excerpt: '[Occult Lecture] Inward Perception, Inner Working of Your Mind, by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-inward-perception-inner-working-of-your-mind-by-manly-p-hall/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-inward-perception-inner-working-of-your-mind-by-manly-p-hall/
 published: true
 post_date: 2014-03-19 11:31:44
 ---

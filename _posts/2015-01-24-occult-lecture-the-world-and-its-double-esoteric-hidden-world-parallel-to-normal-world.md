@@ -1,11 +1,11 @@
 ---
-ID: 5960
+ID: 2013
 post_title: '[Occult Lecture] The World and Its Double (Esoteric Hidden World Parallel to Normal World)'
-author: UfU
-post_excerpt: '[Occult Lecture] The World and Its Double (Esoteric Hidden World Parallel to Normal World) by Terence McKenna, Audio Lecture'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-world-and-its-double-esoteric-hidden-world-parallel-to-normal-world/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-world-and-its-double-esoteric-hidden-world-parallel-to-normal-world/
 published: true
 post_date: 2015-01-24 15:47:48
 ---

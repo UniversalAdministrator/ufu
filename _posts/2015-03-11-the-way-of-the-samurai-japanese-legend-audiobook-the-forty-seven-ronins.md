@@ -1,11 +1,11 @@
 ---
-ID: 5479
+ID: 2107
 post_title: '(The Way of the Samurai) [Japanese Legend Audiobook] &#8220;The Forty Seven Ronins&#8221;'
-author: UfU
-post_excerpt: '(The Way of the Samurai) [Japanese Legend Audiobook] "The Forty Seven Ronins" by Algernon Bertram Freeman-Mitford'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-way-of-the-samurai-japanese-legend-audiobook-the-forty-seven-ronins/
+  https://universalflowuniversity.com/uncategorized/the-way-of-the-samurai-japanese-legend-audiobook-the-forty-seven-ronins/
 published: true
 post_date: 2015-03-11 16:28:25
 ---

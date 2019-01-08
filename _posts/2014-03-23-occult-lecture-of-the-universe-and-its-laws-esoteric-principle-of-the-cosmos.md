@@ -1,11 +1,11 @@
 ---
-ID: 8943
+ID: 935
 post_title: '[Occult Lecture] Of the Universe and Its Laws, Esoteric Principle of the Cosmos,'
-author: UfU
-post_excerpt: '[Occult Lecture] Of the Universe and Its Laws, Esoteric Principle of the Cosmos, by Manly P Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-of-the-universe-and-its-laws-esoteric-principle-of-the-cosmos/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-of-the-universe-and-its-laws-esoteric-principle-of-the-cosmos/
 published: true
 post_date: 2014-03-23 14:03:26
 ---

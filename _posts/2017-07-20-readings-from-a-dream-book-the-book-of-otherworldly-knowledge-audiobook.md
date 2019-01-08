@@ -1,13 +1,13 @@
 ---
-ID: 4203
+ID: 3561
 post_title: >
   Readings from a Dream-book (The Book of
   Otherworldly Knowledge) Audiobook
-author: UfU
-post_excerpt: '[Spiritual - Psychological Fantasy Tale] Readings from a Dream-book by Lafcadio Hearn (from the essay and legends collection "Shadow wings")'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/readings-from-a-dream-book-the-book-of-otherworldly-knowledge-audiobook/
+  https://universalflowuniversity.com/uncategorized/readings-from-a-dream-book-the-book-of-otherworldly-knowledge-audiobook/
 published: true
 post_date: 2017-07-20 13:08:40
 ---

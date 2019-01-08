@@ -1,11 +1,11 @@
 ---
-ID: 5399
+ID: 2183
 post_title: '[Spirituality Lecture] Religion and Neurology'
-author: UfU
-post_excerpt: '[Spirituality Lecture] Religion and Neurology, Audiobook, by William James'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/spirituality-lecture-religion-and-neurology/
+  https://universalflowuniversity.com/uncategorized/spirituality-lecture-religion-and-neurology/
 published: true
 post_date: 2015-04-15 19:42:58
 ---

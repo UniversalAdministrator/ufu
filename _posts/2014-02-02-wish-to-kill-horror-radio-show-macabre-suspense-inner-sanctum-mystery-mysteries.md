@@ -1,17 +1,14 @@
 ---
-ID: 9729
+ID: 513
 post_title: >
   Wish to Kill, Horror Radio Show,
   Macabre, Suspense, Inner Sanctum
   Mystery, Mysteries
-author: UfU
-post_excerpt: >
-  Wish to Kill, Horror Radio Show,
-  Macabre, Suspense, Inner Sanctum
-  Mystery, Mysteries
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/wish-to-kill-horror-radio-show-macabre-suspense-inner-sanctum-mystery-mysteries/
+  https://universalflowuniversity.com/uncategorized/wish-to-kill-horror-radio-show-macabre-suspense-inner-sanctum-mystery-mysteries/
 published: true
 post_date: 2014-02-02 12:41:38
 ---

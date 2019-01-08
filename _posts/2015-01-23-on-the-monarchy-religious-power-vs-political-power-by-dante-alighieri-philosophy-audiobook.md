@@ -1,14 +1,14 @@
 ---
-ID: 5642
+ID: 2007
 post_title: >
   On the Monarchy (Religious Power VS.
   Political Power) by Dante Alighieri,
   Philosophy Audiobook
-author: UfU
-post_excerpt: 'On the Monarchy (Original Title: De Monarchia)  [Religious Power VS. Political Power] by Dante Alighieri, Philosophy Audiobook, Politics'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-the-monarchy-religious-power-vs-political-power-by-dante-alighieri-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/on-the-monarchy-religious-power-vs-political-power-by-dante-alighieri-philosophy-audiobook/
 published: true
 post_date: 2015-01-23 16:29:18
 ---

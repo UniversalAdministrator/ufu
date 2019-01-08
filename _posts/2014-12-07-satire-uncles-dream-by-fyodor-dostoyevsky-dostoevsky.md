@@ -1,11 +1,11 @@
 ---
-ID: 5831
+ID: 1889
 post_title: '[Satire ] Uncle&#8217;s Dream, by Fyodor Dostoyevsky (Dostoevsky)'
-author: UfU
-post_excerpt: "[Satire Audiobook] Uncle's Dream, by Fyodor Dostoyevsky (Dostoevsky)"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/satire-uncles-dream-by-fyodor-dostoyevsky-dostoevsky/
+  https://universalflowuniversity.com/uncategorized/satire-uncles-dream-by-fyodor-dostoyevsky-dostoevsky/
 published: true
 post_date: 2014-12-07 14:53:21
 ---

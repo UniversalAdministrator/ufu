@@ -1,14 +1,11 @@
 ---
-ID: 7163
+ID: 2049
 post_title: '(Time-Travel and Its Dilemma) The Skull  [SF ] by Philip K. Dick'
-author: UfU
-post_excerpt: >
-  (Time-Travel and Its Dilemma) The Skull,
-  SF Audiobook by Philip K. Dick, Science
-  Fiction
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/time-travel-and-its-dilemma-the-skull-sf-by-philip-k-dick/
+  https://universalflowuniversity.com/uncategorized/time-travel-and-its-dilemma-the-skull-sf-by-philip-k-dick/
 published: true
 post_date: 2015-02-11 16:10:02
 ---

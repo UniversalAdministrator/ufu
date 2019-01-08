@@ -1,17 +1,14 @@
 ---
-ID: 6337
+ID: 1645
 post_title: >
   The Sorcerers (The Celtic Twilight),
   Irish Occult Legend , by William Butler
   Yeats,
-author: UfU
-post_excerpt: >
-  The Sorcerers (The Celtic Twilight),
-  Irish Occult Legend Audiobook, by
-  William Butler Yeats
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-sorcerers-the-celtic-twilight-irish-occult-legend-by-william-butler-yeats/
+  https://universalflowuniversity.com/uncategorized/the-sorcerers-the-celtic-twilight-irish-occult-legend-by-william-butler-yeats/
 published: true
 post_date: 2014-08-19 13:38:00
 ---

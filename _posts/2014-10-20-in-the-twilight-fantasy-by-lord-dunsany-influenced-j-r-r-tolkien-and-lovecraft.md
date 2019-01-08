@@ -1,17 +1,14 @@
 ---
-ID: 6202
+ID: 1777
 post_title: >
   In the Twilight, Fantasy , by Lord
   Dunsany (Influenced J. R. R. Tolkien and
   Lovecraft)
-author: UfU
-post_excerpt: |
-  Lord Dunsany was a major influence on J. R. R. Tolkien and Lovecraft.
-  He is still considered as one of the best fantasy writers.
-  In the Twilight, Fantasy Audiobook, by Lord Dunsany (Influenced J. R. R. Tolkien and Lovecraft)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/in-the-twilight-fantasy-by-lord-dunsany-influenced-j-r-r-tolkien-and-lovecraft/
+  https://universalflowuniversity.com/uncategorized/in-the-twilight-fantasy-by-lord-dunsany-influenced-j-r-r-tolkien-and-lovecraft/
 published: true
 post_date: 2014-10-20 14:35:34
 ---

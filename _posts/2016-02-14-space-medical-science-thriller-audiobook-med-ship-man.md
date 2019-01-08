@@ -1,11 +1,11 @@
 ---
-ID: 4865
+ID: 2829
 post_title: '[Space Medical-Science Thriller Audiobook] Med Ship Man'
-author: UfU
-post_excerpt: '[Space Medical-Science Thriller Audiobook] Med Ship Man by Murray Leinster (Medical SF Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/space-medical-science-thriller-audiobook-med-ship-man/
+  https://universalflowuniversity.com/uncategorized/space-medical-science-thriller-audiobook-med-ship-man/
 published: true
 post_date: 2016-02-14 22:52:34
 ---

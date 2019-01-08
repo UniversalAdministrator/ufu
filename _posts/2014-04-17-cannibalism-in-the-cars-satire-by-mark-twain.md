@@ -1,13 +1,11 @@
 ---
-ID: 7647
+ID: 1147
 post_title: 'Cannibalism in the Cars, Satire  by Mark Twain'
-author: UfU
-post_excerpt: >
-  Cannibalism in the Cars, Satire
-  Audiobook by Mark Twain
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/cannibalism-in-the-cars-satire-by-mark-twain/
+  https://universalflowuniversity.com/uncategorized/cannibalism-in-the-cars-satire-by-mark-twain/
 published: true
 post_date: 2014-04-17 12:55:32
 ---

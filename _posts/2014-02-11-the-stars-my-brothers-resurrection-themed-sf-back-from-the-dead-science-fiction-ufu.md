@@ -1,14 +1,11 @@
 ---
-ID: 9597
+ID: 589
 post_title: 'The Stars, My Brothers; Resurrection Themed SF , Back from the Dead, Science Fiction #UfU'
-author: UfU
-post_excerpt: >
-  The Stars, My Brothers; Resurrection
-  Themed SF Audiobook, Back from the Dead,
-  Science Fiction by Edmond Hamilton
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-stars-my-brothers-resurrection-themed-sf-back-from-the-dead-science-fiction-ufu/
+  https://universalflowuniversity.com/uncategorized/the-stars-my-brothers-resurrection-themed-sf-back-from-the-dead-science-fiction-ufu/
 published: true
 post_date: 2014-02-11 14:51:19
 ---

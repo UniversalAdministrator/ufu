@@ -1,11 +1,11 @@
 ---
-ID: 5319
+ID: 2531
 post_title: 'Why the Dream Disguises the Desires? [Psychology Audiobook] by Sigmund Freud'
-author: UfU
-post_excerpt: 'Why the Dream Disguises the Desires? [Psychology Audiobook] by Sigmund Freud'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/why-the-dream-disguises-the-desires-psychology-audiobook-by-sigmund-freud/
+  https://universalflowuniversity.com/uncategorized/why-the-dream-disguises-the-desires-psychology-audiobook-by-sigmund-freud/
 published: true
 post_date: 2015-09-25 01:32:06
 ---

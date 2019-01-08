@@ -1,11 +1,11 @@
 ---
-ID: 7191
+ID: 1471
 post_title: 'At the Earth&#8217;s Core (A Tale of Hollow-Inner-Earth Theory),'
-author: UfU
-post_excerpt: "At the Earth's Core (A Tale of Hollow-Inner-Earth Theory), Audiobook by Edgar Rice Burroughs"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/at-the-earths-core-a-tale-of-hollow-inner-earth-theory/
+  https://universalflowuniversity.com/uncategorized/at-the-earths-core-a-tale-of-hollow-inner-earth-theory/
 published: true
 post_date: 2014-06-17 12:13:26
 ---

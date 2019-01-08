@@ -1,11 +1,11 @@
 ---
-ID: 4871
+ID: 2821
 post_title: 'Superstition and Witchcraft in Cuba [History Audiobook]'
-author: UfU
-post_excerpt: 'Superstition and Witchcraft in Cuba (from the collection Cuban Folk Lore by L. Roy Terwilliger) [History Audiobook]'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/superstition-and-witchcraft-in-cuba-history-audiobook/
+  https://universalflowuniversity.com/uncategorized/superstition-and-witchcraft-in-cuba-history-audiobook/
 published: true
 post_date: 2016-02-10 23:13:25
 ---

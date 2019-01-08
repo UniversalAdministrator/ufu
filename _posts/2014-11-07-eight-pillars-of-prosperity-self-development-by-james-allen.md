@@ -1,16 +1,13 @@
 ---
-ID: 6026
+ID: 1815
 post_title: >
   Eight Pillars of Prosperity,
   Self-Development , by James Allen
-author: UfU
-post_excerpt: >
-  Eight Pillars of Prosperity,
-  Self-Development Audiobook, by James
-  Allen
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/eight-pillars-of-prosperity-self-development-by-james-allen/
+  https://universalflowuniversity.com/uncategorized/eight-pillars-of-prosperity-self-development-by-james-allen/
 published: true
 post_date: 2014-11-07 14:45:14
 ---

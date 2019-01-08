@@ -1,17 +1,14 @@
 ---
-ID: 8337
+ID: 881
 post_title: >
   Foundation Stones to Happiness and
   Success, Self-Development , by James
   Allen
-author: UfU
-post_excerpt: >
-  Foundation Stones to Happiness and
-  Success, Self-Development Audiobook, by
-  James Allen
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/foundation-stones-to-happiness-and-success-self-development-by-james-allen/
+  https://universalflowuniversity.com/uncategorized/foundation-stones-to-happiness-and-success-self-development-by-james-allen/
 published: true
 post_date: 2014-03-17 11:23:09
 ---

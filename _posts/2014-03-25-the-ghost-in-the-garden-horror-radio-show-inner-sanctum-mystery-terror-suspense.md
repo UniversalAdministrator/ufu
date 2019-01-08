@@ -1,17 +1,14 @@
 ---
-ID: 8160
+ID: 955
 post_title: >
   The Ghost in the Garden, Horror Radio
   Show, Inner Sanctum Mystery, Terror,
   Suspense
-author: UfU
-post_excerpt: >
-  The Ghost in the Garden, Horror Radio
-  Show, Inner Sanctum Mystery, Terror,
-  Suspense
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-ghost-in-the-garden-horror-radio-show-inner-sanctum-mystery-terror-suspense/
+  https://universalflowuniversity.com/uncategorized/the-ghost-in-the-garden-horror-radio-show-inner-sanctum-mystery-terror-suspense/
 published: true
 post_date: 2014-03-25 12:32:05
 ---

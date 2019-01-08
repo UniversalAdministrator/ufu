@@ -1,14 +1,11 @@
 ---
-ID: 9258
+ID: 717
 post_title: 'The Wanderings of Oisin; Myth of Ireland, Irish Legend,  by William Butler Yeats'
-author: UfU
-post_excerpt: >
-  The Wanderings of Oisin; Myth of
-  Ireland, Irish Legend, Audiobook by
-  William Butler Yeats
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-wanderings-of-oisin-myth-of-ireland-irish-legend-by-william-butler-yeats/
+  https://universalflowuniversity.com/uncategorized/the-wanderings-of-oisin-myth-of-ireland-irish-legend-by-william-butler-yeats/
 published: true
 post_date: 2014-02-24 12:44:59
 ---

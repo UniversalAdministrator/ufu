@@ -1,11 +1,11 @@
 ---
-ID: 5157
+ID: 2447
 post_title: '[Satire on Utopian Society] Erewhon (Part &#8220;1984&#8221;, Part &#8220;Gulliver&#8217;s Travels&#8221;) Audiobook'
-author: UfU
-post_excerpt: "[Satire on Utopian Society] Erewhon (Part 1984, Part Gulliver's Travels) Audiobook by Erewhon"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/satire-on-utopian-society-erewhon-part-1984-part-gullivers-travels-audiobook/
+  https://universalflowuniversity.com/uncategorized/satire-on-utopian-society-erewhon-part-1984-part-gullivers-travels-audiobook/
 published: true
 post_date: 2015-08-17 03:25:04
 ---

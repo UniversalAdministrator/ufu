@@ -1,17 +1,14 @@
 ---
-ID: 9773
+ID: 495
 post_title: >
   The Misplaced Battleship, SF ,
   Adventure, by Harry Harrison, Science
   Fiction
-author: UfU
-post_excerpt: >
-  The Misplaced Battleship, SF Audiobook,
-  Adventure, by Harry Harrison, Science
-  Fiction
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-misplaced-battleship-sf-adventure-by-harry-harrison-science-fiction/
+  https://universalflowuniversity.com/uncategorized/the-misplaced-battleship-sf-adventure-by-harry-harrison-science-fiction/
 published: true
 post_date: 2014-01-31 13:08:50
 ---

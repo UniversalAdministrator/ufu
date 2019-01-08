@@ -1,11 +1,11 @@
 ---
-ID: 5957
+ID: 1951
 post_title: '[A Tale of Mysterious, God-Like Super-Computer] Cosmic Computer  (SF )'
-author: UfU
-post_excerpt: '[A Tale of Mysterious, God-Like Super-Computer] Cosmic Computer, SF Audiobook by H. Beam PIPER'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-mysterious-god-like-super-computer-cosmic-computer-sf/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-mysterious-god-like-super-computer-cosmic-computer-sf/
 published: true
 post_date: 2014-12-31 16:08:38
 ---

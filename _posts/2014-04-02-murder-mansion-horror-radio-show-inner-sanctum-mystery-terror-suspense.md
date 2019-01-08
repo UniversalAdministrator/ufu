@@ -1,15 +1,13 @@
 ---
-ID: 8112
+ID: 1021
 post_title: >
   Murder Mansion, Horror Radio Show, Inner
   Sanctum Mystery, Terror, Suspense
-author: UfU
-post_excerpt: >
-  Murder Mansion, Horror Radio Show, Inner
-  Sanctum Mystery, Terror, Suspense
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/murder-mansion-horror-radio-show-inner-sanctum-mystery-terror-suspense/
+  https://universalflowuniversity.com/uncategorized/murder-mansion-horror-radio-show-inner-sanctum-mystery-terror-suspense/
 published: true
 post_date: 2014-04-02 10:56:41
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5626
+ID: 2753
 post_title: '[Interesting Take on Humanity by Prometheus] Wager of Prometheus (by &#8220;the Schopenhauer of Italia&#8221;)'
-author: UfU
-post_excerpt: '[Interesting Take on Humanity by Prometheus] The Wager of Prometheus (by "the Schopenhauer of Italia", Giacomo Leopardi) Satire Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/interesting-take-on-humanity-by-prometheus-wager-of-prometheus-by-the-schopenhauer-of-italia/
+  https://universalflowuniversity.com/uncategorized/interesting-take-on-humanity-by-prometheus-wager-of-prometheus-by-the-schopenhauer-of-italia/
 published: true
 post_date: 2016-01-09 02:24:46
 ---

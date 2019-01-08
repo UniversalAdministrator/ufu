@@ -1,11 +1,11 @@
 ---
-ID: 4353
+ID: 3673
 post_title: '[Forgotten Pagan Rites &#038; Secret Society: Occult Horror] The Three Impostors'
-author: UfU
-post_excerpt: '[Occult Horror on a Secret Society & Forgotten Pagan Rites] The Three Impostors by Arthur Machen (Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/forgotten-pagan-rites-secret-society-occult-horror-the-three-impostors/
+  https://universalflowuniversity.com/uncategorized/forgotten-pagan-rites-secret-society-occult-horror-the-three-impostors/
 published: true
 post_date: 2017-09-30 13:11:01
 ---

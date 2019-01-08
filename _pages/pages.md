@@ -1,11 +1,11 @@
 ---
-ID: 1332
+ID: 371
 post_title: Pages
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/customer-area/pages/
+  https://universalflowuniversity.com/pages/
 published: true
 post_date: 2017-04-15 17:10:24
 ---

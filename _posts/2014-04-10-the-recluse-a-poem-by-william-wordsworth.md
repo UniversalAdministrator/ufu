@@ -1,15 +1,13 @@
 ---
-ID: 7950
+ID: 1101
 post_title: >
   The Recluse, a Poem by William
   Wordsworth,
-author: UfU
-post_excerpt: >
-  The Recluse, a Poem by William
-  Wordsworth, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-recluse-a-poem-by-william-wordsworth/
+  https://universalflowuniversity.com/uncategorized/the-recluse-a-poem-by-william-wordsworth/
 published: true
 post_date: 2014-04-10 12:56:05
 ---

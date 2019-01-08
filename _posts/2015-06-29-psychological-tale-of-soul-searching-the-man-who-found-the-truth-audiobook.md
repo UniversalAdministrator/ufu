@@ -1,16 +1,13 @@
 ---
-ID: 5213
+ID: 2343
 post_title: >
   (Psychological Tale of Soul-Searching)
   The Man Who Found the Truth, Audiobook
-author: UfU
-post_excerpt: >
-  (Psychological Tale of Soul-Searching)
-  The Man Who Found the Truth, Audiobook
-  by Leonid Nikolayevich Andreyev
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/psychological-tale-of-soul-searching-the-man-who-found-the-truth-audiobook/
+  https://universalflowuniversity.com/uncategorized/psychological-tale-of-soul-searching-the-man-who-found-the-truth-audiobook/
 published: true
 post_date: 2015-06-29 20:10:23
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 4863
+ID: 2833
 post_title: 'Edgar Allan Poe [Biography Audiobook]'
-author: UfU
-post_excerpt: |
-  This is a biography portion of the collected works of Edgar Allan Poe Raven Edition and it covers his younger years, the development of his style and works and his death.
-  [Biography of a Tormented Genius] Edgar Allan Poe (Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/edgar-allan-poe-biography-audiobook/
+  https://universalflowuniversity.com/uncategorized/edgar-allan-poe-biography-audiobook/
 published: true
 post_date: 2016-02-17 01:54:04
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 8946
+ID: 843
 post_title: '[Occult Lecture] Of Creation and the Gods, The Universe According to Esoteric Philosophy, by Hall'
-author: UfU
-post_excerpt: '[Occult Lecture] Of Creation and the Gods, The Universe according to Esoteric Philosophy, by Manly P Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-of-creation-and-the-gods-the-universe-according-to-esoteric-philosophy-by-hall/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-of-creation-and-the-gods-the-universe-according-to-esoteric-philosophy-by-hall/
 published: true
 post_date: 2014-03-12 12:21:55
 ---

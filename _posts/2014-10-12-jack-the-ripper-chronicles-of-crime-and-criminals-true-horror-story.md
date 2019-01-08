@@ -1,16 +1,13 @@
 ---
-ID: 6190
+ID: 1761
 post_title: >
   Jack the Ripper (Chronicles of Crime and
   Criminals), True Horror Story
-author: UfU
-post_excerpt: |
-  The story of Jack the Ripper (Whitechapel Murders) starts at 31:22 mark.
-  The first 31 minutes is about the Harriet Lane murder case.
-  Jack the Ripper (Chronicles of Crime and Criminals), True Horror Story Audiobook by Beaver Publishing Company
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/jack-the-ripper-chronicles-of-crime-and-criminals-true-horror-story/
+  https://universalflowuniversity.com/uncategorized/jack-the-ripper-chronicles-of-crime-and-criminals-true-horror-story/
 published: true
 post_date: 2014-10-12 13:32:08
 ---

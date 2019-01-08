@@ -1,14 +1,11 @@
 ---
-ID: 9549
+ID: 1417
 post_title: 'The Jewel of Seven Stars; Egyptian Horror , by Bram Stoker #UfU'
-author: UfU
-post_excerpt: >
-  The Jewel of Seven Stars; Egyptian
-  Horror Audiobook, Supernatural Suspense,
-  Gothic, by Bram Stoker
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-jewel-of-seven-stars-egyptian-horror-by-bram-stoker-ufu/
+  https://universalflowuniversity.com/uncategorized/the-jewel-of-seven-stars-egyptian-horror-by-bram-stoker-ufu/
 published: true
 post_date: 2014-06-01 11:31:55
 ---

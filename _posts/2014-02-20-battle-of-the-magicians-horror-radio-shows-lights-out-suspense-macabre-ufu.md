@@ -1,13 +1,11 @@
 ---
-ID: 9374
+ID: 675
 post_title: 'Battle of the Magicians, Horror Radio Shows, Lights Out, Suspense, Macabre #UfU'
-author: UfU
-post_excerpt: >
-  Battle of the Magicians, Horror Radio
-  Shows, Lights Out, Suspense, Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/battle-of-the-magicians-horror-radio-shows-lights-out-suspense-macabre-ufu/
+  https://universalflowuniversity.com/uncategorized/battle-of-the-magicians-horror-radio-shows-lights-out-suspense-macabre-ufu/
 published: true
 post_date: 2014-02-20 12:52:25
 ---

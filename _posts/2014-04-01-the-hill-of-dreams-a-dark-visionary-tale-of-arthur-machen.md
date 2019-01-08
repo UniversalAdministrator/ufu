@@ -1,15 +1,13 @@
 ---
-ID: 8055
+ID: 1015
 post_title: >
   The Hill of Dreams, a Dark Visionary
   Tale of Arthur Machen,
-author: UfU
-post_excerpt: >
-  The Hill of Dreams, a Dark Visionary
-  Tale of Arthur Machen, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-hill-of-dreams-a-dark-visionary-tale-of-arthur-machen/
+  https://universalflowuniversity.com/uncategorized/the-hill-of-dreams-a-dark-visionary-tale-of-arthur-machen/
 published: true
 post_date: 2014-04-01 11:14:23
 ---

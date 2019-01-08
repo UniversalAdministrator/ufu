@@ -1,17 +1,14 @@
 ---
-ID: 9705
+ID: 521
 post_title: >
   Twilight Voices, a Surreal Poem on
   Supernatural and Magic, by William
   Allingham,
-author: UfU
-post_excerpt: >
-  Twilight Voices, a Surreal Poem on
-  Supernatural and Magic, by William
-  Allingham, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/twilight-voices-a-surreal-poem-on-supernatural-and-magic-by-william-allingham/
+  https://universalflowuniversity.com/uncategorized/twilight-voices-a-surreal-poem-on-supernatural-and-magic-by-william-allingham/
 published: true
 post_date: 2014-02-03 13:49:44
 ---

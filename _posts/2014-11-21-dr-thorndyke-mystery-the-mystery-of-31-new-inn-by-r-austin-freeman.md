@@ -1,11 +1,11 @@
 ---
-ID: 5990
+ID: 1851
 post_title: '[Dr. Thorndyke Mystery ] The Mystery of 31 New Inn, by R. Austin Freeman'
-author: UfU
-post_excerpt: '[Dr. Thorndyke Mystery Audiobook] The Mystery of 31 New Inn, by R. Austin Freeman'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/dr-thorndyke-mystery-the-mystery-of-31-new-inn-by-r-austin-freeman/
+  https://universalflowuniversity.com/uncategorized/dr-thorndyke-mystery-the-mystery-of-31-new-inn-by-r-austin-freeman/
 published: true
 post_date: 2014-11-21 15:32:57
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5718
+ID: 2017
 post_title: '[A Post Apocalyptic Tale of Bizarre Religion &#038; Madness of Nuclear Holocaust Survivors] The Return'
-author: UfU
-post_excerpt: '[A Post Apocalyptic Tale of Bizarre Religion & Madness of Nuclear Holocaust Survivors] The Return, SF Audiobook, by H. Beam Piper'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-post-apocalyptic-tale-of-bizarre-religion-madness-of-nuclear-holocaust-survivors-the-return/
+  https://universalflowuniversity.com/uncategorized/a-post-apocalyptic-tale-of-bizarre-religion-madness-of-nuclear-holocaust-survivors-the-return/
 published: true
 post_date: 2015-01-26 14:14:53
 ---

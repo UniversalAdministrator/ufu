@@ -1,15 +1,13 @@
 ---
-ID: 9745
+ID: 503
 post_title: >
   The New Life (La vita nuova), by Dante
   Alighieri, Classic Literature
-author: UfU
-post_excerpt: >
-  The New Life (La vita nuova), by Dante
-  Alighieri, Classic Literature Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-new-life-la-vita-nuova-by-dante-alighieri-classic-literature/
+  https://universalflowuniversity.com/uncategorized/the-new-life-la-vita-nuova-by-dante-alighieri-classic-literature/
 published: true
 post_date: 2014-02-01 13:01:17
 ---

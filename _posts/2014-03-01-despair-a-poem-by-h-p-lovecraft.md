@@ -1,54 +1,11 @@
 ---
-ID: 9053
+ID: 759
 post_title: Despair, a Poem by H P Lovecraft,
-author: UfU
-post_excerpt: |
-  O'er the midnight moorlands crying,
-  Thro' the cypress forests sighing,
-  In the night-wind madly flying,
-  Hellish forms with streaming hair;
-  In the barren branches creaking,
-  By the stagnant swamp-pools speaking,
-  Past the shore-cliffs ever shrieking;
-  Damn'd daemons of despair.
-  Once, I think I half remember,
-  Ere the grey skies of November
-  Quench'd my youth's aspiring ember,
-  Liv'd there such a thing as bliss;
-  Skies that now are dark were beaming,
-  Gold and azure, splendid seeming
-  Till I learn'd it all was dreaming—
-  Deadly drowsiness of Dis.
-  But the stream of Time, swift flowing,
-  Brings the torment of half-knowing—
-  Dimly rushing, blindly going
-  Past the never-trodden lea;
-  And the voyager, repining,
-  Sees the wicked death-fires shining,
-  Hears the wicked petrel's whining
-  As he helpless drifts to sea.
-  Evil wings in ether beating;
-  Vultures at the spirit eating;
-  Things unseen forever fleeting
-  Black against the leering sky.
-  Ghastly shades of bygone gladness,
-  Clawing fiends of future sadness,
-  Mingle in a cloud of madness
-  Ever on the soul to lie.
-  
-  Thus the living, lone and sobbing,
-  In the throes of anguish throbbing,
-  With the loathsome Furies robbing
-  Night and noon of peace and rest.
-  But beyond the groans and grating
-  Of abhorrent Life, is waiting
-  Sweet Oblivion, culminating
-  All the years of fruitless quest.
-  -End-
-  Despair, a Poem by H P Lovecraft, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/despair-a-poem-by-h-p-lovecraft/
+  https://universalflowuniversity.com/uncategorized/despair-a-poem-by-h-p-lovecraft/
 published: true
 post_date: 2014-03-01 13:42:22
 ---

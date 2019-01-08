@@ -1,13 +1,11 @@
 ---
-ID: 4205
+ID: 3557
 post_title: '[Immortality Vs. Memory Retention] A Trace of Memory (Audiobook)'
-author: UfU
-post_excerpt: |
-  Everything has its price, even immortality. Enjoy!
-  [Immortality Vs. Memory Retention] A Trace of Memory (Audiobook) by Keith Laumer
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/immortality-vs-memory-retention-a-trace-of-memory-audiobook/
+  https://universalflowuniversity.com/uncategorized/immortality-vs-memory-retention-a-trace-of-memory-audiobook/
 published: true
 post_date: 2017-07-16 15:16:18
 ---

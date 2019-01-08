@@ -1,11 +1,11 @@
 ---
-ID: 9438
+ID: 653
 post_title: 'Alice in Blunderland, Satire  on Alice in Wonderland, Humor Audio Book #UfU'
-author: UfU
-post_excerpt: '#UfU Alice in Blunderland, Satire Audiobook on Alice in Wonderland, by John Kendrick Bangs'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/alice-in-blunderland-satire-on-alice-in-wonderland-humor-audio-book-ufu/
+  https://universalflowuniversity.com/uncategorized/alice-in-blunderland-satire-on-alice-in-wonderland-humor-audio-book-ufu/
 published: true
 post_date: 2014-02-18 13:19:49
 ---

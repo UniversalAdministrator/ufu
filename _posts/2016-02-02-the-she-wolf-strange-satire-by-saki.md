@@ -1,11 +1,11 @@
 ---
-ID: 5999
+ID: 2805
 post_title: 'The She-Wolf [Strange Satire ] by Saki'
-author: UfU
-post_excerpt: 'The She-Wolf [Strange Satire Audiobook] by Saki'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-she-wolf-strange-satire-by-saki/
+  https://universalflowuniversity.com/uncategorized/the-she-wolf-strange-satire-by-saki/
 published: true
 post_date: 2016-02-02 23:17:36
 ---

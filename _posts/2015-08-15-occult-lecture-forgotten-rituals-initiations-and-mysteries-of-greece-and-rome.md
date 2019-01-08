@@ -1,13 +1,11 @@
 ---
-ID: 5939
+ID: 2445
 post_title: '[Occult Lecture] Forgotten Rituals, Initiations and Mysteries of Greece and Rome'
-author: UfU
-post_excerpt: |
-  In this lecture, Manly P. Hall discussed the state mysteries of Greece and Rome and related issues.
-  [Occult Lecture] Forgotten Rituals, Initiations and Mysteries of Greece and Rome by Manly P. Hall (Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-forgotten-rituals-initiations-and-mysteries-of-greece-and-rome/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-forgotten-rituals-initiations-and-mysteries-of-greece-and-rome/
 published: true
 post_date: 2015-08-15 18:04:43
 ---

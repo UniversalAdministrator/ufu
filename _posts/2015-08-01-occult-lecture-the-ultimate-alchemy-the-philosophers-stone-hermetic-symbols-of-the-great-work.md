@@ -1,11 +1,11 @@
 ---
-ID: 5927
+ID: 2415
 post_title: '[Occult Lecture] The Ultimate Alchemy &#038; the Philosopher&#8217;s Stone (Hermetic Symbols of the Great Work)'
-author: UfU
-post_excerpt: "[Occult Lecture] The Ultimate Alchemy & the Philosopher's Stone (Hermetic Symbols of the Great Work), by Manly P. Hall"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-ultimate-alchemy-the-philosophers-stone-hermetic-symbols-of-the-great-work/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-ultimate-alchemy-the-philosophers-stone-hermetic-symbols-of-the-great-work/
 published: true
 post_date: 2015-08-01 17:55:23
 ---

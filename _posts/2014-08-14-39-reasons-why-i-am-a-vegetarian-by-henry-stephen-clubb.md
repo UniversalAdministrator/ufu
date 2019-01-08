@@ -1,11 +1,11 @@
 ---
-ID: 6355
+ID: 1633
 post_title: '39 Reasons Why I Am a Vegetarian,  by Henry Stephen Clubb'
-author: UfU
-post_excerpt: '39 Reasons Why I Am a Vegetarian, Audiobook  by Henry Stephen Clubb'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/39-reasons-why-i-am-a-vegetarian-by-henry-stephen-clubb/
+  https://universalflowuniversity.com/uncategorized/39-reasons-why-i-am-a-vegetarian-by-henry-stephen-clubb/
 published: true
 post_date: 2014-08-14 12:54:37
 ---

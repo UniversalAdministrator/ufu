@@ -1,13 +1,11 @@
 ---
-ID: 4201
+ID: 3565
 post_title: '[Self-Development Audiobook] The Path to Prosperity (New Version with Meditative Narration)'
-author: UfU
-post_excerpt: |
-  This new version offers very meditative and peaceful narration, thanks to Sonnie Abdalla, a narrator I never heard of before. I find his narration very soothing and enjoyable.
-  [Self-Mastery Audiobook] The Path to Prosperity (New Version with Meditative Narration)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/self-development-audiobook-the-path-to-prosperity-new-version-with-meditative-narration/
+  https://universalflowuniversity.com/uncategorized/self-development-audiobook-the-path-to-prosperity-new-version-with-meditative-narration/
 published: true
 post_date: 2017-07-22 12:49:55
 ---

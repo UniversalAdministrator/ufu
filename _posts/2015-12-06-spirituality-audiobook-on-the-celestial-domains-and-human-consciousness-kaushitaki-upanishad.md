@@ -1,13 +1,11 @@
 ---
-ID: 5387
+ID: 2685
 post_title: '[Spirituality Audiobook] (On the Celestial Domains and Human Consciousness) &#8220;Kaushitaki Upanishad&#8221;'
-author: UfU
-post_excerpt: |
-  Each Upanishad has a different focus and this Upanishad explores the celestial world, reincarnation, and human consciousness.
-  [Spirituality Audiobook] "Kaushitaki Upanishad" On the Celestial Domains, Reincarnation, and Human Consciousness
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/spirituality-audiobook-on-the-celestial-domains-and-human-consciousness-kaushitaki-upanishad/
+  https://universalflowuniversity.com/uncategorized/spirituality-audiobook-on-the-celestial-domains-and-human-consciousness-kaushitaki-upanishad/
 published: true
 post_date: 2015-12-06 03:00:49
 ---

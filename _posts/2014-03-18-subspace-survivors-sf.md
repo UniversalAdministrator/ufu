@@ -1,13 +1,11 @@
 ---
-ID: 9157
+ID: 891
 post_title: Subspace Survivors (SF )
-author: UfU
-post_excerpt: >
-  Subspace Survivors, SF Audiobook,
-  Science Fiction, by E.E. "Doc" Smith
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/subspace-survivors-sf/
+  https://universalflowuniversity.com/uncategorized/subspace-survivors-sf/
 published: true
 post_date: 2014-03-18 11:45:38
 ---

@@ -1,16 +1,13 @@
 ---
-ID: 6011
+ID: 2483
 post_title: >
   Siddhartha (a Tale of the Search for
   Awakening) Spirituality Aubiobook
-author: UfU
-post_excerpt: >
-  Siddhartha (a Tale of the Search for
-  Awakening), Spirituality Aubiobook by
-  Hermann Hesse
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/siddhartha-a-tale-of-the-search-for-awakening-spirituality-aubiobook/
+  https://universalflowuniversity.com/uncategorized/siddhartha-a-tale-of-the-search-for-awakening-spirituality-aubiobook/
 published: true
 post_date: 2015-09-03 02:47:08
 ---

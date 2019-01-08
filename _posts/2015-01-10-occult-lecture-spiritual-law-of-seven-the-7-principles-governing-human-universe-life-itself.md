@@ -1,11 +1,11 @@
 ---
-ID: 5825
+ID: 1975
 post_title: '[Occult Lecture] (Spiritual Law of Seven) The 7 Principles Governing Human, Universe &#038; Life Itself'
-author: UfU
-post_excerpt: '[Occult Lecture] (Spiritual Law of Seven) The 7 Principles, Laws Affecting, Governing and Running Human, Universe & Life Itself, by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-spiritual-law-of-seven-the-7-principles-governing-human-universe-life-itself/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-spiritual-law-of-seven-the-7-principles-governing-human-universe-life-itself/
 published: true
 post_date: 2015-01-10 14:47:23
 ---

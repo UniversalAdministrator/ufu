@@ -1,11 +1,11 @@
 ---
-ID: 8316
+ID: 857
 post_title: '[Agnostic Philosophy] Mistakes of Moses (Problems of Christianity) , by Ingersoll'
-author: UfU
-post_excerpt: '[Agnostic Philosophy] Mistakes of Moses (Problems of Christianity) Audiobook, by Robert G. Ingersoll'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/agnostic-philosophy-mistakes-of-moses-problems-of-christianity-by-ingersoll/
+  https://universalflowuniversity.com/uncategorized/agnostic-philosophy-mistakes-of-moses-problems-of-christianity-by-ingersoll/
 published: true
 post_date: 2014-03-14 11:47:49
 ---

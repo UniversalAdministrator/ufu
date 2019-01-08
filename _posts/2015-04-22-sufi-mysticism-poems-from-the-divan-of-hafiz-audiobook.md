@@ -1,13 +1,11 @@
 ---
-ID: 5361
+ID: 2197
 post_title: '[Sufi Mysticism] Poems from the Divan of Hafiz, Audiobook'
-author: UfU
-post_excerpt: |
-  These poems of Hafiz were inspired by the mystic elements of Sufism.
-  [Sufi Mysticism] Poems from the Divan of Hafiz, Audiobook, by Hafiz
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/sufi-mysticism-poems-from-the-divan-of-hafiz-audiobook/
+  https://universalflowuniversity.com/uncategorized/sufi-mysticism-poems-from-the-divan-of-hafiz-audiobook/
 published: true
 post_date: 2015-04-22 16:08:28
 ---

@@ -1,14 +1,14 @@
 ---
-ID: 596
+ID: 3351
 post_title: >
   36 Incredibly Amazing And Completely
   Unexplainable Events From Recorded Human
   History
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/humanities/human-history/modern-history/36-incredibly-amazing-and-completely-unexplainable-events-from-recorded-human-history/
+  https://universalflowuniversity.com/uncategorized/36-incredibly-amazing-and-completely-unexplainable-events-from-recorded-human-history/
 published: true
 post_date: 2017-02-20 08:49:27
 ---

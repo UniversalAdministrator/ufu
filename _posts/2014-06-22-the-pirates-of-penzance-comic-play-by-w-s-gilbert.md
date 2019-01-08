@@ -1,15 +1,13 @@
 ---
-ID: 6504
+ID: 1495
 post_title: >
   The Pirates Of Penzance, Comic Play , by
   W. S. Gilbert
-author: UfU
-post_excerpt: >
-  The Pirates Of Penzance, Comic Play
-  Audiobook, by W. S. Gilbert
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-pirates-of-penzance-comic-play-by-w-s-gilbert/
+  https://universalflowuniversity.com/uncategorized/the-pirates-of-penzance-comic-play-by-w-s-gilbert/
 published: true
 post_date: 2014-06-22 11:47:15
 ---

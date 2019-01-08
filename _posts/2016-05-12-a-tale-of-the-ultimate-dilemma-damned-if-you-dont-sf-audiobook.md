@@ -1,11 +1,11 @@
 ---
-ID: 4707
+ID: 2981
 post_title: '[A Tale of the Ultimate Dilemma] Damned If You Don&#8217;t (SF Audiobook)'
-author: UfU
-post_excerpt: "[A Tale of the Ultimate Dilemma] Damned If You Don't (SF Audiobook) by Randall Garrett"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-the-ultimate-dilemma-damned-if-you-dont-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-the-ultimate-dilemma-damned-if-you-dont-sf-audiobook/
 published: true
 post_date: 2016-05-12 16:51:52
 ---

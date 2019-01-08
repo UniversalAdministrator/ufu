@@ -1,13 +1,11 @@
 ---
-ID: 8348
+ID: 847
 post_title: '[Philosophy] Hypocrisy of Puritanism, by the Most Dangerous Woman in America,'
-author: UfU
-post_excerpt: |
-  This is the work of Emma Goldman, a famous anarchist. Longtime FBI chief J. Edgar Hoover called her "the most dangerous woman in America."
-  [Philosophy] Hypocrisy of Puritanism, by the Most Dangerous Woman in America, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-hypocrisy-of-puritanism-by-the-most-dangerous-woman-in-america-2/
+  https://universalflowuniversity.com/uncategorized/philosophy-hypocrisy-of-puritanism-by-the-most-dangerous-woman-in-america-2/
 published: true
 post_date: 2014-03-12 11:25:20
 ---

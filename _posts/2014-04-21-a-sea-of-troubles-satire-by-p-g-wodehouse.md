@@ -1,13 +1,11 @@
 ---
-ID: 7567
+ID: 1183
 post_title: 'A Sea of Troubles, Satire  by P. G. Wodehouse'
-author: UfU
-post_excerpt: >
-  A Sea of Troubles, Satire Audiobook by
-  P. G. Wodehouse
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-sea-of-troubles-satire-by-p-g-wodehouse/
+  https://universalflowuniversity.com/uncategorized/a-sea-of-troubles-satire-by-p-g-wodehouse/
 published: true
 post_date: 2014-04-21 12:54:50
 ---

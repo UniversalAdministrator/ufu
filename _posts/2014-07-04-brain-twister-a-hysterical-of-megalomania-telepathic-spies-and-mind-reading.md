@@ -1,15 +1,11 @@
 ---
-ID: 6470
+ID: 1535
 post_title: 'Brain Twister, a Hysterical  of Megalomania, Telepathic Spies and Mind-reading'
-author: UfU
-post_excerpt: >
-  Brain Twister, a Hysterical Tale of
-  Megalomania, Telepathic Spies and
-  Mind-reading by Laurence M. Janifer and
-  Randall Garrett
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/brain-twister-a-hysterical-of-megalomania-telepathic-spies-and-mind-reading/
+  https://universalflowuniversity.com/uncategorized/brain-twister-a-hysterical-of-megalomania-telepathic-spies-and-mind-reading/
 published: true
 post_date: 2014-07-04 11:55:58
 ---

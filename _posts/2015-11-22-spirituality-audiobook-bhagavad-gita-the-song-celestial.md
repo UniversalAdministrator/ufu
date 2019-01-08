@@ -1,11 +1,11 @@
 ---
-ID: 5561
+ID: 2655
 post_title: '[Spirituality Audiobook] Bhagavad Gita (The Song Celestial)'
-author: UfU
-post_excerpt: '[Spirituality Audiobook] Bhagavad Gita (The Song Celestial) Translated by Edwin Anorld'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/spirituality-audiobook-bhagavad-gita-the-song-celestial/
+  https://universalflowuniversity.com/uncategorized/spirituality-audiobook-bhagavad-gita-the-song-celestial/
 published: true
 post_date: 2015-11-22 00:08:46
 ---

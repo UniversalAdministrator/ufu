@@ -1,15 +1,13 @@
 ---
-ID: 4991
+ID: 2653
 post_title: >
   The Sphinx by Edgar Allan Poe
   (Audiobook)
-author: UfU
-post_excerpt: >
-  The Sphinx by Edgar Allan Poe
-  (Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-sphinx-by-edgar-allan-poe-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-sphinx-by-edgar-allan-poe-audiobook/
 published: true
 post_date: 2015-11-20 22:45:18
 ---

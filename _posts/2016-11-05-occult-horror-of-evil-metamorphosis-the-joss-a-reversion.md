@@ -1,11 +1,11 @@
 ---
-ID: 4493
+ID: 3217
 post_title: '[Occult Horror of Evil Metamorphosis] The Joss: a Reversion'
-author: UfU
-post_excerpt: '[Occult Horror of Evil Metamorphosis] The Joss: a Reversion (Audiobook) by Richard Marsh'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-horror-of-evil-metamorphosis-the-joss-a-reversion/
+  https://universalflowuniversity.com/uncategorized/occult-horror-of-evil-metamorphosis-the-joss-a-reversion/
 published: true
 post_date: 2016-11-05 21:34:04
 ---

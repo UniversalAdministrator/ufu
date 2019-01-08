@@ -1,11 +1,11 @@
 ---
-ID: 5129
+ID: 2495
 post_title: '[What Will Happen to a Mortal in the Land of Immortals?: Insightful Fantasy] Cross Purposes'
-author: UfU
-post_excerpt: '[What Will Happen to a Mortal in the Land of Immortals?: Insightful Fantasy Audiobook] Cross Purposes by George MacDonald'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/what-will-happen-to-a-mortal-in-the-land-of-immortals-insightful-fantasy-cross-purposes/
+  https://universalflowuniversity.com/uncategorized/what-will-happen-to-a-mortal-in-the-land-of-immortals-insightful-fantasy-cross-purposes/
 published: true
 post_date: 2015-09-09 01:57:06
 ---

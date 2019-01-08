@@ -1,16 +1,13 @@
 ---
-ID: 6477
+ID: 1569
 post_title: >
   Lilith, the First Partner of Adam
   (Legend Fantasy )
-author: UfU
-post_excerpt: >
-  Lilith, the First Partner of Adam,
-  Legend Fantasy Audiobook, by George
-  MacDonald
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/lilith-the-first-partner-of-adam-legend-fantasy/
+  https://universalflowuniversity.com/uncategorized/lilith-the-first-partner-of-adam-legend-fantasy/
 published: true
 post_date: 2014-07-15 10:47:32
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 9360
+ID: 805
 post_title: 'Lesser Hippias, a Discussion on Types of Evil, Philosophy  by Plato'
-author: UfU
-post_excerpt: |
-  Socrates tempted by irony to deflate the pretentious know-it-all Hippias, an arrogant polymath, appears to follow humour more than honour in this short dialogue. (Summary by Kevin Johnson)
-  Lesser Hippias, Philosophy Audiobook by Plato, Classic Greek Philosopher
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/lesser-hippias-a-discussion-on-types-of-evil-philosophy-by-plato/
+  https://universalflowuniversity.com/uncategorized/lesser-hippias-a-discussion-on-types-of-evil-philosophy-by-plato/
 published: true
 post_date: 2014-03-07 12:36:30
 ---

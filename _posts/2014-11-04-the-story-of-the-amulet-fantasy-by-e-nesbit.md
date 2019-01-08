@@ -1,13 +1,11 @@
 ---
-ID: 6127
+ID: 1807
 post_title: 'The Story of the Amulet, Fantasy  by E. Nesbit'
-author: UfU
-post_excerpt: >
-  The Story of the Amulet, Fantasy
-  Audiobook by E. Nesbit
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-story-of-the-amulet-fantasy-by-e-nesbit/
+  https://universalflowuniversity.com/uncategorized/the-story-of-the-amulet-fantasy-by-e-nesbit/
 published: true
 post_date: 2014-11-04 13:48:25
 ---

@@ -1,15 +1,13 @@
 ---
-ID: 8118
+ID: 993
 post_title: >
   Sevastopol; a Tale of War by Leo
   Tolstoy,
-author: UfU
-post_excerpt: >
-  Sevastopol; a Tale of War by Leo
-  Tolstoy, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/sevastopol-a-tale-of-war-by-leo-tolstoy/
+  https://universalflowuniversity.com/uncategorized/sevastopol-a-tale-of-war-by-leo-tolstoy/
 published: true
 post_date: 2014-03-30 18:26:57
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 9129
+ID: 797
 post_title: 'Above Life&#8217;s Turmoil, How to Gain Self-Knowledge and Self-Conquest, Self-Development'
-author: UfU
-post_excerpt: "Above Life's Turmoil, How to Gain Self-Knowledge and Self-Conquest, Self-Development Audiobook by James Allen."
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/above-lifes-turmoil-how-to-gain-self-knowledge-and-self-conquest-self-development/
+  https://universalflowuniversity.com/uncategorized/above-lifes-turmoil-how-to-gain-self-knowledge-and-self-conquest-self-development/
 published: true
 post_date: 2014-03-06 13:36:18
 ---

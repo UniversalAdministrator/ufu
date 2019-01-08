@@ -1,18 +1,14 @@
 ---
-ID: 5792
+ID: 3743
 post_title: >
   (A Psychological Tale of Anarchistic
   London Underground) The Princess
   Casamassima, Part 2
-author: UfU
-post_excerpt: >
-  (A Psychological Tale of Anarchistic
-  London Underground) The Princess
-  Casamassima, Part 2 (Audiobook) by Henry
-  James
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-psychological-tale-of-anarchistic-london-underground-the-princess-casamassima-part-2/
+  https://universalflowuniversity.com/uncategorized/a-psychological-tale-of-anarchistic-london-underground-the-princess-casamassima-part-2/
 published: true
 post_date: 2017-11-18 02:11:45
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5706
+ID: 2399
 post_title: '[A Tale of Time Travel and the Parallel Worlds] Police Operation (Para-time SF Audiobook)'
-author: UfU
-post_excerpt: '[A Tale of Time Travel and the Parallel Worlds] (Para-time SF Audiobook) by H. Beam Piper'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-time-travel-and-the-parallel-worlds-police-operation-para-time-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-time-travel-and-the-parallel-worlds-police-operation-para-time-sf-audiobook/
 published: true
 post_date: 2015-07-24 20:48:57
 ---

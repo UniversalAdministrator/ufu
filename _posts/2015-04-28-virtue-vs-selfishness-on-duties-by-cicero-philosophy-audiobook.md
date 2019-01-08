@@ -1,11 +1,11 @@
 ---
-ID: 5453
+ID: 2211
 post_title: '[Virtue VS. Selfishness] On Duties by Cicero (Philosophy Audiobook)'
-author: UfU
-post_excerpt: '[Virtue VS. Selfishness] On Duties by Cicero (Philosophy Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/virtue-vs-selfishness-on-duties-by-cicero-philosophy-audiobook/
+  https://universalflowuniversity.com/uncategorized/virtue-vs-selfishness-on-duties-by-cicero-philosophy-audiobook/
 published: true
 post_date: 2015-04-28 01:21:05
 ---

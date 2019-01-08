@@ -1,13 +1,11 @@
 ---
-ID: 5507
+ID: 2359
 post_title: '[Occult Lecture] Mysteries of Guardian Angels and Their Origin'
-author: UfU
-post_excerpt: |
-  [Occult Lecture] Mysteries of Guardian Angels and Their Origin
-  Is there a guardian angel for each of us? Manly P. Hall lectures on the origin of Guardian Angels.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-mysteries-of-guardian-angels-and-their-origin/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-mysteries-of-guardian-angels-and-their-origin/
 published: true
 post_date: 2015-07-04 20:47:45
 ---

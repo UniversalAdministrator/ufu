@@ -1,13 +1,11 @@
 ---
-ID: 5813
+ID: 1907
 post_title: 'Child Roland to the Dark Tower Came (Inspired Stephen King&#8217;s The Dark Tower Saga),'
-author: UfU
-post_excerpt: |
-  This poem inspired the Dark Tower series of Stephen King.
-  Childe Roland to the Dark Tower Came (Inspired Stephen King's The Dark Tower Saga), Audiobook by Robert Browning.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/child-roland-to-the-dark-tower-came-inspired-stephen-kings-the-dark-tower-saga/
+  https://universalflowuniversity.com/uncategorized/child-roland-to-the-dark-tower-came-inspired-stephen-kings-the-dark-tower-saga/
 published: true
 post_date: 2014-12-15 14:21:36
 ---

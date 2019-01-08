@@ -1,11 +1,11 @@
 ---
-ID: 8467
+ID: 1541
 post_title: '[Occult Lecture] The Record of Atlantis in Ancient America, Atlantean Knowledge'
-author: UfU
-post_excerpt: '[Occult Lecture] The Record of Atlantis in Ancient America, Atlantean Knowledge by Manly P. Hall.'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-record-of-atlantis-in-ancient-america-atlantean-knowledge/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-record-of-atlantis-in-ancient-america-atlantean-knowledge/
 published: true
 post_date: 2014-07-05 12:39:24
 ---

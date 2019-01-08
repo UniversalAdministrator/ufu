@@ -1,15 +1,13 @@
 ---
-ID: 9133
+ID: 961
 post_title: >
   Armageddon 2419 AD (SF ) by Philip
   Francis Nowlan
-author: UfU
-post_excerpt: >
-  Armageddon 2419 AD, SF Audiobook,
-  Science Fiction, Philip Francis Nowlan
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/armageddon-2419-ad-sf-by-philip-francis-nowlan/
+  https://universalflowuniversity.com/uncategorized/armageddon-2419-ad-sf-by-philip-francis-nowlan/
 published: true
 post_date: 2014-03-27 13:00:00
 ---

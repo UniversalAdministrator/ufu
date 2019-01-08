@@ -1,11 +1,11 @@
 ---
-ID: 5573
+ID: 2041
 post_title: '[Occult Lecture] Hermes Trismegistus and Hermeticism&#8217;s Influence on Religious Ideas'
-author: UfU
-post_excerpt: "[Occult Lecture] Hermes Trismegistus, Hermeticism and Hermetic Tradition's Influence on Religious Ideas, by Manly P. Hall, (Influence of the teachings of Hermes Trismegistus)"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-hermes-trismegistus-and-hermeticisms-influence-on-religious-ideas/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-hermes-trismegistus-and-hermeticisms-influence-on-religious-ideas/
 published: true
 post_date: 2015-02-07 15:16:35
 ---

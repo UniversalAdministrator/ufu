@@ -1,11 +1,11 @@
 ---
-ID: 5662
+ID: 2263
 post_title: 'Magic, Animism and the Omnipotence of Thought [Psychological Analysis of Magic]'
-author: UfU
-post_excerpt: 'Magic, Animism and the Omnipotence of Thought [Psychological Analysis of Magic] by Sigmund Freud (From Totem and Taboo)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/magic-animism-and-the-omnipotence-of-thought-psychological-analysis-of-magic/
+  https://universalflowuniversity.com/uncategorized/magic-animism-and-the-omnipotence-of-thought-psychological-analysis-of-magic/
 published: true
 post_date: 2015-05-21 16:16:43
 ---

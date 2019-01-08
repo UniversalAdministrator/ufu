@@ -1,11 +1,11 @@
 ---
-ID: 5011
+ID: 2691
 post_title: '[A Gruesome Horror Tale from the Author of Dracula] The Squaw by Bram Stoker'
-author: UfU
-post_excerpt: '[A Gruesome Horror Tale from the Author of Dracula] The Squaw by Bram Stoker (Audiobook)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-gruesome-horror-tale-from-the-author-of-dracula-the-squaw-by-bram-stoker/
+  https://universalflowuniversity.com/uncategorized/a-gruesome-horror-tale-from-the-author-of-dracula-the-squaw-by-bram-stoker/
 published: true
 post_date: 2015-12-09 01:54:41
 ---

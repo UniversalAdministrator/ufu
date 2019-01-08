@@ -1,18 +1,14 @@
 ---
-ID: 9206
+ID: 1055
 post_title: >
   The Forgotten Planet (Futuristic
   Survival Thriller in Alien World), SF ,
   Science Fiction
-author: UfU
-post_excerpt: >
-  The Forgotten Planet, Futuristic
-  Survival Thriller in Alien World, SF
-  Audiobook, Science Fiction by Murray
-  Leinster
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-forgotten-planet-futuristic-survival-thriller-in-alien-world-sf-science-fiction/
+  https://universalflowuniversity.com/uncategorized/the-forgotten-planet-futuristic-survival-thriller-in-alien-world-sf-science-fiction/
 published: true
 post_date: 2014-04-05 13:25:30
 ---

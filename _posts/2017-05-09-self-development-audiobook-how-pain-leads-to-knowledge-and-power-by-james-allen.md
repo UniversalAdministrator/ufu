@@ -1,11 +1,11 @@
 ---
-ID: 4397
+ID: 3461
 post_title: '[Self-Development Audiobook] How Pain Leads to Knowledge and Power (by James Allen)'
-author: UfU
-post_excerpt: '[Self-Development Audiobook] How Pain Leads to Knowledge and Power (by James Allen)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/self-development-audiobook-how-pain-leads-to-knowledge-and-power-by-james-allen/
+  https://universalflowuniversity.com/uncategorized/self-development-audiobook-how-pain-leads-to-knowledge-and-power-by-james-allen/
 published: true
 post_date: 2017-05-09 11:35:43
 ---

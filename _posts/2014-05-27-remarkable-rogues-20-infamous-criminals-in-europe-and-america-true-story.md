@@ -1,16 +1,13 @@
 ---
-ID: 7123
+ID: 1391
 post_title: >
   Remarkable Rogues (20 Infamous Criminals
   in Europe and America) True Story
-author: UfU
-post_excerpt: >
-  Remarkable Rogues, (20 Infamous
-  Criminals in Europe and America) True
-  Story Audiobook by Charles Kingston
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/remarkable-rogues-20-infamous-criminals-in-europe-and-america-true-story/
+  https://universalflowuniversity.com/uncategorized/remarkable-rogues-20-infamous-criminals-in-europe-and-america-true-story/
 published: true
 post_date: 2014-05-27 11:58:52
 ---

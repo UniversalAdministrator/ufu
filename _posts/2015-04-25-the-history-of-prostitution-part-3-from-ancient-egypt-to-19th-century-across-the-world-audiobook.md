@@ -1,11 +1,11 @@
 ---
-ID: 5355
+ID: 2207
 post_title: 'The History of Prostitution Part 3 [From Ancient Egypt to 19th Century, Across the World] Audiobook'
-author: UfU
-post_excerpt: 'The History of Prostitution Part 3 [From Ancient Egypt to 19th Century, Across the World] Audiobook by William Sanger'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-history-of-prostitution-part-3-from-ancient-egypt-to-19th-century-across-the-world-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-history-of-prostitution-part-3-from-ancient-egypt-to-19th-century-across-the-world-audiobook/
 published: true
 post_date: 2015-04-25 15:08:49
 ---

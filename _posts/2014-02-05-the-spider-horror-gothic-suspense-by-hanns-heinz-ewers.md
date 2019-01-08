@@ -1,15 +1,13 @@
 ---
-ID: 9657
+ID: 543
 post_title: >
   The Spider, Horror , Gothic, Suspense,
   by Hanns Heinz Ewers
-author: UfU
-post_excerpt: >
-  The Spider, a Mysterious Suicide Horror
-  Audiobook, Gothic, Hanns Heinz Ewers
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-spider-horror-gothic-suspense-by-hanns-heinz-ewers/
+  https://universalflowuniversity.com/uncategorized/the-spider-horror-gothic-suspense-by-hanns-heinz-ewers/
 published: true
 post_date: 2014-02-05 12:21:51
 ---

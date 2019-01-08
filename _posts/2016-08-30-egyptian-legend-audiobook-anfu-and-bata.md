@@ -1,11 +1,11 @@
 ---
-ID: 4773
+ID: 3127
 post_title: '[Egyptian Legend Audiobook] Anfu and Bata'
-author: UfU
-post_excerpt: '[Egyptian Legend Audiobook] Anfu and Bata (from the collection: Egyptian Tales, translated from the Papyri, Series Two : XVIIIth to XIXth Dynasty) Edited by William Matthew Flinders Petrie'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/egyptian-legend-audiobook-anfu-and-bata/
+  https://universalflowuniversity.com/uncategorized/egyptian-legend-audiobook-anfu-and-bata/
 published: true
 post_date: 2016-08-30 23:06:52
 ---

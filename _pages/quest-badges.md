@@ -1,11 +1,11 @@
 ---
-ID: 3396
+ID: 394
 post_title: Quest Badges
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/quest-badges/
+  https://universalflowuniversity.com/quest-badges/
 published: true
 post_date: 2017-10-20 20:45:24
 ---

@@ -1,14 +1,11 @@
 ---
-ID: 4253
+ID: 3779
 post_title: '[Occult Lecture] Alchemy and Its Role for the Human Race'
-author: UfU
-post_excerpt: >
-  The lecturer Manly P. Hall was a master
-  in all the aspects of mental/spiritual
-  development.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-alchemy-and-its-role-for-the-human-race/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-alchemy-and-its-role-for-the-human-race/
 published: true
 post_date: 2017-12-16 13:08:03
 ---

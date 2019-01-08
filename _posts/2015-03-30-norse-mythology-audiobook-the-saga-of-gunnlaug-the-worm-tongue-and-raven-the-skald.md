@@ -1,11 +1,11 @@
 ---
-ID: 5427
+ID: 2149
 post_title: '[Norse Mythology Audiobook] The Saga of Gunnlaug the Worm-Tongue and Raven the Skald'
-author: UfU
-post_excerpt: '[Norse Mythology Audiobook] The Saga of Gunnlaug the Worm-Tongue and Raven the Skald, Anonymous Author, translated by William MORRIS and Eiríkr MAGNÚSSON.'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/norse-mythology-audiobook-the-saga-of-gunnlaug-the-worm-tongue-and-raven-the-skald/
+  https://universalflowuniversity.com/uncategorized/norse-mythology-audiobook-the-saga-of-gunnlaug-the-worm-tongue-and-raven-the-skald/
 published: true
 post_date: 2015-03-30 17:08:42
 ---

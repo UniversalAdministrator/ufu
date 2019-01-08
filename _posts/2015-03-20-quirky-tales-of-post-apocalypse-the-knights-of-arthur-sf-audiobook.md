@@ -1,11 +1,11 @@
 ---
-ID: 5455
+ID: 2127
 post_title: '[Quirky Tales of Post-Apocalypse] The Knights of Arthur, SF Audiobook'
-author: UfU
-post_excerpt: '[Quirky Tales of Post-Apocalypse] The Knights of Arthur, SF Audiobook by Frederik Pohl'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/quirky-tales-of-post-apocalypse-the-knights-of-arthur-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/quirky-tales-of-post-apocalypse-the-knights-of-arthur-sf-audiobook/
 published: true
 post_date: 2015-03-20 16:46:34
 ---

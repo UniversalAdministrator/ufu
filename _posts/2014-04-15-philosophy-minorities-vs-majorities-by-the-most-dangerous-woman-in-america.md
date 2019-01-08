@@ -1,13 +1,11 @@
 ---
-ID: 7674
+ID: 1133
 post_title: '[Philosophy] Minorities VS. Majorities, by the Most Dangerous Woman in America,'
-author: UfU
-post_excerpt: |
-  This is a philosophical essay written by Emma Goldman. Longtime FBI chief J. Edgar Hoover called her "the most dangerous woman in America."
-  [Philosophy] Minorities Versus Majorities, by the Most Dangerous Woman in America, Audiobook, Emma Goldman
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-minorities-vs-majorities-by-the-most-dangerous-woman-in-america/
+  https://universalflowuniversity.com/uncategorized/philosophy-minorities-vs-majorities-by-the-most-dangerous-woman-in-america/
 published: true
 post_date: 2014-04-15 12:38:39
 ---

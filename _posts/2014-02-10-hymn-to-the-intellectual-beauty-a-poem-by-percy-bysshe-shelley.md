@@ -1,15 +1,13 @@
 ---
-ID: 9629
+ID: 579
 post_title: >
   Hymn to the Intellectual Beauty, a Poem
   by Percy Bysshe Shelley,
-author: UfU
-post_excerpt: >
-  Hymn to the Intellectual Beauty, a Poem
-  by Percy Bysshe Shelley, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/hymn-to-the-intellectual-beauty-a-poem-by-percy-bysshe-shelley/
+  https://universalflowuniversity.com/uncategorized/hymn-to-the-intellectual-beauty-a-poem-by-percy-bysshe-shelley/
 published: true
 post_date: 2014-02-10 03:10:24
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 9121
+ID: 1341
 post_title: '[Mysticism Lecture] The Meaning and Method of Spiritual Life, Theosophy  by Annie Besant'
-author: UfU
-post_excerpt: '[Mysticism Lecture] The Meaning and Method of Spiritual Life, Theosophy Audiobook by Annie Besant'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/mysticism-lecture-the-meaning-and-method-of-spiritual-life-theosophy-by-annie-besant/
+  https://universalflowuniversity.com/uncategorized/mysticism-lecture-the-meaning-and-method-of-spiritual-life-theosophy-by-annie-besant/
 published: true
 post_date: 2014-05-14 11:55:19
 ---

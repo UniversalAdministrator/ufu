@@ -1,13 +1,11 @@
 ---
-ID: 4431
+ID: 3303
 post_title: '[Epic Mythology Poetry] Andromeda  (Audiobook)'
-author: UfU
-post_excerpt: |
-  If you enjoy powerful epic mythology in a poetic format, you don't want to miss this. Enjoy!
-  [Epic Mythology Poetry] Andromeda (Audiobook) (by Charles Kingsley)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/epic-mythology-poetry-andromeda-audiobook/
+  https://universalflowuniversity.com/uncategorized/epic-mythology-poetry-andromeda-audiobook/
 published: true
 post_date: 2017-01-10 15:26:09
 ---

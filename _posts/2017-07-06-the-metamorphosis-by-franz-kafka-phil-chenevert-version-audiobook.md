@@ -1,13 +1,11 @@
 ---
-ID: 4221
+ID: 3543
 post_title: 'The Metamorphosis (by Franz Kafka) [Phil Chenevert Version !! ] Audiobook'
-author: UfU
-post_excerpt: |
-  One of the best narrators out there, Phil Chenevert outdid himself with this marvelous narration of The Metamorphosis! Forget about all the other audiobook versions because this is THE BEST version ever, IMHO. Enjoy!
-  The Metamorphosis (by Franz Kafka) [Phil Chenevert Version!] Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-metamorphosis-by-franz-kafka-phil-chenevert-version-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-metamorphosis-by-franz-kafka-phil-chenevert-version-audiobook/
 published: true
 post_date: 2017-07-06 12:00:56
 ---

@@ -1,15 +1,13 @@
 ---
-ID: 8256
+ID: 909
 post_title: >
   Way of a Rebel, SF , Science Fiction, by
   Walter M. Miller Jr.
-author: UfU
-post_excerpt: >
-  Way of a Rebel, SF Audiobook, Science
-  Fiction, by Walter M. Miller Jr.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/way-of-a-rebel-sf-science-fiction-by-walter-m-miller-jr/
+  https://universalflowuniversity.com/uncategorized/way-of-a-rebel-sf-science-fiction-by-walter-m-miller-jr/
 published: true
 post_date: 2014-03-20 12:42:00
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 5229
+ID: 3249
 post_title: '[European Legend Audiobook] Tristan and Isolde'
-author: UfU
-post_excerpt: '[European Legend Audiobook] Tristan and Isolde  (from "Stories From Wagner") by J. Walker McSpadden'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/european-legend-audiobook-tristan-and-isolde/
+  https://universalflowuniversity.com/uncategorized/european-legend-audiobook-tristan-and-isolde/
 published: true
 post_date: 2016-12-01 21:35:20
 ---

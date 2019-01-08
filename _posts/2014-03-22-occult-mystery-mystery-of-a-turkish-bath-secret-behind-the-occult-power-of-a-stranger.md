@@ -1,11 +1,11 @@
 ---
-ID: 8271
+ID: 921
 post_title: '[Occult Mystery ] Mystery of a Turkish Bath, Secret Behind the Occult Power of a Stranger'
-author: UfU
-post_excerpt: '[Occult Mystery Audiobook] Mystery of a Turkish Bath, Secret Behind the Occult Power of a Stranger, by E. M. Gollan'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-mystery-mystery-of-a-turkish-bath-secret-behind-the-occult-power-of-a-stranger/
+  https://universalflowuniversity.com/uncategorized/occult-mystery-mystery-of-a-turkish-bath-secret-behind-the-occult-power-of-a-stranger/
 published: true
 post_date: 2014-03-22 13:30:00
 ---

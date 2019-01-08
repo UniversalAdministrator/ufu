@@ -1,11 +1,11 @@
 ---
-ID: 6142
+ID: 3089
 post_title: 'The Giantess (from &#8220;The Flowers of Evil&#8221;) [Poetry ] by Charles Baudelaire'
-author: UfU
-post_excerpt: 'The Giantess (from "The Flowers of Evil") [Poetry Audiobook] by Charles Baudelaire'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-giantess-from-the-flowers-of-evil-poetry-by-charles-baudelaire/
+  https://universalflowuniversity.com/uncategorized/the-giantess-from-the-flowers-of-evil-poetry-by-charles-baudelaire/
 published: true
 post_date: 2016-08-02 21:57:46
 ---

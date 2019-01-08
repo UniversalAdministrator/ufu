@@ -1,15 +1,13 @@
 ---
-ID: 9218
+ID: 771
 post_title: >
   The Silver Mirror; Horror Radio Show,
   CBS Mystery Theater, Suspense, Macabre
-author: UfU
-post_excerpt: >
-  The Silver Mirror; Horror Radio Show,
-  CBS Mystery Theater, Suspense, Macabre
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-silver-mirror-horror-radio-show-cbs-mystery-theater-suspense-macabre/
+  https://universalflowuniversity.com/uncategorized/the-silver-mirror-horror-radio-show-cbs-mystery-theater-suspense-macabre/
 published: true
 post_date: 2014-03-02 13:07:14
 ---

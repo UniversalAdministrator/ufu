@@ -1,11 +1,11 @@
 ---
-ID: 6510
+ID: 1481
 post_title: '[Enlightenment Philosophy] The American Crisis, by Thomas Paine,'
-author: UfU
-post_excerpt: '[Enlightenment Philosophy] The American Crisis, by Thomas Paine, Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/enlightenment-philosophy-the-american-crisis-by-thomas-paine/
+  https://universalflowuniversity.com/uncategorized/enlightenment-philosophy-the-american-crisis-by-thomas-paine/
 published: true
 post_date: 2014-06-21 11:51:37
 ---

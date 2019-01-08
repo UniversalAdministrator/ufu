@@ -1,14 +1,11 @@
 ---
-ID: 9378
+ID: 695
 post_title: 'Don Juan in Hell; Conversation with Devil, Satire, Black Comedy  by Shaw #UfU'
-author: UfU
-post_excerpt: >
-  Don Juan in Hell; Conversation with
-  Devil, Satire Audiobook, Black Comedy,
-  by George Bernard Shaw
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/don-juan-in-hell-conversation-with-devil-satire-black-comedy-by-shaw-ufu/
+  https://universalflowuniversity.com/uncategorized/don-juan-in-hell-conversation-with-devil-satire-black-comedy-by-shaw-ufu/
 published: true
 post_date: 2014-02-22 13:49:53
 ---

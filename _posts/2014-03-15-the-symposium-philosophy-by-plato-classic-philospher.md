@@ -1,13 +1,11 @@
 ---
-ID: 8319
+ID: 869
 post_title: 'The Symposium, Philosophy  by Plato, Classic Philospher'
-author: UfU
-post_excerpt: |
-  This is one of more accessible works of Plato and dramatized as well.
-  The Symposium, Philosophy Audiobook by Plato, Classic Greek Philospher
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-symposium-philosophy-by-plato-classic-philospher/
+  https://universalflowuniversity.com/uncategorized/the-symposium-philosophy-by-plato-classic-philospher/
 published: true
 post_date: 2014-03-15 12:07:00
 ---

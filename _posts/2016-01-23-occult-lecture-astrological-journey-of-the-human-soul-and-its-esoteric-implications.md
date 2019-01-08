@@ -1,13 +1,11 @@
 ---
-ID: 4891
+ID: 2781
 post_title: '[Occult Lecture] Astrological Journey of the Human Soul and Its Esoteric Implications'
-author: UfU
-post_excerpt: |
-  Through various astrological cycles, our souls travel endlessly and the master occult and alchemy scholar Manly P. Hall shares his insight with us on the subject.
-  [Occult Lecture] Astrological Journey of the Human Soul and Its Esoteric Implications by Manly P. Hall
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-astrological-journey-of-the-human-soul-and-its-esoteric-implications/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-astrological-journey-of-the-human-soul-and-its-esoteric-implications/
 published: true
 post_date: 2016-01-23 21:57:43
 ---

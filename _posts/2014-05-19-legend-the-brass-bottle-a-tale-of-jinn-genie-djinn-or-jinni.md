@@ -1,14 +1,11 @@
 ---
-ID: 7231
+ID: 1363
 post_title: '[Legend ] The Brass Bottle, a Tale of Jinn (Genie, Djinn, OR Jinni)'
-author: UfU
-post_excerpt: >
-  The Brass Bottle, a Tale of Jinn (Genie,
-  Djinn, OR Jinni), Legend Audiobook by F.
-  Anstey
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/legend-the-brass-bottle-a-tale-of-jinn-genie-djinn-or-jinni/
+  https://universalflowuniversity.com/uncategorized/legend-the-brass-bottle-a-tale-of-jinn-genie-djinn-or-jinni/
 published: true
 post_date: 2014-05-19 11:06:19
 ---

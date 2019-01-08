@@ -1,11 +1,11 @@
 ---
-ID: 5461
+ID: 2119
 post_title: '[History of Ideological Rebels &#038; Philosophers] Ancient and Modern Celebrated Freethinkers 1'
-author: UfU
-post_excerpt: '[History of Ideological Rebels & Philosophers] Ancient and Modern Celebrated Freethinkers 1, by Charles Bradlaugh, Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/history-of-ideological-rebels-philosophers-ancient-and-modern-celebrated-freethinkers-1/
+  https://universalflowuniversity.com/uncategorized/history-of-ideological-rebels-philosophers-ancient-and-modern-celebrated-freethinkers-1/
 published: true
 post_date: 2015-03-17 16:26:24
 ---

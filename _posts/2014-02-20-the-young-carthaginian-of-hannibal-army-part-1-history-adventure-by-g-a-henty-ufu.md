@@ -1,14 +1,11 @@
 ---
-ID: 9394
+ID: 681
 post_title: 'The Young Carthaginian of Hannibal Army Part 1, History Adventure , by G. A. Henty #UfU'
-author: UfU
-post_excerpt: >
-  The Young Carthaginian of Hannibal Army
-  Part 1, History Adventure Audiobook, by
-  G. A. Henty
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-young-carthaginian-of-hannibal-army-part-1-history-adventure-by-g-a-henty-ufu/
+  https://universalflowuniversity.com/uncategorized/the-young-carthaginian-of-hannibal-army-part-1-history-adventure-by-g-a-henty-ufu/
 published: true
 post_date: 2014-02-20 13:09:13
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 4883
+ID: 3129
 post_title: '[&#8220;Twilight Zone&#8221;-Like Unusual SF Audiobook] Warrior Race'
-author: UfU
-post_excerpt: |
-  This SF audiobook has a nice twist in the vein of Twilight Zone and other similar shows.
-  [Twilight Zone-Like Unusual SF Audiobook] Warrior Race by Robert Sheckley
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/twilight-zone-like-unusual-sf-audiobook-warrior-race/
+  https://universalflowuniversity.com/uncategorized/twilight-zone-like-unusual-sf-audiobook-warrior-race/
 published: true
 post_date: 2016-09-01 21:53:00
 ---

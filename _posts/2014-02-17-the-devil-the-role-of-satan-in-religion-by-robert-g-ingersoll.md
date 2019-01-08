@@ -1,16 +1,13 @@
 ---
-ID: 9721
+ID: 647
 post_title: >
   The Devil; The Role of Satan in
   Religion, , by Robert G. Ingersoll
-author: UfU
-post_excerpt: >
-  The Devil; The Role of Satan in
-  Religion, Audiobook, by Robert G.
-  Ingersoll
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-devil-the-role-of-satan-in-religion-by-robert-g-ingersoll/
+  https://universalflowuniversity.com/uncategorized/the-devil-the-role-of-satan-in-religion-by-robert-g-ingersoll/
 published: true
 post_date: 2014-02-17 15:28:50
 ---

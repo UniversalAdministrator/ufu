@@ -1,11 +1,11 @@
 ---
-ID: 5451
+ID: 2195
 post_title: '[Japanese Creation Mythology] The Serpent With Eight Heads, Audiobook'
-author: UfU
-post_excerpt: '[Japanese Creation Mythology, Fairy Tale, Folklore] The Serpent With Eight Heads, Audiobook, Edited by Basil Hall Chamberlain'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/japanese-creation-mythology-the-serpent-with-eight-heads-audiobook/
+  https://universalflowuniversity.com/uncategorized/japanese-creation-mythology-the-serpent-with-eight-heads-audiobook/
 published: true
 post_date: 2015-04-21 16:21:50
 ---

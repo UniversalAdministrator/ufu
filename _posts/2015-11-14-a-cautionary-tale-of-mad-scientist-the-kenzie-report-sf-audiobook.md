@@ -1,11 +1,11 @@
 ---
-ID: 4999
+ID: 2639
 post_title: '[A Cautionary Tale of Mad Scientist] The Kenzie Report [SF Audiobook]'
-author: UfU
-post_excerpt: '[A Cautionary Tale of Mad Scientist] The Kenzie Report [SF Audiobook] by Mark Clifton'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-cautionary-tale-of-mad-scientist-the-kenzie-report-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-cautionary-tale-of-mad-scientist-the-kenzie-report-sf-audiobook/
 published: true
 post_date: 2015-11-14 04:26:18
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 4873
+ID: 2815
 post_title: 'Planet of the Gods [SF Audiobook]'
-author: UfU
-post_excerpt: 'Planet of the Gods [SF Audiobook] by Robert Moore Williams'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/planet-of-the-gods-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/planet-of-the-gods-sf-audiobook/
 published: true
 post_date: 2016-02-07 22:25:27
 ---

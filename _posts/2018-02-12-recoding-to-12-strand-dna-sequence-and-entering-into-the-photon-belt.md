@@ -1,13 +1,13 @@
 ---
-ID: 7777
+ID: 3833
 post_title: >
   Recoding To 12 Strand DNA Sequence And
   Entering Into The Photon Belt
-author: UfU
-post_excerpt: 'Recoding To 12 Strand DNA Sequence And Entering Into The Photon Belt Medical science has established that we have 2 strands of DNA and 10 strands of “junk” DNA, but they have not understood the purpose of that “junk” DNA. Recent information has revealed its higher purpose; supporting a multidimensional consciousness, our natural state. Realigning, [...]'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/recoding-to-12-strand-dna-sequence-and-entering-into-the-photon-belt/
+  https://universalflowuniversity.com/uncategorized/recoding-to-12-strand-dna-sequence-and-entering-into-the-photon-belt/
 published: true
 post_date: 2018-02-12 07:04:17
 ---

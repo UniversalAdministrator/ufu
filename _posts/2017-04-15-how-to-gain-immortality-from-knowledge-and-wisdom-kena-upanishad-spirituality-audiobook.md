@@ -1,15 +1,11 @@
 ---
-ID: 5409
+ID: 3427
 post_title: '[How to Gain Immortality from Knowledge and Wisdom] Kena Upanishad (Spirituality Audiobook)'
-author: UfU
-post_excerpt: >
-  (The highest human wisdom, according to
-  Arthur Schopenhauer) The Kena Upanishad
-  (Audiobook) written by unknown ancient
-  seekers.
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/how-to-gain-immortality-from-knowledge-and-wisdom-kena-upanishad-spirituality-audiobook/
+  https://universalflowuniversity.com/uncategorized/how-to-gain-immortality-from-knowledge-and-wisdom-kena-upanishad-spirituality-audiobook/
 published: true
 post_date: 2017-04-15 13:10:56
 ---

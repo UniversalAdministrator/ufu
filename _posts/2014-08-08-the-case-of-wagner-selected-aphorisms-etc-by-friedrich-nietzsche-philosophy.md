@@ -1,16 +1,13 @@
 ---
-ID: 6376
+ID: 1621
 post_title: >
   The Case of Wagner, Selected Aphorisms,
   etc. by Friedrich Nietzsche, Philosophy
-author: UfU
-post_excerpt: >
-  The Case of Wagner / Nietzsche Contra
-  Wagner / Selected Aphorisms by Friedrich
-  Nietzsche, Philosophy Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-case-of-wagner-selected-aphorisms-etc-by-friedrich-nietzsche-philosophy/
+  https://universalflowuniversity.com/uncategorized/the-case-of-wagner-selected-aphorisms-etc-by-friedrich-nietzsche-philosophy/
 published: true
 post_date: 2014-08-08 11:58:56
 ---

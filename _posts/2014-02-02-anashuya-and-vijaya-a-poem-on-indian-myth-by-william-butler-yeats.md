@@ -1,15 +1,13 @@
 ---
-ID: 9853
+ID: 509
 post_title: >
   Anashuya and Vijaya, A Poem on Indian
   Myth, by William Butler Yeats,
-author: UfU
-post_excerpt: >
-  Anashuya and Vijaya, A Poem on Indian
-  Myth, by William Butler Yeats, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/anashuya-and-vijaya-a-poem-on-indian-myth-by-william-butler-yeats/
+  https://universalflowuniversity.com/uncategorized/anashuya-and-vijaya-a-poem-on-indian-myth-by-william-butler-yeats/
 published: true
 post_date: 2014-02-02 21:16:51
 ---

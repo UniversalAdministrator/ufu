@@ -1,13 +1,11 @@
 ---
-ID: 7334
+ID: 2287
 post_title: 'The Gun [SF ] by Philip K. Dick'
-author: UfU
-post_excerpt: >
-  The Gun, SF Audiobook, by Philip K.
-  Dick, Science Fiction
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-gun-sf-by-philip-k-dick/
+  https://universalflowuniversity.com/uncategorized/the-gun-sf-by-philip-k-dick/
 published: true
 post_date: 2015-06-02 20:51:46
 ---

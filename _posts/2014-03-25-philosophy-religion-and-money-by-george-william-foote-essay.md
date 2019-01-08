@@ -1,11 +1,11 @@
 ---
-ID: 8357
+ID: 953
 post_title: '[Philosophy] Religion and Money, by George William Foote, Essay,'
-author: UfU
-post_excerpt: '[Philosophy] Religion and Money, by George William Foote, Essay, Audiobook'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-religion-and-money-by-george-william-foote-essay/
+  https://universalflowuniversity.com/uncategorized/philosophy-religion-and-money-by-george-william-foote-essay/
 published: true
 post_date: 2014-03-25 11:20:08
 ---

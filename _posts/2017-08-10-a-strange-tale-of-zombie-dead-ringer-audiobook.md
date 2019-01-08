@@ -1,11 +1,11 @@
 ---
-ID: 4769
+ID: 3591
 post_title: '[A Strange Tale of Zombie] Dead Ringer (Audiobook)'
-author: UfU
-post_excerpt: '[A Strange Tale of Zombie] Dead Ringer (Audiobook) by Lester del Rey'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-strange-tale-of-zombie-dead-ringer-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-strange-tale-of-zombie-dead-ringer-audiobook/
 published: true
 post_date: 2017-08-10 12:11:43
 ---

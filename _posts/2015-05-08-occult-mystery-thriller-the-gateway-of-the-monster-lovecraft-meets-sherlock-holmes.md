@@ -1,13 +1,11 @@
 ---
-ID: 5888
+ID: 2233
 post_title: '[Occult Mystery-Thriller] The Gateway of the Monster (Lovecraft Meets Sherlock Holmes),'
-author: UfU
-post_excerpt: |
-  This story is like, in a strange way, H. P. Lovecraft meets Sherlock Holmes. If you love both of them, you might find this very interesting.
-  The Gateway of the Monster (the Ghost Finder Saga), Lovecraft Meets Sherlock Holmes, Audiobook by William Hope Hodgson
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-mystery-thriller-the-gateway-of-the-monster-lovecraft-meets-sherlock-holmes/
+  https://universalflowuniversity.com/uncategorized/occult-mystery-thriller-the-gateway-of-the-monster-lovecraft-meets-sherlock-holmes/
 published: true
 post_date: 2015-05-08 18:40:32
 ---

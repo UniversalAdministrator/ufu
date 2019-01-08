@@ -1,11 +1,11 @@
 ---
-ID: 5822
+ID: 2027
 post_title: '[Occult Lecture] The Seven Branches of Esoteric Religions (Mystery Religions Throughout the History)'
-author: UfU
-post_excerpt: '[Occult Lecture] The Seven Branches of Esoteric Religions (Mystery Religions Throughout the History) by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-seven-branches-of-esoteric-religions-mystery-religions-throughout-the-history/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-seven-branches-of-esoteric-religions-mystery-religions-throughout-the-history/
 published: true
 post_date: 2015-01-31 15:17:00
 ---

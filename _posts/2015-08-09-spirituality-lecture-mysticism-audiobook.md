@@ -1,11 +1,11 @@
 ---
-ID: 5379
+ID: 2433
 post_title: '[Spirituality Lecture] Mysticism (Audiobook)'
-author: UfU
-post_excerpt: '[Spirituality Lecture] Mysticism (Audiobook) by William James'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/spirituality-lecture-mysticism-audiobook/
+  https://universalflowuniversity.com/uncategorized/spirituality-lecture-mysticism-audiobook/
 published: true
 post_date: 2015-08-09 03:28:19
 ---

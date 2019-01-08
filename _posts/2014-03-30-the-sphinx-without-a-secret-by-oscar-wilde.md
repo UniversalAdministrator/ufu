@@ -1,15 +1,13 @@
 ---
-ID: 8124
+ID: 997
 post_title: >
   The Sphinx Without a Secret, , by Oscar
   Wilde
-author: UfU
-post_excerpt: >
-  The Sphinx Without a Secret, Audiobook,
-  by Oscar Wilde
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-sphinx-without-a-secret-by-oscar-wilde/
+  https://universalflowuniversity.com/uncategorized/the-sphinx-without-a-secret-by-oscar-wilde/
 published: true
 post_date: 2014-03-30 14:19:25
 ---

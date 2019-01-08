@@ -1,11 +1,11 @@
 ---
-ID: 1211
+ID: 384
 post_title: Product Comparison
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: page
 permalink: >
-  http://universalflowuniversity.com/product-comparison/
+  https://universalflowuniversity.com/product-comparison/
 published: true
 post_date: 2017-03-30 21:24:08
 ---

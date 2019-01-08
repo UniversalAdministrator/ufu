@@ -1,14 +1,11 @@
 ---
-ID: 8007
+ID: 1061
 post_title: 'The Birth Mark (a Tale of Morbid Obsession),  by Nathaniel Hawthorne'
-author: UfU
-post_excerpt: >
-  The Birth Mark (a Tale of Morbid
-  Obsession), Audiobook by Nathaniel
-  Hawthorne
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-birth-mark-a-tale-of-morbid-obsession-by-nathaniel-hawthorne/
+  https://universalflowuniversity.com/uncategorized/the-birth-mark-a-tale-of-morbid-obsession-by-nathaniel-hawthorne/
 published: true
 post_date: 2014-04-06 10:56:27
 ---

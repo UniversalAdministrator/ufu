@@ -1,13 +1,13 @@
 ---
-ID: 3953
+ID: 3807
 post_title: >
   AI and Deep Learning in 2017 – A Year
   in Review
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ai/ai-and-deep-learning-in-2017-a-year-in-review/
+  https://universalflowuniversity.com/uncategorized/ai-and-deep-learning-in-2017-a-year-in-review/
 published: true
 post_date: 2018-01-02 19:50:03
 ---

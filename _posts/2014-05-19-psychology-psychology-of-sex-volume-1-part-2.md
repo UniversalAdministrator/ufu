@@ -1,11 +1,11 @@
 ---
-ID: 7215
+ID: 1367
 post_title: '[Psychology ] Psychology of Sex Volume 1 Part 2'
-author: UfU
-post_excerpt: '[Psychology Audiobook] Studies in the Psychology of Sex Volume 1 Part 2 by Havelock Ellis'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/psychology-psychology-of-sex-volume-1-part-2/
+  https://universalflowuniversity.com/uncategorized/psychology-psychology-of-sex-volume-1-part-2/
 published: true
 post_date: 2014-05-19 10:46:40
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 5375
+ID: 2179
 post_title: '[Greek Mythology Audiobook] The Dragon&#8217;s Teeth'
-author: UfU
-post_excerpt: |
-  Master storyteller Nathaniel Hawthorne wrote this re-telling of the Greek mythology with his own tasteful touch.
-  [Greek Mythology Audiobook] The Dragon's Teeth
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/greek-mythology-audiobook-the-dragons-teeth/
+  https://universalflowuniversity.com/uncategorized/greek-mythology-audiobook-the-dragons-teeth/
 published: true
 post_date: 2015-04-13 16:48:46
 ---

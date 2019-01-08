@@ -1,11 +1,11 @@
 ---
-ID: 4147
+ID: 3657
 post_title: '[Psychology Audiobook] The Social Self (by George Herbert Mead)'
-author: UfU
-post_excerpt: '[Psychology Audiobook] The Social Self (by George Herbert Mead)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/psychology-audiobook-the-social-self-by-george-herbert-mead/
+  https://universalflowuniversity.com/uncategorized/psychology-audiobook-the-social-self-by-george-herbert-mead/
 published: true
 post_date: 2017-09-19 11:35:21
 ---

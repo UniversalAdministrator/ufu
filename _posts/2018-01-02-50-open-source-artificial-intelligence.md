@@ -1,11 +1,11 @@
 ---
-ID: 3979
+ID: 3805
 post_title: 50 Open Source Artificial Intelligence
-author: VICKY
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ai/50-open-source-artificial-intelligence/
+  https://universalflowuniversity.com/uncategorized/50-open-source-artificial-intelligence/
 published: true
 post_date: 2018-01-02 23:31:24
 ---

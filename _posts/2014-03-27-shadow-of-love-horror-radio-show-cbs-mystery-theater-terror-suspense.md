@@ -1,15 +1,13 @@
 ---
-ID: 8208
+ID: 965
 post_title: >
   Shadow of Love, Horror Radio Show, CBS
   Mystery Theater, Terror, Suspense
-author: UfU
-post_excerpt: >
-  Shadow of Love, Horror Radio Show, CBS
-  Mystery Theater, Terror, Suspense
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/shadow-of-love-horror-radio-show-cbs-mystery-theater-terror-suspense/
+  https://universalflowuniversity.com/uncategorized/shadow-of-love-horror-radio-show-cbs-mystery-theater-terror-suspense/
 published: true
 post_date: 2014-03-27 11:20:55
 ---

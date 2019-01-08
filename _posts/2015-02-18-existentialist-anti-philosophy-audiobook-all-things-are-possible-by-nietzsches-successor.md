@@ -1,13 +1,11 @@
 ---
-ID: 5523
+ID: 2063
 post_title: '[Existentialist Anti-Philosophy Audiobook] All Things Are Possible, by Nietzsche&#8217;s Successor'
-author: UfU
-post_excerpt: |
-  Along with Kierkegaard and Nietzsche, Lev Shestov is considered as a founding father of anti-philosophy and some scholars even consider him as a successor of Nietzsche. Here is English translation of his work so you be the judge. :)
-  [Existentialist Anti-Philosophy Audiobook] All Things Are Possible, by Lev Shestov
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/existentialist-anti-philosophy-audiobook-all-things-are-possible-by-nietzsches-successor/
+  https://universalflowuniversity.com/uncategorized/existentialist-anti-philosophy-audiobook-all-things-are-possible-by-nietzsches-successor/
 published: true
 post_date: 2015-02-18 17:09:52
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 7503
+ID: 1235
 post_title: 'The Beauties,  by Anton Chekhov'
-author: UfU
-post_excerpt: The Beauties, Audiobook by Anton Chekhov
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-beauties-by-anton-chekhov/
+  https://universalflowuniversity.com/uncategorized/the-beauties-by-anton-chekhov/
 published: true
 post_date: 2014-04-27 12:16:30
 ---

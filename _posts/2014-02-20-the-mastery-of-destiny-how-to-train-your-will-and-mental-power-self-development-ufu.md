@@ -1,14 +1,11 @@
 ---
-ID: 9589
+ID: 679
 post_title: 'The Mastery of Destiny [How to Train Your Will and Mental Power] Self Development  #UfU'
-author: UfU
-post_excerpt: >
-  The Mastery of Destiny; How to Train
-  Your Will and Mental Power, Self
-  Development Audiobook by James Allen
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/the-mastery-of-destiny-how-to-train-your-will-and-mental-power-self-development-ufu/
+  https://universalflowuniversity.com/uncategorized/the-mastery-of-destiny-how-to-train-your-will-and-mental-power-self-development-ufu/
 published: true
 post_date: 2014-02-20 14:15:37
 ---

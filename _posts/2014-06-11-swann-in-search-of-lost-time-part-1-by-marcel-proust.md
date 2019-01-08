@@ -1,15 +1,13 @@
 ---
-ID: 6537
+ID: 1449
 post_title: >
   Swann (In Search of Lost Time) Part 1 by
   Marcel Proust,
-author: UfU
-post_excerpt: >
-  Swann (In Search of Lost Time) Part 1 by
-  Marcel Proust, Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/swann-in-search-of-lost-time-part-1-by-marcel-proust/
+  https://universalflowuniversity.com/uncategorized/swann-in-search-of-lost-time-part-1-by-marcel-proust/
 published: true
 post_date: 2014-06-11 12:50:13
 ---

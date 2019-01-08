@@ -1,11 +1,11 @@
 ---
-ID: 9414
+ID: 689
 post_title: 'Problems of Philosophy, Philosophy  by Bertrand Russell #UfU'
-author: UfU
-post_excerpt: '#UfU Problems of Philosophy, Philosophy Audiobook by Bertrand Russell'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/problems-of-philosophy-philosophy-by-bertrand-russell-ufu/
+  https://universalflowuniversity.com/uncategorized/problems-of-philosophy-philosophy-by-bertrand-russell-ufu/
 published: true
 post_date: 2014-02-21 14:56:06
 ---

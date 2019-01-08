@@ -1,11 +1,11 @@
 ---
-ID: 6498
+ID: 1547
 post_title: 'The Uddington Witch, [Sherlock Holmes Radio Show], Mystery, Detective, Suspense'
-author: UfU
-post_excerpt: 'The Uddington Witch, [Sherlock Holmes Radio Show], Mystery, Detective, Suspense. Aired in 1948.'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-uddington-witch-sherlock-holmes-radio-show-mystery-detective-suspense/
+  https://universalflowuniversity.com/uncategorized/the-uddington-witch-sherlock-holmes-radio-show-mystery-detective-suspense/
 published: true
 post_date: 2014-07-07 11:17:58
 ---

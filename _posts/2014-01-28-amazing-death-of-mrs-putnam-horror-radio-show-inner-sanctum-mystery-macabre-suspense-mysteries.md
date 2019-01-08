@@ -1,17 +1,14 @@
 ---
-ID: 9905
+ID: 471
 post_title: >
   Amazing Death of Mrs Putnam; Horror
   Radio Show, Inner Sanctum Mystery,
   Macabre, Suspense, Mysteries
-author: UfU
-post_excerpt: >
-  Amazing Death of Mrs Putnam, Radio
-  Horror Show, Inner Sanctum Mystery,
-  Macabre, Mysteries
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/amazing-death-of-mrs-putnam-horror-radio-show-inner-sanctum-mystery-macabre-suspense-mysteries/
+  https://universalflowuniversity.com/uncategorized/amazing-death-of-mrs-putnam-horror-radio-show-inner-sanctum-mystery-macabre-suspense-mysteries/
 published: true
 post_date: 2014-01-28 13:24:48
 ---

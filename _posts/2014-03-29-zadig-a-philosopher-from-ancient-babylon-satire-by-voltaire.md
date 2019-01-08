@@ -1,14 +1,11 @@
 ---
-ID: 9173
+ID: 985
 post_title: 'Zadig (a Philosopher from Ancient Babylon); Satire  by Voltaire'
-author: UfU
-post_excerpt: >
-  Zadig (a Philosopher from Ancient
-  Babylon); Philosophical Satire Audiobook
-  by Voltaire
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/zadig-a-philosopher-from-ancient-babylon-satire-by-voltaire/
+  https://universalflowuniversity.com/uncategorized/zadig-a-philosopher-from-ancient-babylon-satire-by-voltaire/
 published: true
 post_date: 2014-03-29 13:01:39
 ---

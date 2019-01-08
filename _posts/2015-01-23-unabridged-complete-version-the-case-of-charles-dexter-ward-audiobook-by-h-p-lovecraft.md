@@ -1,11 +1,11 @@
 ---
-ID: 5640
+ID: 2011
 post_title: '[Unabridged Complete Version] The Case of Charles Dexter Ward, Audiobook, by H. P. Lovecraft'
-author: UfU
-post_excerpt: '[Unabridged Complete Version] The Case of Charles Dexter Ward, Horror Audiobook, by H. P. Lovecraft'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/unabridged-complete-version-the-case-of-charles-dexter-ward-audiobook-by-h-p-lovecraft/
+  https://universalflowuniversity.com/uncategorized/unabridged-complete-version-the-case-of-charles-dexter-ward-audiobook-by-h-p-lovecraft/
 published: true
 post_date: 2015-01-23 20:23:51
 ---

@@ -1,13 +1,11 @@
 ---
-ID: 4273
+ID: 3493
 post_title: '[&#8220;The Most Secretive&#8221; Secret Research] Project Hush (SF Audiobook)'
-author: UfU
-post_excerpt: |
-  Irony can kill you. ;)
-  Project Hush (SF Audiobook by William Tenn)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-most-secretive-secret-research-project-hush-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-most-secretive-secret-research-project-hush-sf-audiobook/
 published: true
 post_date: 2017-06-01 13:55:40
 ---

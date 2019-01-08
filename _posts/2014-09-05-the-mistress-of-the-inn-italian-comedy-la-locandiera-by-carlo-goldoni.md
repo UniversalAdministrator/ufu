@@ -1,16 +1,13 @@
 ---
-ID: 6271
+ID: 1691
 post_title: >
   The Mistress of the Inn, Italian Comedy
   , La Locandiera, by Carlo Goldoni
-author: UfU
-post_excerpt: >
-  The Mistress of the Inn, Italian Comedy
-  Audiobook, La Locandiera, by Carlo
-  Goldoni
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-mistress-of-the-inn-italian-comedy-la-locandiera-by-carlo-goldoni/
+  https://universalflowuniversity.com/uncategorized/the-mistress-of-the-inn-italian-comedy-la-locandiera-by-carlo-goldoni/
 published: true
 post_date: 2014-09-05 13:13:18
 ---

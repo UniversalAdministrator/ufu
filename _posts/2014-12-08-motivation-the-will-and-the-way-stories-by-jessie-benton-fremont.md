@@ -1,13 +1,11 @@
 ---
-ID: 5969
+ID: 1891
 post_title: '[Motivation ] The Will and the Way Stories, by Jessie Benton Frémont'
-author: UfU
-post_excerpt: |
-  This is a book of short stories which demonstrates the age old adage, 'where there's a will, there's a way'.
-  [Motivation Audiobook] The Will and the Way Stories, by Jessie Benton Frémont
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/motivation-the-will-and-the-way-stories-by-jessie-benton-fremont/
+  https://universalflowuniversity.com/uncategorized/motivation-the-will-and-the-way-stories-by-jessie-benton-fremont/
 published: true
 post_date: 2014-12-08 15:15:06
 ---

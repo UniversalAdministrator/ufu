@@ -1,13 +1,11 @@
 ---
-ID: 4763
+ID: 2931
 post_title: 'The New Machiavelli Part 2 [A Controversial Masterpiece from H. G. Wells] Audiobook'
-author: UfU
-post_excerpt: |
-  This is a very unusual tale for H. G. Wells with its central theme dealing with politics and sex. However, many seminal authors consider this as a masterpiece including Joseph Conrad (of Heart of Darkness: Apocalypse Now fame) and D. H. Lawrence.
-  The New Machiavelli Part 2 [A Controversial Masterpiece from H. G. Wells] Audiobook
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-new-machiavelli-part-2-a-controversial-masterpiece-from-h-g-wells-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-new-machiavelli-part-2-a-controversial-masterpiece-from-h-g-wells-audiobook/
 published: true
 post_date: 2016-04-03 21:11:45
 ---

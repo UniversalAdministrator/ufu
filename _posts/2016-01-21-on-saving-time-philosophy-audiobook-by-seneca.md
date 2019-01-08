@@ -1,15 +1,13 @@
 ---
-ID: 5557
+ID: 2777
 post_title: >
   On Saving Time (Philosophy Audiobook) by
   Seneca
-author: UfU
-post_excerpt: >
-  On Saving Time (Philosophy Audiobook) by
-  Seneca
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/on-saving-time-philosophy-audiobook-by-seneca/
+  https://universalflowuniversity.com/uncategorized/on-saving-time-philosophy-audiobook-by-seneca/
 published: true
 post_date: 2016-01-21 04:24:49
 ---

@@ -1,15 +1,13 @@
 ---
-ID: 6062
+ID: 2651
 post_title: >
   Lament of the Stars by Clark Ashton
   Smith (Poetry )
-author: UfU
-post_excerpt: >
-  Lament of the Stars by Clark Ashton
-  Smith (Poetry Audiobook)
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/lament-of-the-stars-by-clark-ashton-smith-poetry/
+  https://universalflowuniversity.com/uncategorized/lament-of-the-stars-by-clark-ashton-smith-poetry/
 published: true
 post_date: 2015-11-20 04:04:27
 ---

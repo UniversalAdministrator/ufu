@@ -1,11 +1,11 @@
 ---
-ID: 9482
+ID: 627
 post_title: '[Occult Lecture] Hermes Trismegistus 5 (of Kybalion) , Hermeticism&#8217;s Influence on Christianity #UfU'
-author: UfU
-post_excerpt: "[Occult Lecture] Hermes Trismegistus 5, Hermeticism's Influence on Christianity, Spiritual Alchemy by Manly P Hall"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/ufu/occult-lecture-hermes-trismegistus-5-of-kybalion-hermeticisms-influence-on-christianity-ufu/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-hermes-trismegistus-5-of-kybalion-hermeticisms-influence-on-christianity-ufu/
 published: true
 post_date: 2014-02-15 18:49:41
 ---

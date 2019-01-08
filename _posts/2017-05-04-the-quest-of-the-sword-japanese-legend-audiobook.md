@@ -1,11 +1,11 @@
 ---
-ID: 4469
+ID: 3455
 post_title: 'The Quest of the Sword [Japanese Legend Audiobook]'
-author: UfU
-post_excerpt: '[Japanese Legend Audiobook] The Quest of the Sword (from the collection "Romances of Old Japan" by Yei Theodora Ozaki)'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-quest-of-the-sword-japanese-legend-audiobook/
+  https://universalflowuniversity.com/uncategorized/the-quest-of-the-sword-japanese-legend-audiobook/
 published: true
 post_date: 2017-05-04 12:14:42
 ---

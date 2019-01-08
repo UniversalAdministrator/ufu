@@ -1,11 +1,11 @@
 ---
-ID: 601
+ID: 3353
 post_title: 'Personality Types: Using the Enneagram for Self-Discovery'
-author: UfU
+author: abbie04m553726
 post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/social-sciences/psychology/personality-types-using-the-enneagram-for-self-discovery/
+  https://universalflowuniversity.com/uncategorized/personality-types-using-the-enneagram-for-self-discovery/
 published: true
 post_date: 2017-02-20 09:21:21
 ---

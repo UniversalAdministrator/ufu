@@ -1,11 +1,11 @@
 ---
-ID: 4837
+ID: 2871
 post_title: '[A Tale of Alien Planet with an Ominous Disease] Contagion (SF Audiobook)'
-author: UfU
-post_excerpt: '[A Tale of Alien Planet with an Ominous Disease] Contagion (SF Audiobook) by Katherine MacLean'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-alien-planet-with-an-ominous-disease-contagion-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-alien-planet-with-an-ominous-disease-contagion-sf-audiobook/
 published: true
 post_date: 2016-03-07 03:14:14
 ---

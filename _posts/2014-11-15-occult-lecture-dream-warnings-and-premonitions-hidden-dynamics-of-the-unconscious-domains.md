@@ -1,11 +1,11 @@
 ---
-ID: 6244
+ID: 1837
 post_title: '[Occult Lecture] Dream Warnings and, Premonitions (Hidden Dynamics of the Unconscious Domains)'
-author: UfU
-post_excerpt: '[Occult Lecture] Dream Warnings and Premonitions (Hidden Dynamics of the Unconscious Domains) by Manly P. Hall'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-dream-warnings-and-premonitions-hidden-dynamics-of-the-unconscious-domains/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-dream-warnings-and-premonitions-hidden-dynamics-of-the-unconscious-domains/
 published: true
 post_date: 2014-11-15 14:51:44
 ---

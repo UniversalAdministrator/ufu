@@ -1,11 +1,11 @@
 ---
-ID: 7563
+ID: 1197
 post_title: 'The Countess Kathleen O&#8217;Shea, Irish Legend, by William Butler Yeats,'
-author: UfU
-post_excerpt: "The Countess Kathleen O'Shea, Irish Legend, by William Butler Yeats, Audiobook"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-countess-kathleen-oshea-irish-legend-by-william-butler-yeats/
+  https://universalflowuniversity.com/uncategorized/the-countess-kathleen-oshea-irish-legend-by-william-butler-yeats/
 published: true
 post_date: 2014-04-22 12:48:51
 ---

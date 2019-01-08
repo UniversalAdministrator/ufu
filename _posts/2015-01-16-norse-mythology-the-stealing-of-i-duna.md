@@ -1,11 +1,11 @@
 ---
-ID: 5786
+ID: 1991
 post_title: '[Norse Mythology ] The Stealing of I Du&#8217;na,'
-author: UfU
-post_excerpt: "[Norse Mythology Audiobook] The Stealing of I Du'na, the author unknown"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/norse-mythology-the-stealing-of-i-duna/
+  https://universalflowuniversity.com/uncategorized/norse-mythology-the-stealing-of-i-duna/
 published: true
 post_date: 2015-01-16 12:32:07
 ---

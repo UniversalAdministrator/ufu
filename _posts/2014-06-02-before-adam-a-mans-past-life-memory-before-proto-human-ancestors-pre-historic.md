@@ -1,11 +1,11 @@
 ---
-ID: 6549
+ID: 1419
 post_title: 'Before Adam (A Man&#8217;s Past-Life Memory before Proto-Human Ancestors), Pre-Historic'
-author: UfU
-post_excerpt: "Before Adam (A Man's Past-Life Memory before Proto-Human Ancestors), Pre-Historic Audiobook by Jack London"
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/before-adam-a-mans-past-life-memory-before-proto-human-ancestors-pre-historic/
+  https://universalflowuniversity.com/uncategorized/before-adam-a-mans-past-life-memory-before-proto-human-ancestors-pre-historic/
 published: true
 post_date: 2014-06-02 12:14:18
 ---

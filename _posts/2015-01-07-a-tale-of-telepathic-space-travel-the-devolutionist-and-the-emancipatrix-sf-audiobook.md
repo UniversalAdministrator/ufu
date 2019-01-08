@@ -1,11 +1,11 @@
 ---
-ID: 5694
+ID: 1967
 post_title: '[A Tale of Telepathic Space Travel] The Devolutionist and the Emancipatrix, SF Audiobook'
-author: UfU
-post_excerpt: '[A Tale of Telepathic Space Travel] The Devolutionist and the Emancipatrix, SF Audiobook by Homer Eon Flint'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/a-tale-of-telepathic-space-travel-the-devolutionist-and-the-emancipatrix-sf-audiobook/
+  https://universalflowuniversity.com/uncategorized/a-tale-of-telepathic-space-travel-the-devolutionist-and-the-emancipatrix-sf-audiobook/
 published: true
 post_date: 2015-01-07 15:48:29
 ---

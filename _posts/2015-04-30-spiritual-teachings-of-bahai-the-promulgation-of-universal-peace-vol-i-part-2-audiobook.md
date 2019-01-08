@@ -1,13 +1,11 @@
 ---
-ID: 5343
+ID: 2217
 post_title: '[Spiritual Teachings of Baha&#8217;i] The Promulgation of Universal Peace, Vol  I, Part 2 (Audiobook)'
-author: UfU
-post_excerpt: |
-  This is a collection of lectures given by Abdu’l-Bahá ‘Abbás.
-  [Spiritual Teachings of Baha'i] The Promulgation of Universal Peace, Vol  I, Part 2, Audiobook by Abdu’l-Bahá ‘Abbás
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/spiritual-teachings-of-bahai-the-promulgation-of-universal-peace-vol-i-part-2-audiobook/
+  https://universalflowuniversity.com/uncategorized/spiritual-teachings-of-bahai-the-promulgation-of-universal-peace-vol-i-part-2-audiobook/
 published: true
 post_date: 2015-04-30 15:52:18
 ---

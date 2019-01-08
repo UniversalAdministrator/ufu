@@ -1,15 +1,13 @@
 ---
-ID: 7247
+ID: 1393
 post_title: >
   The One Million Pound Bank Note, Humor ,
   by Mark Twain
-author: UfU
-post_excerpt: >
-  The One Million Pound Bank Note, Humor
-  Audiobook, by Mark Twain
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/the-one-million-pound-bank-note-humor-by-mark-twain/
+  https://universalflowuniversity.com/uncategorized/the-one-million-pound-bank-note-humor-by-mark-twain/
 published: true
 post_date: 2014-05-27 12:49:51
 ---

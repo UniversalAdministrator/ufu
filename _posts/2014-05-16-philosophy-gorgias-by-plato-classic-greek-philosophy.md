@@ -1,11 +1,11 @@
 ---
-ID: 7342
+ID: 1347
 post_title: '[Philosophy] Gorgias by Plato, , Classic Greek Philosophy'
-author: UfU
-post_excerpt: '[Philosophy] Gorgias by Plato, Audiobook, Classic Greek Philosophy'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/philosophy-gorgias-by-plato-classic-greek-philosophy/
+  https://universalflowuniversity.com/uncategorized/philosophy-gorgias-by-plato-classic-greek-philosophy/
 published: true
 post_date: 2014-05-16 12:26:49
 ---

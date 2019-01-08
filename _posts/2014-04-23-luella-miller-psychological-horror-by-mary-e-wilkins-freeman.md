@@ -1,15 +1,13 @@
 ---
-ID: 7519
+ID: 1203
 post_title: >
   Luella Miller, Psychological Horror , by
   Mary E. Wilkins Freeman
-author: UfU
-post_excerpt: >
-  Luella Miller, Psychological Horror
-  Audiobook, by Mary E. Wilkins Freeman
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/luella-miller-psychological-horror-by-mary-e-wilkins-freeman/
+  https://universalflowuniversity.com/uncategorized/luella-miller-psychological-horror-by-mary-e-wilkins-freeman/
 published: true
 post_date: 2014-04-23 11:53:49
 ---

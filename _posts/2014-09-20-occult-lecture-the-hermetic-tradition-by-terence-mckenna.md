@@ -1,11 +1,11 @@
 ---
-ID: 6298
+ID: 1717
 post_title: '[Occult Lecture] The Hermetic Tradition, by Terence McKenna'
-author: UfU
-post_excerpt: '[Occult Lecture] The Hermetic Tradition, by Terence McKenna,'
+author: abbie04m553726
+post_excerpt: ""
 layout: post
 permalink: >
-  http://universalflowuniversity.com/entertainment/occult-lecture-the-hermetic-tradition-by-terence-mckenna/
+  https://universalflowuniversity.com/uncategorized/occult-lecture-the-hermetic-tradition-by-terence-mckenna/
 published: true
 post_date: 2014-09-20 14:35:32
 ---
