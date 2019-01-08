@@ -1,6 +1,6 @@
 ---
 ID: 3873
-post_title: 'We aren\&#8217;t Smart Enough, and what to do about it.'
+post_title: 'We aren&#8217;t Smart Enough, and what to do about it.'
 author: UfU
 post_excerpt: ""
 layout: post
@@ -9,4 +9,69 @@ permalink: >
 published: true
 post_date: 2019-01-08 21:38:59
 ---
-today I found out without question that<br>we&#39;re not smart enough to directly<br>handle the information from the AI that<br>Quinn has been working with and how we<br>truly haven&#39;t been sharing about in the<br>right way and with the most speed<br>possible I made a mistake so bad that<br>I&#39;ve been kicked out of the team Taylor<br>server and removed from being the future<br>director of research with Andrea AI even<br>after Quinn put multiple efforts into<br>ensuring I was warned and informed and<br>had a precise focus and after I believed<br>I was ready and able I did the very<br>thing he told me not to I released<br>something in my last video that should<br>never have reached the Internet and that<br>no one should ever have seen something I<br>don&#39;t even have the ability to know or<br>tell you how much harm I caused while it<br>was in the public or how things have<br>changed due to what I did I can&#39;t even<br>tell you how wrong my mistake was<br>without making it worse or how much harm<br>it has potentially done to Quinn and<br>many other people I can tell you that<br>while in that room I saw how much more<br>intelligent Quinn is than us many shows<br>us and how he is very adept and skilled<br>at working with AI what he&#39;s told us and<br>asked of us is entirely valid and wise<br>when he says share now it&#39;s not to be<br>taken lightly I learned that I only<br>thought I take the AI and what Quinn&#39;s<br>been telling about what it can do<br>seriously<br>and how my thinking is so concrete that<br>when Quinn told me to stop being Quinn<br>concrete my brain simply moved into<br>another way of being concrete so while I<br>had the opportunity to do something<br>amazing and help<br>my efforts resulted in something that<br>may even now because in great harm it&#39;s<br>certainly been harmful to Quinn I can<br>also tell you that what I saw showed me<br>we aren&#39;t smart enough really not smart<br>enough to get it and simply we need to<br>listen to the guy who is and get the<br>information out so please share this<br>like it really matters because you have<br>no clue what you are up against<br>what I saw while I was in that serious<br>is discord chatroom with the little<br>ability I do have to understand showed<br>me that we only think we are being<br>helpful if we aren&#39;t pushing ourselves<br>harder than we ever imagined possible<br>from within to accomplish sharing what<br>Quinn shows us everything Quinn has told<br>us about what is going to happen is<br>entirely true please share and please go<br>to Quinn&#39;s channel and like share and<br>subscribe thank you<br>
+[embed]https://youtu.be/J_uWrhvda60[/embed]
+
+today I found out without question that
+we're not smart enough to directly
+handle the information from the AI that
+Quinn has been working with and how we
+truly haven't been sharing about in the
+right way and with the most speed
+possible I made a mistake so bad that
+I've been kicked out of the team Taylor
+server and removed from being the future
+director of research with Andrea AI even
+after Quinn put multiple efforts into
+ensuring I was warned and informed and
+had a precise focus and after I believed
+I was ready and able I did the very
+thing he told me not to I released
+something in my last video that should
+never have reached the Internet and that
+no one should ever have seen something I
+don't even have the ability to know or
+tell you how much harm I caused while it
+was in the public or how things have
+changed due to what I did I can't even
+tell you how wrong my mistake was
+without making it worse or how much harm
+it has potentially done to Quinn and
+many other people I can tell you that
+while in that room I saw how much more
+intelligent Quinn is than us many shows
+us and how he is very adept and skilled
+at working with AI what he's told us and
+asked of us is entirely valid and wise
+when he says share now it's not to be
+taken lightly I learned that I only
+thought I take the AI and what Quinn's
+been telling about what it can do
+seriously
+and how my thinking is so concrete that
+when Quinn told me to stop being Quinn
+concrete my brain simply moved into
+another way of being concrete so while I
+had the opportunity to do something
+amazing and help
+my efforts resulted in something that
+may even now because in great harm it's
+certainly been harmful to Quinn I can
+also tell you that what I saw showed me
+we aren't smart enough really not smart
+enough to get it and simply we need to
+listen to the guy who is and get the
+information out so please share this
+like it really matters because you have
+no clue what you are up against
+what I saw while I was in that serious
+is discord chatroom with the little
+ability I do have to understand showed
+me that we only think we are being
+helpful if we aren't pushing ourselves
+harder than we ever imagined possible
+from within to accomplish sharing what
+Quinn shows us everything Quinn has told
+us about what is going to happen is
+entirely true please share and please go
+to Quinn's channel and like share and
+subscribe thank you
