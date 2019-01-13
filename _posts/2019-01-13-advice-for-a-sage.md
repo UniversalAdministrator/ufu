@@ -1,25 +1,25 @@
 ---
-ID: 29
+ID: 35
 post_title: Advice for a Sage
 author: UfU
 post_excerpt: ""
 layout: post
 permalink: >
-  https://universalflowuniversity.com/blog/spiritual-philosophy/advice-for-a-sage/
+  https://universalflowuniversity.com/blog/uncategorized/advice-for-a-sage/
 published: true
-post_date: 2019-01-13 12:58:37
+post_date: 2019-01-13 13:32:24
 ---
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">In order to observe its wonder, be constantly void. </p>
+<!-- wp:paragraph -->
+<p>In order to observe its wonder, be constantly void. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This means guarding the void. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>A sage therefore manages all affairs through non-action. <br>
 This means being natural. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This means guarding the void. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -36,10 +36,6 @@ He empties the mind and fills the abdomen. <br>
 "He empties the mind" is having no evil thoughts. "Fills the <br>
 abdomen" is blocking breath and cultivating tranquillity. </p>
 <!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="http://www.gnosticmuse.com/wp-content/uploads/E-11-3-BlueTq.jpg" alt=""/></figure>
-<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>TAO is void, yet it is used. <br>
